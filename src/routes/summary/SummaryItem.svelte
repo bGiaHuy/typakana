@@ -20,6 +20,7 @@
 		class="summary-item"
 		class:hiragana={isHiragana(item.kana)}
 		class:katakana={isKatakana(item.kana)}
+		class:number={!isHiragana(item.kana) && !isKatakana(item.kana)}
 		class:fill
 		role="img"
 		tabindex="0"
@@ -118,7 +119,11 @@
 		}
 		&.katakana {
 			background: var(--secondary-accent-color);
-			color: var(--text-color-on-secondary-accent-color);
+			color: var(--secondary-accent-color);
+		}
+		&.number {
+			background: #3b82f6;
+			color: #ffffff;
 		}
 	}
 
@@ -131,8 +136,13 @@
 			border-color: var(--secondary-accent-color);
 			color: var(--secondary-accent-color);
 		}
+		&.number {
+			border-color: #3b82f6;
+			color: #3b82f6;
+		}
 		&.hiragana,
-		&.katakana {
+		&.katakana,
+		&.number {
 			&:focus-visible {
 				color: var(--focus-color);
 				border-color: var(--focus-color);

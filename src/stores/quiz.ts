@@ -1,8 +1,9 @@
 import { shuffleArray } from "$/lib/random"
-import type { Readable } from "svelte/store"
+import { get, type Readable } from "svelte/store"
 import { dictionary as dictionaryStore } from "./dictionary"
 import { persistent } from "$/lib/persistent"
 import { settings } from "./settings"
+import { gameConfig } from "./game-config"
 
 export interface QuizItem {
 	kana: string
@@ -28,11 +29,14 @@ function createQuizItem(kana: string, fontFamily: string): QuizItem {
 	return { kana, assignedFont }
 }
 
-function createQuiz(dictionary: string[], fontFamily: string): Quiz {
+function createQuiz(
+	dictionary: string[],
+	fontFamily: string,
+	shouldShuffle: boolean = true
+): Quiz {
+	const items = shouldShuffle ? shuffleArray(dictionary) : [...dictionary]
 	return {
-		unquizzed: shuffleArray(dictionary).map((kana) =>
-			createQuizItem(kana, fontFamily)
-		),
+		unquizzed: items.map((kana) => createQuizItem(kana, fontFamily)),
 		quizzed: []
 	}
 }
@@ -40,8 +44,9 @@ function createQuiz(dictionary: string[], fontFamily: string): Quiz {
 export interface QuizStore extends Readable<Quiz> {
 	insert(index: number, item: QuizItem): void
 	pop(callback: (item: QuizItem) => QuizItem): void
-	reset(): void
+	reset(customDictionary?: string[]): void
 	resetWithKanas(kanas: string[]): void
+	shuffle(): void
 	updateFonts(): void
 }
 
@@ -92,16 +97,27 @@ export function createQuizStore(): QuizStore {
 				quizzed: [...quizzed, callback(unquizzed[0])]
 			}))
 		},
-		reset() {
-			set(createQuiz(dictionary, currentFontFamily))
+		reset(customDictionary) {
+			const dict =
+				customDictionary && customDictionary.length > 0
+					? customDictionary
+					: get(dictionaryStore)
+			const shouldShuffle = get(gameConfig).shuffleQuestions ?? true
+			set(createQuiz(dict, currentFontFamily, shouldShuffle))
 		},
 		resetWithKanas(kanas) {
+			const shouldShuffle = get(gameConfig).shuffleQuestions ?? true
+			const items = shouldShuffle ? shuffleArray(kanas) : [...kanas]
 			set({
-				unquizzed: shuffleArray(kanas).map((kana) =>
-					createQuizItem(kana, currentFontFamily)
-				),
+				unquizzed: items.map((kana) => createQuizItem(kana, currentFontFamily)),
 				quizzed: []
 			})
+		},
+		shuffle() {
+			update(({ unquizzed, ...rest }) => ({
+				...rest,
+				unquizzed: shuffleArray(unquizzed)
+			}))
 		},
 		updateFonts() {
 			update(({ unquizzed, quizzed }) => ({

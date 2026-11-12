@@ -4,7 +4,7 @@ import { derived } from "svelte/store"
 export interface SessionHistory {
 	id: string
 	timestamp: number
-	kanaType: "hiragana" | "katakana" | "both"
+	kanaType: "hiragana" | "katakana" | "both" | "numbers" | "vocab"
 	accuracy: number
 	totalAnswered: number
 	duration: number

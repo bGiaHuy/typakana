@@ -10,6 +10,7 @@ import {
 import { sleep } from "$/lib/util"
 import { toHiragana } from "wanakana"
 import { audioSprite } from "$/stores/audio-sprite"
+import { vocabPromptSpeechMap } from "./vocabulary"
 
 export const loadProgressSound = createPreloader(
 	["audio/drop_002.ogg", "audio/drop_002.mp3"],
@@ -257,7 +258,18 @@ export async function playKanaSound(kana: string) {
 		const spriteEntry = findAudioSpriteEntry(kana)
 
 		if (!spriteEntry) {
-			console.warn(`No audio sprite entry found for kana: ${kana}`)
+			if (typeof window !== "undefined" && "speechSynthesis" in window) {
+				try {
+					window.speechSynthesis.cancel()
+					const textToSpeak = vocabPromptSpeechMap.get(kana) ?? kana
+					const utterance = new SpeechSynthesisUtterance(textToSpeak)
+					utterance.lang = "ja-JP"
+					utterance.rate = 0.9
+					window.speechSynthesis.speak(utterance)
+				} catch {
+					// ignore speech synthesis error
+				}
+			}
 			return
 		}
 

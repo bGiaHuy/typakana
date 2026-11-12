@@ -2,7 +2,7 @@
 	import Header from "./Header.svelte"
 	import Button from "$/components/Button.svelte"
 	import Icon from "$/components/MaterialIcon.svelte"
-	import { mdiArrowRight } from "@mdi/js"
+	import { mdiArrowRight, mdiNumeric, mdiTranslate } from "@mdi/js"
 
 	interface Props {
 		data: { stargazers: number }
@@ -20,13 +20,25 @@
 <section class="content-padding">
 	<div class="content-width center">
 		<p>
-			Type Kana is a quiz app to help you learn hiragana and katakana, the
-			Japanese syllabaries.
+			Type Kana is a quiz app to help you learn hiragana, katakana, Japanese
+			counting numbers, and Japanese vocabulary (từ vựng Bài 1–3 sang tiếng
+			Việt).
 		</p>
 
 		<div class="buttons">
-			<Button href="/setup">
-				Start
+			<Button href="/speaking">Luyện Speaking JPD113 (theo ảnh)</Button>
+			<Button href="/reading">Luyện đọc Romaji</Button>
+			<Button href="/kanji">Luyện Kanji (Bài 1–3)</Button>
+			<Button href="/setup?mode=vocab">
+				Luyện Từ vựng (Bài 1–3)
+				<Icon size="1.25em" path={mdiTranslate} />
+			</Button>
+			<Button href="/setup?mode=numbers" style="outline">
+				Luyện Số đếm
+				<Icon size="1.25em" path={mdiNumeric} />
+			</Button>
+			<Button href="/setup?mode=kana" style="outline">
+				Luyện Bảng Kana
 				<Icon size="1.25em" path={mdiArrowRight} />
 			</Button>
 		</div>
@@ -39,6 +51,7 @@
 		gap: 1em;
 		justify-content: center;
 		flex-wrap: wrap;
+		margin-top: 1.5em;
 	}
 
 	* :global(.button .svg-icon) {

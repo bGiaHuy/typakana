@@ -44,6 +44,8 @@
 	class:is-correct={hasCorrectAnswer}
 	class:is-incorrect={hasIncorrectAnswer}
 	class:is-current={isCurrent}
+	class:long-text={kana.length > 2 && kana.length <= 8}
+	class:extra-long-text={kana.length > 8}
 	bind:this={element}
 	style="font-family: {currentFont}, sans-serif; font-weight: 400;"
 >
@@ -62,6 +64,19 @@
 		line-height: 1.2;
 		position: relative;
 		margin-top: 0.5em;
+		text-align: center;
+
+		&.long-text {
+			font-size: 2.3em;
+		}
+
+		&.extra-long-text {
+			font-size: 1.6em;
+			white-space: normal;
+			max-width: 90vw;
+			margin-left: auto;
+			margin-right: auto;
+		}
 	}
 
 	.furigana {

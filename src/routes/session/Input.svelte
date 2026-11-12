@@ -3,6 +3,7 @@
 	import Icon from "$/components/MaterialIcon.svelte"
 	import { settings } from "$/stores/settings"
 	import { getAnswers, isCorrectAnswer } from "$/lib/answer"
+	import { vocabPromptAnswersMap } from "$/lib/vocabulary"
 
 	interface Props {
 		input?: string
@@ -20,13 +21,34 @@
 
 	const WHITESPACE = /^\s+$/
 
+	let feedback = $state<{ answer: string; expected: string } | null>(null)
+	let composing = false
+
+	$effect(() => {
+		currentKana
+		feedback = null
+	})
+
 	let blocked = false
 	let shakeAnimationPlaying = $state(false)
 
 	function handleSubmit() {
+		if (composing) return
+		if (feedback) {
+			const answer = feedback.answer
+			feedback = null
+			onsubmit?.({ input: answer })
+			input = ""
+			return
+		}
 		if (input === "") return
 
 		const isCorrect = currentKana ? isCorrectAnswer(input, currentKana) : false
+
+		if (!isCorrect && currentKana && vocabPromptAnswersMap.has(currentKana)) {
+			feedback = { answer: input, expected: getAnswers(currentKana).join(" / ") }
+			return
+		}
 
 		if (!isCorrect) {
 			if (blocked) return
@@ -54,28 +76,46 @@
 		return event.isComposing || composingInputTypes.includes(event.inputType)
 	}
 
+	let answers = $derived(currentKana ? getAnswers(currentKana) : [])
+	let allowsSpaces = $derived(answers.some((a) => a.includes(" ")))
+	let isVietnameseExpected = $derived(
+		answers.some((a) =>
+			/[àáạảãâầấậẩẫăằắặẳẵèéẹẻẽêềếệểễìíịỉĩòóọỏõôồốộổỗơờớợởỡùúụủũưừứựửữỳýỵỷỹđ\s]/i.test(
+				a
+			)
+		)
+	)
+
 	function handleInput(
 		event: InputEvent & { currentTarget: EventTarget & HTMLInputElement }
 	) {
-		if (isCompositionEvent(event)) return
+		if (feedback || composing || isCompositionEvent(event)) return
+		// Vietnamese tone-insensitive matches can occur before Telex/VNI finishes the word.
+		if (isVietnameseExpected) return
 		if (!currentKana) return
 		if (event.data === null) return // control key was pressed
 
-		// remove any excess spaces from string
-		input = input.trim()
+		if (!allowsSpaces) {
+			input = input.trim()
+		}
 
-		if (WHITESPACE.test(event.data)) {
-			// space was pressed
+		if (WHITESPACE.test(event.data) && !allowsSpaces) {
+			// space was pressed in single-word mode
 			handleSubmit()
 			return
 		}
 
-		const answers = getAnswers(currentKana)
 		if (
-			($settings.autoCommit !== "disabled" &&
-				isCorrectAnswer(input, currentKana)) ||
-			($settings.autoCommit === "strict" &&
-				!answers.some((answer) => answer.startsWith(input)))
+			$settings.autoCommit !== "disabled" &&
+			isCorrectAnswer(input, currentKana)
+		) {
+			handleSubmit()
+		} else if (
+			$settings.autoCommit === "strict" &&
+			!isVietnameseExpected &&
+			!answers.some((answer) =>
+				answer.toLowerCase().startsWith(input.toLowerCase())
+			)
 		) {
 			handleSubmit()
 		}
@@ -95,16 +135,24 @@
 		type="text"
 		class="text-field"
 		bind:value={input}
+		readonly={feedback !== null}
+		oncompositionstart={() => (composing = true)}
+		oncompositionend={() => (composing = false)}
+		onkeydown={(event) => {
+			if (event.key !== "Enter") return
+			event.preventDefault()
+			if (!event.isComposing && event.keyCode !== 229 && !event.repeat) handleSubmit()
+		}}
 		oninput={handleInput as (e: Event) => void}
-		placeholder="your answer"
-		lang="ja"
+		placeholder={isVietnameseExpected ? "nhập nghĩa tiếng Việt" : "your answer"}
+		lang={isVietnameseExpected ? "vi" : "ja"}
 		autocapitalize="none"
 		autocomplete="off"
 		autocorrect="off"
 		spellcheck={false}
 		bind:this={inputElement}
 	/>
-	{#if $settings.autoCommit === "disabled"}
+	{#if feedback || isVietnameseExpected || $settings.autoCommit === "disabled"}
 		<button type="submit" class="button" title="Submit">
 			<Icon size="1em" path={mdiChevronRight} ariaHidden={true} />
 		</button>
@@ -124,6 +172,9 @@
 		</button>
 	{/if}
 </form>
+{#if feedback}
+	<p class="content-width" role="status">Đáp án đúng: <strong>{feedback.expected}</strong>. Nhấn Enter để tiếp tục.</p>
+{/if}
 
 <style lang="postcss">
 	.answer-input {

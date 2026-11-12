@@ -8,3 +8,10 @@ node_modules
 /.vercel_build_output
 .vercel
 /.vscode/settings.json
+
+# Local study source; the app uses its prepared content and cropped assets.
+/READING JPD113.pdf
+__pycache__/
+.env
+.env.*
+!.env.example

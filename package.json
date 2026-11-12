@@ -11,6 +11,7 @@
 	"scripts": {
 		"build": "vite build",
 		"check": "svelte-check",
+		"test": "node --experimental-strip-types --test src/lib/kanji/quiz.test.ts src/routes/session/Input.test.mjs src/lib/speaking/session.test.ts",
 		"dev": "vite dev",
 		"format": "prettier --write . && eslint . --fix",
 		"lint": "prettier --check . && eslint .",

@@ -1,5 +1,11 @@
 <script lang="ts">
-	import { mdiCogOutline, mdiArrowLeft, mdiRestart, mdiCheck } from "@mdi/js"
+	import {
+		mdiCogOutline,
+		mdiArrowLeft,
+		mdiRestart,
+		mdiCheck,
+		mdiShuffle
+	} from "@mdi/js"
 	import Icon from "$/components/MaterialIcon.svelte"
 	import { onMount } from "svelte"
 	import { loadDropSound, loadVictorySound, playDropSound } from "$/lib/sound"
@@ -11,6 +17,7 @@
 	let { onmenuEvent }: Props = $props()
 
 	let isRestartAnimationPlaying = $state(false)
+	let isShuffleAnimationPlaying = $state(false)
 
 	function menuEvent(type: string) {
 		onmenuEvent?.({ type })
@@ -39,6 +46,29 @@
 	>
 		<span class="tilt-animation-container">
 			<Icon path={mdiCogOutline} />
+		</span>
+	</button>
+
+	<button
+		type="button"
+		class="button tilt"
+		class:shuffle-animation-playing={isShuffleAnimationPlaying}
+		title="Xáo trộn thứ tự câu hỏi (Shuffle questions)"
+		onclick={() => {
+			menuEvent("shuffle")
+			playDropSound()
+			isShuffleAnimationPlaying = true
+		}}
+	>
+		<span class="tilt-animation-container">
+			<span
+				class="shuffle-animation-container"
+				onanimationend={() => {
+					isShuffleAnimationPlaying = false
+				}}
+			>
+				<Icon path={mdiShuffle} />
+			</span>
 		</span>
 	</button>
 
@@ -148,5 +178,21 @@
 
 	.button.reset-animation-playing .reset-animation-container {
 		animation: 500ms counter-clockwise-turn var(--standard-curve);
+	}
+
+	@keyframes shuffle-twist {
+		0% {
+			transform: scale(1) rotate(0deg);
+		}
+		40% {
+			transform: scale(1.25) rotate(180deg);
+		}
+		100% {
+			transform: scale(1) rotate(360deg);
+		}
+	}
+
+	.button.shuffle-animation-playing .shuffle-animation-container {
+		animation: 500ms shuffle-twist var(--standard-curve);
 	}
 </style>

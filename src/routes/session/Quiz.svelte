@@ -8,14 +8,12 @@
 
 	interface Props {
 		unquizzed: QuizItem[]
-		quizzed: QuizItem[]
 		input?: string
 		lastQuizzedElement?: HTMLDivElement
 	}
 
 	let {
 		unquizzed,
-		quizzed,
 		input = "",
 		lastQuizzedElement = $bindable()
 	}: Props = $props()
@@ -33,41 +31,20 @@
 			return false
 		}
 	}
-	let queue = $derived(unquizzed.slice(1))
-	let quizzedSlice = $derived([...quizzed].reverse().slice(0, 15))
 	let currentItem = $derived(unquizzed[0])
 	let errorMarkerVisible = $derived(showErrorMarker(currentItem?.kana, input))
 </script>
 
 <section class="quiz">
-	<div class="kana-queue">
-		{#each [...queue].slice(0, 15) as { kana, assignedFont }, i (i)}
-			<QuizItemComponent {kana} {assignedFont} />
-		{/each}
-	</div>
 	<div class="current-kana">
 		{#if currentItem}
 			<QuizItemComponent
 				kana={currentItem.kana}
 				assignedFont={currentItem.assignedFont}
 				isCurrent={true}
+				bind:element={lastQuizzedElement}
 			/>
 		{/if}
-	</div>
-	<div class="kana-quizzed">
-		{#each quizzedSlice as { kana, answered, isCorrectAnswer, assignedFont }, i (i)}
-			{#if i !== 0}
-				<QuizItemComponent {kana} {answered} {isCorrectAnswer} {assignedFont} />
-			{:else}
-				<QuizItemComponent
-					{kana}
-					{answered}
-					{isCorrectAnswer}
-					{assignedFont}
-					bind:element={lastQuizzedElement}
-				/>
-			{/if}
-		{/each}
 	</div>
 	<div
 		class="error-marker"
@@ -81,23 +58,14 @@
 <style lang="postcss">
 	.quiz {
 		display: flex;
-		overflow-x: hidden;
-		flex-direction: row-reverse;
-		padding: 2em 0 3em;
+		justify-content: center;
+		padding: 2em 1em 3em;
 		position: relative;
-	}
-	.kana-quizzed,
-	.kana-queue {
-		display: flex;
-		flex-wrap: nowrap;
-		flex: 1 1 0;
-		min-width: 0;
 	}
 	.current-kana {
 		position: relative;
-	}
-	.kana-quizzed {
-		flex-direction: row-reverse;
+		min-width: 0;
+		max-width: 100%;
 	}
 
 	.error-marker {
@@ -114,11 +82,5 @@
 		&.visible {
 			opacity: 1;
 		}
-	}
-
-	.quiz,
-	.kana-queue,
-	.kana-quizzed {
-		gap: 1em;
 	}
 </style>

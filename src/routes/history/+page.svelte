@@ -66,6 +66,7 @@
 						class="kana-card"
 						class:hiragana={isHiragana(kana)}
 						class:katakana={isKatakana(kana)}
+						class:number={!isHiragana(kana) && !isKatakana(kana)}
 					>
 						<span class="kana" lang="ja-JP" translate="no">{kana}</span>
 						<span class="error-count">
@@ -116,6 +117,8 @@
 											class="kana-item"
 											class:hiragana={isHiragana(item.kana)}
 											class:katakana={isKatakana(item.kana)}
+											class:number={!isHiragana(item.kana) &&
+												!isKatakana(item.kana)}
 											title="{item.incorrectTimes} error(s)"
 											lang="ja-JP"
 											translate="no"
@@ -208,6 +211,14 @@
 
 			&:hover {
 				border-color: var(--secondary-accent-color);
+			}
+		}
+
+		&.number {
+			border-color: #3b82f6;
+
+			&:hover {
+				border-color: #3b82f6;
 			}
 		}
 	}
@@ -339,6 +350,11 @@
 		&.katakana {
 			border-color: var(--secondary-accent-color);
 			color: var(--secondary-accent-color);
+		}
+
+		&.number {
+			border-color: #3b82f6;
+			color: #3b82f6;
 		}
 	}
 

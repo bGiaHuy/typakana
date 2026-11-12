@@ -1,0 +1,7419 @@
+{
+  "source": "JPD113 - Speaking (Q&A) (7).pdf · AnhNH88",
+  "scenes": [
+    {
+      "id": "p011-1",
+      "page": 11,
+      "title": "オリビア",
+      "category": "intro",
+      "image": "/speaking/p011-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p011-2",
+      "page": 11,
+      "title": "エリザベス",
+      "category": "intro",
+      "image": "/speaking/p011-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p012-1",
+      "page": 12,
+      "title": "マイケル",
+      "category": "intro",
+      "image": "/speaking/p012-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p012-2",
+      "page": 12,
+      "title": "カルロス",
+      "category": "intro",
+      "image": "/speaking/p012-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p013-1",
+      "page": 13,
+      "title": "ジュリア",
+      "category": "intro",
+      "image": "/speaking/p013-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p013-2",
+      "page": 13,
+      "title": "ナタリア",
+      "category": "intro",
+      "image": "/speaking/p013-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p014-1",
+      "page": 14,
+      "title": "フェリシア",
+      "category": "intro",
+      "image": "/speaking/p014-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p014-2",
+      "page": 14,
+      "title": "クリスティナ",
+      "category": "intro",
+      "image": "/speaking/p014-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p015-1",
+      "page": 15,
+      "title": "サントス",
+      "category": "intro",
+      "image": "/speaking/p015-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p015-2",
+      "page": 15,
+      "title": "フジハラ",
+      "category": "intro",
+      "image": "/speaking/p015-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p019-1",
+      "page": 19,
+      "title": "チルポン",
+      "category": "dates",
+      "image": "/speaking/p019-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p019-2",
+      "page": 19,
+      "title": "アベール",
+      "category": "dates",
+      "image": "/speaking/p019-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p020-1",
+      "page": 20,
+      "title": "アンジェラ",
+      "category": "dates",
+      "image": "/speaking/p020-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p020-2",
+      "page": 20,
+      "title": "ベッキー",
+      "category": "dates",
+      "image": "/speaking/p020-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p021-1",
+      "page": 21,
+      "title": "オリヴィア",
+      "category": "dates",
+      "image": "/speaking/p021-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p021-2",
+      "page": 21,
+      "title": "ルシアナ",
+      "category": "dates",
+      "image": "/speaking/p021-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p022-1",
+      "page": 22,
+      "title": "ジュリアン",
+      "category": "dates",
+      "image": "/speaking/p022-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p022-2",
+      "page": 22,
+      "title": "レオナルド",
+      "category": "dates",
+      "image": "/speaking/p022-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p023-1",
+      "page": 23,
+      "title": "ロサリンド",
+      "category": "dates",
+      "image": "/speaking/p023-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p023-2",
+      "page": 23,
+      "title": "アナスタシア",
+      "category": "dates",
+      "image": "/speaking/p023-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p024-0",
+      "page": 24,
+      "title": "まつり",
+      "category": "dates",
+      "image": "/speaking/p024-0.webp",
+      "width": 475,
+      "height": 664
+    },
+    {
+      "id": "p024-1",
+      "page": 24,
+      "title": "パーティー",
+      "category": "dates",
+      "image": "/speaking/p024-1.webp",
+      "width": 475,
+      "height": 664
+    },
+    {
+      "id": "p024-2",
+      "page": 24,
+      "title": "はなび",
+      "category": "dates",
+      "image": "/speaking/p024-2.webp",
+      "width": 475,
+      "height": 664
+    },
+    {
+      "id": "p024-3",
+      "page": 24,
+      "title": "ピクニック",
+      "category": "dates",
+      "image": "/speaking/p024-3.webp",
+      "width": 475,
+      "height": 664
+    },
+    {
+      "id": "p025-0",
+      "page": 25,
+      "title": "おはなみ",
+      "category": "dates",
+      "image": "/speaking/p025-0.webp",
+      "width": 633,
+      "height": 664
+    },
+    {
+      "id": "p025-1",
+      "page": 25,
+      "title": "おべんとう",
+      "category": "dates",
+      "image": "/speaking/p025-1.webp",
+      "width": 634,
+      "height": 664
+    },
+    {
+      "id": "p025-2",
+      "page": 25,
+      "title": "バーベキュー",
+      "category": "dates",
+      "image": "/speaking/p025-2.webp",
+      "width": 633,
+      "height": 664
+    },
+    {
+      "id": "p026-calendar",
+      "page": 26,
+      "title": "Lịch sự kiện",
+      "category": "dates",
+      "image": "/speaking/p026-calendar.webp",
+      "width": 1400,
+      "height": 466
+    },
+    {
+      "id": "p027-week",
+      "page": 27,
+      "title": "Lịch tháng 7",
+      "category": "dates",
+      "image": "/speaking/p027-week.webp",
+      "width": 1400,
+      "height": 509
+    },
+    {
+      "id": "p028-week",
+      "page": 28,
+      "title": "Lịch tháng 4",
+      "category": "dates",
+      "image": "/speaking/p028-week.webp",
+      "width": 1400,
+      "height": 509
+    },
+    {
+      "id": "p029-week",
+      "page": 29,
+      "title": "Lịch tháng 9",
+      "category": "dates",
+      "image": "/speaking/p029-week.webp",
+      "width": 1400,
+      "height": 509
+    },
+    {
+      "id": "p033-building",
+      "page": 33,
+      "title": "Sơ đồ tầng",
+      "category": "floors",
+      "image": "/speaking/p033-building.webp",
+      "width": 1309,
+      "height": 1000
+    },
+    {
+      "id": "p034-building",
+      "page": 34,
+      "title": "Sơ đồ tầng",
+      "category": "floors",
+      "image": "/speaking/p034-building.webp",
+      "width": 1309,
+      "height": 1000
+    },
+    {
+      "id": "p035-building",
+      "page": 35,
+      "title": "Sơ đồ tầng",
+      "category": "floors",
+      "image": "/speaking/p035-building.webp",
+      "width": 1180,
+      "height": 911
+    },
+    {
+      "id": "p036-building",
+      "page": 36,
+      "title": "Sơ đồ tầng",
+      "category": "floors",
+      "image": "/speaking/p036-building.webp",
+      "width": 1180,
+      "height": 911
+    },
+    {
+      "id": "p038-object-0",
+      "page": 38,
+      "title": "Đồ vật 1",
+      "category": "objects",
+      "image": "/speaking/p038-object-0.webp",
+      "width": 240,
+      "height": 214
+    },
+    {
+      "id": "p038-object-1",
+      "page": 38,
+      "title": "Đồ vật 2",
+      "category": "objects",
+      "image": "/speaking/p038-object-1.webp",
+      "width": 240,
+      "height": 214
+    },
+    {
+      "id": "p038-object-2",
+      "page": 38,
+      "title": "Đồ vật 3",
+      "category": "objects",
+      "image": "/speaking/p038-object-2.webp",
+      "width": 260,
+      "height": 214
+    },
+    {
+      "id": "p038-object-3",
+      "page": 38,
+      "title": "Đồ vật 4",
+      "category": "objects",
+      "image": "/speaking/p038-object-3.webp",
+      "width": 200,
+      "height": 214
+    },
+    {
+      "id": "p038-object-4",
+      "page": 38,
+      "title": "Đồ vật 5",
+      "category": "objects",
+      "image": "/speaking/p038-object-4.webp",
+      "width": 220,
+      "height": 214
+    },
+    {
+      "id": "p038-object-5",
+      "page": 38,
+      "title": "Đồ vật 6",
+      "category": "objects",
+      "image": "/speaking/p038-object-5.webp",
+      "width": 260,
+      "height": 214
+    },
+    {
+      "id": "p038-object-6",
+      "page": 38,
+      "title": "Đồ vật 7",
+      "category": "objects",
+      "image": "/speaking/p038-object-6.webp",
+      "width": 260,
+      "height": 213
+    },
+    {
+      "id": "p038-object-7",
+      "page": 38,
+      "title": "Đồ vật 8",
+      "category": "objects",
+      "image": "/speaking/p038-object-7.webp",
+      "width": 180,
+      "height": 213
+    },
+    {
+      "id": "p038-object-8",
+      "page": 38,
+      "title": "Đồ vật 9",
+      "category": "objects",
+      "image": "/speaking/p038-object-8.webp",
+      "width": 220,
+      "height": 213
+    },
+    {
+      "id": "p038-object-9",
+      "page": 38,
+      "title": "Đồ vật 10",
+      "category": "objects",
+      "image": "/speaking/p038-object-9.webp",
+      "width": 200,
+      "height": 213
+    },
+    {
+      "id": "p038-object-10",
+      "page": 38,
+      "title": "Đồ vật 11",
+      "category": "objects",
+      "image": "/speaking/p038-object-10.webp",
+      "width": 160,
+      "height": 213
+    },
+    {
+      "id": "p038-object-11",
+      "page": 38,
+      "title": "Đồ vật 12",
+      "category": "objects",
+      "image": "/speaking/p038-object-11.webp",
+      "width": 160,
+      "height": 213
+    },
+    {
+      "id": "p038-object-12",
+      "page": 38,
+      "title": "Đồ vật 13",
+      "category": "objects",
+      "image": "/speaking/p038-object-12.webp",
+      "width": 260,
+      "height": 203
+    },
+    {
+      "id": "p038-object-13",
+      "page": 38,
+      "title": "Đồ vật 14",
+      "category": "objects",
+      "image": "/speaking/p038-object-13.webp",
+      "width": 280,
+      "height": 203
+    },
+    {
+      "id": "p038-object-14",
+      "page": 38,
+      "title": "Đồ vật 15",
+      "category": "objects",
+      "image": "/speaking/p038-object-14.webp",
+      "width": 240,
+      "height": 203
+    },
+    {
+      "id": "p038-object-15",
+      "page": 38,
+      "title": "Đồ vật 16",
+      "category": "objects",
+      "image": "/speaking/p038-object-15.webp",
+      "width": 120,
+      "height": 237
+    },
+    {
+      "id": "p038-object-16",
+      "page": 38,
+      "title": "Đồ vật 17",
+      "category": "objects",
+      "image": "/speaking/p038-object-16.webp",
+      "width": 160,
+      "height": 237
+    },
+    {
+      "id": "p038-object-17",
+      "page": 38,
+      "title": "Đồ vật 18",
+      "category": "objects",
+      "image": "/speaking/p038-object-17.webp",
+      "width": 150,
+      "height": 237
+    },
+    {
+      "id": "p038-object-18",
+      "page": 38,
+      "title": "Đồ vật 19",
+      "category": "objects",
+      "image": "/speaking/p038-object-18.webp",
+      "width": 180,
+      "height": 237
+    },
+    {
+      "id": "p040-0",
+      "page": 40,
+      "title": "Gọi món 1",
+      "category": "ordering",
+      "image": "/speaking/p040-0.webp",
+      "width": 880,
+      "height": 619
+    },
+    {
+      "id": "p040-1",
+      "page": 40,
+      "title": "Gọi món 2",
+      "category": "ordering",
+      "image": "/speaking/p040-1.webp",
+      "width": 880,
+      "height": 619
+    },
+    {
+      "id": "p041-0",
+      "page": 41,
+      "title": "Gọi món 1",
+      "category": "ordering",
+      "image": "/speaking/p041-0.webp",
+      "width": 880,
+      "height": 619
+    },
+    {
+      "id": "p041-1",
+      "page": 41,
+      "title": "Gọi món 2",
+      "category": "ordering",
+      "image": "/speaking/p041-1.webp",
+      "width": 880,
+      "height": 619
+    },
+    {
+      "id": "p045-1",
+      "page": 45,
+      "title": "Đồ vật / món ăn 1",
+      "category": "shopping",
+      "image": "/speaking/p045-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p045-2",
+      "page": 45,
+      "title": "Đồ vật / món ăn 2",
+      "category": "shopping",
+      "image": "/speaking/p045-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p046-1",
+      "page": 46,
+      "title": "Đồ vật / món ăn 3",
+      "category": "shopping",
+      "image": "/speaking/p046-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p046-2",
+      "page": 46,
+      "title": "Đồ vật / món ăn 4",
+      "category": "shopping",
+      "image": "/speaking/p046-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p047-1",
+      "page": 47,
+      "title": "Đồ vật / món ăn 5",
+      "category": "shopping",
+      "image": "/speaking/p047-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p047-2",
+      "page": 47,
+      "title": "Đồ vật / món ăn 6",
+      "category": "shopping",
+      "image": "/speaking/p047-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p048-1",
+      "page": 48,
+      "title": "Đồ vật / món ăn 7",
+      "category": "shopping",
+      "image": "/speaking/p048-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p048-2",
+      "page": 48,
+      "title": "Đồ vật / món ăn 8",
+      "category": "shopping",
+      "image": "/speaking/p048-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p049-1",
+      "page": 49,
+      "title": "Đồ vật / món ăn 9",
+      "category": "shopping",
+      "image": "/speaking/p049-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p049-2",
+      "page": 49,
+      "title": "Đồ vật / món ăn 10",
+      "category": "shopping",
+      "image": "/speaking/p049-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p050-1",
+      "page": 50,
+      "title": "Đồ vật / món ăn 11",
+      "category": "shopping",
+      "image": "/speaking/p050-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p050-2",
+      "page": 50,
+      "title": "Đồ vật / món ăn 12",
+      "category": "shopping",
+      "image": "/speaking/p050-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p051-1",
+      "page": 51,
+      "title": "Đồ vật / món ăn 13",
+      "category": "shopping",
+      "image": "/speaking/p051-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p051-2",
+      "page": 51,
+      "title": "Đồ vật / món ăn 14",
+      "category": "shopping",
+      "image": "/speaking/p051-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p052-1",
+      "page": 52,
+      "title": "Đồ vật / món ăn 15",
+      "category": "shopping",
+      "image": "/speaking/p052-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p052-2",
+      "page": 52,
+      "title": "Đồ vật / món ăn 16",
+      "category": "shopping",
+      "image": "/speaking/p052-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p053-1",
+      "page": 53,
+      "title": "Đồ vật / món ăn 17",
+      "category": "shopping",
+      "image": "/speaking/p053-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p053-2",
+      "page": 53,
+      "title": "Đồ vật / món ăn 18",
+      "category": "shopping",
+      "image": "/speaking/p053-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p054-1",
+      "page": 54,
+      "title": "Đồ vật / món ăn 19",
+      "category": "shopping",
+      "image": "/speaking/p054-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p054-2",
+      "page": 54,
+      "title": "Đồ vật / món ăn 20",
+      "category": "shopping",
+      "image": "/speaking/p054-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p055-1",
+      "page": 55,
+      "title": "Đồ vật / món ăn 21",
+      "category": "shopping",
+      "image": "/speaking/p055-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p055-2",
+      "page": 55,
+      "title": "Đồ vật / món ăn 22",
+      "category": "shopping",
+      "image": "/speaking/p055-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p056-1",
+      "page": 56,
+      "title": "Đồ vật / món ăn 23",
+      "category": "shopping",
+      "image": "/speaking/p056-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p056-2",
+      "page": 56,
+      "title": "Đồ vật / món ăn 24",
+      "category": "shopping",
+      "image": "/speaking/p056-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p057-1",
+      "page": 57,
+      "title": "Đồ vật / món ăn 25",
+      "category": "shopping",
+      "image": "/speaking/p057-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p057-2",
+      "page": 57,
+      "title": "Đồ vật / món ăn 26",
+      "category": "shopping",
+      "image": "/speaking/p057-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p063-1",
+      "page": 63,
+      "title": "こうえん",
+      "category": "hours",
+      "image": "/speaking/p063-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p063-2",
+      "page": 63,
+      "title": "たいいくかん",
+      "category": "hours",
+      "image": "/speaking/p063-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p064-1",
+      "page": 64,
+      "title": "ケーキや",
+      "category": "hours",
+      "image": "/speaking/p064-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p064-2",
+      "page": 64,
+      "title": "ほんや",
+      "category": "hours",
+      "image": "/speaking/p064-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p065-1",
+      "page": 65,
+      "title": "くつや",
+      "category": "hours",
+      "image": "/speaking/p065-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p065-2",
+      "page": 65,
+      "title": "びょういん",
+      "category": "hours",
+      "image": "/speaking/p065-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p066-1",
+      "page": 66,
+      "title": "ゆうびんきょく",
+      "category": "hours",
+      "image": "/speaking/p066-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p066-2",
+      "page": 66,
+      "title": "スーパー",
+      "category": "hours",
+      "image": "/speaking/p066-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p067-1",
+      "page": 67,
+      "title": "としょかん",
+      "category": "hours",
+      "image": "/speaking/p067-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p067-2",
+      "page": 67,
+      "title": "きっさてん",
+      "category": "hours",
+      "image": "/speaking/p067-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p068-1",
+      "page": 68,
+      "title": "レストラン",
+      "category": "hours",
+      "image": "/speaking/p068-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p068-2",
+      "page": 68,
+      "title": "かいしゃ",
+      "category": "hours",
+      "image": "/speaking/p068-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p069-1",
+      "page": 69,
+      "title": "ひゃくえんショップ",
+      "category": "hours",
+      "image": "/speaking/p069-1.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p069-2",
+      "page": 69,
+      "title": "メイジだいがく",
+      "category": "hours",
+      "image": "/speaking/p069-2.webp",
+      "width": 900,
+      "height": 916
+    },
+    {
+      "id": "p070-restaurant",
+      "page": 70,
+      "title": "ひまわりレストラン",
+      "category": "hours",
+      "image": "/speaking/p070-restaurant.webp",
+      "width": 730,
+      "height": 438
+    },
+    {
+      "id": "p070-hospital",
+      "page": 70,
+      "title": "さくらびょういん",
+      "category": "hours",
+      "image": "/speaking/p070-hospital.webp",
+      "width": 700,
+      "height": 438
+    },
+    {
+      "id": "p070-post",
+      "page": 70,
+      "title": "みどりゆうびんきょく",
+      "category": "hours",
+      "image": "/speaking/p070-post.webp",
+      "width": 740,
+      "height": 450
+    },
+    {
+      "id": "p071-library",
+      "page": 71,
+      "title": "さくらとしょかん",
+      "category": "hours",
+      "image": "/speaking/p071-library.webp",
+      "width": 640,
+      "height": 787
+    },
+    {
+      "id": "p071-hospital",
+      "page": 71,
+      "title": "さくらびょういん",
+      "category": "hours",
+      "image": "/speaking/p071-hospital.webp",
+      "width": 620,
+      "height": 787
+    },
+    {
+      "id": "p072-gym",
+      "page": 72,
+      "title": "わかばたいいくかん",
+      "category": "hours",
+      "image": "/speaking/p072-gym.webp",
+      "width": 700,
+      "height": 889
+    },
+    {
+      "id": "p072-post",
+      "page": 72,
+      "title": "みどりゆうびんきょく",
+      "category": "hours",
+      "image": "/speaking/p072-post.webp",
+      "width": 740,
+      "height": 889
+    },
+    {
+      "id": "p073-0",
+      "page": 73,
+      "title": "はるやすみ",
+      "category": "hours",
+      "image": "/speaking/p073-0.webp",
+      "width": 840,
+      "height": 315
+    },
+    {
+      "id": "p073-1",
+      "page": 73,
+      "title": "なつやすみ",
+      "category": "hours",
+      "image": "/speaking/p073-1.webp",
+      "width": 840,
+      "height": 315
+    },
+    {
+      "id": "p073-2",
+      "page": 73,
+      "title": "ふゆやすみ",
+      "category": "hours",
+      "image": "/speaking/p073-2.webp",
+      "width": 840,
+      "height": 315
+    },
+    {
+      "id": "p073-3",
+      "page": 73,
+      "title": "ホームステイ",
+      "category": "hours",
+      "image": "/speaking/p073-3.webp",
+      "width": 840,
+      "height": 315
+    },
+    {
+      "id": "p078-0",
+      "page": 78,
+      "title": "チン",
+      "category": "actions",
+      "image": "/speaking/p078-0.webp",
+      "width": 420,
+      "height": 676
+    },
+    {
+      "id": "p078-1",
+      "page": 78,
+      "title": "マイク",
+      "category": "actions",
+      "image": "/speaking/p078-1.webp",
+      "width": 420,
+      "height": 676
+    },
+    {
+      "id": "p078-2",
+      "page": 78,
+      "title": "にしかわ",
+      "category": "actions",
+      "image": "/speaking/p078-2.webp",
+      "width": 420,
+      "height": 676
+    },
+    {
+      "id": "p078-3",
+      "page": 78,
+      "title": "かりな",
+      "category": "actions",
+      "image": "/speaking/p078-3.webp",
+      "width": 420,
+      "height": 676
+    },
+    {
+      "id": "p079-0",
+      "page": 79,
+      "title": "エレナ",
+      "category": "actions",
+      "image": "/speaking/p079-0.webp",
+      "width": 620,
+      "height": 754
+    },
+    {
+      "id": "p079-1",
+      "page": 79,
+      "title": "マルコ",
+      "category": "actions",
+      "image": "/speaking/p079-1.webp",
+      "width": 620,
+      "height": 754
+    },
+    {
+      "id": "p079-2",
+      "page": 79,
+      "title": "ケンタ",
+      "category": "actions",
+      "image": "/speaking/p079-2.webp",
+      "width": 620,
+      "height": 754
+    },
+    {
+      "id": "p080-0",
+      "page": 80,
+      "title": "マリア",
+      "category": "actions",
+      "image": "/speaking/p080-0.webp",
+      "width": 620,
+      "height": 754
+    },
+    {
+      "id": "p080-1",
+      "page": 80,
+      "title": "ダニエル",
+      "category": "actions",
+      "image": "/speaking/p080-1.webp",
+      "width": 620,
+      "height": 754
+    },
+    {
+      "id": "p080-2",
+      "page": 80,
+      "title": "ナタリア",
+      "category": "actions",
+      "image": "/speaking/p080-2.webp",
+      "width": 620,
+      "height": 754
+    },
+    {
+      "id": "p081-0",
+      "page": 81,
+      "title": "スコット",
+      "category": "actions",
+      "image": "/speaking/p081-0.webp",
+      "width": 620,
+      "height": 754
+    },
+    {
+      "id": "p081-1",
+      "page": 81,
+      "title": "ジェイミ",
+      "category": "actions",
+      "image": "/speaking/p081-1.webp",
+      "width": 620,
+      "height": 754
+    },
+    {
+      "id": "p081-2",
+      "page": 81,
+      "title": "ハナコ",
+      "category": "actions",
+      "image": "/speaking/p081-2.webp",
+      "width": 620,
+      "height": 754
+    },
+    {
+      "id": "p082-0",
+      "page": 82,
+      "title": "カルロス",
+      "category": "actions",
+      "image": "/speaking/p082-0.webp",
+      "width": 620,
+      "height": 754
+    },
+    {
+      "id": "p082-1",
+      "page": 82,
+      "title": "チン",
+      "category": "actions",
+      "image": "/speaking/p082-1.webp",
+      "width": 620,
+      "height": 754
+    },
+    {
+      "id": "p082-2",
+      "page": 82,
+      "title": "アドリアン",
+      "category": "actions",
+      "image": "/speaking/p082-2.webp",
+      "width": 620,
+      "height": 754
+    },
+    {
+      "id": "p083-0",
+      "page": 83,
+      "title": "ジョン",
+      "category": "actions",
+      "image": "/speaking/p083-0.webp",
+      "width": 620,
+      "height": 754
+    },
+    {
+      "id": "p083-1",
+      "page": 83,
+      "title": "シュミット",
+      "category": "actions",
+      "image": "/speaking/p083-1.webp",
+      "width": 620,
+      "height": 754
+    },
+    {
+      "id": "p083-2",
+      "page": 83,
+      "title": "サントス",
+      "category": "actions",
+      "image": "/speaking/p083-2.webp",
+      "width": 620,
+      "height": 754
+    },
+    {
+      "id": "p084-0",
+      "page": 84,
+      "title": "カタリナ",
+      "category": "destinations",
+      "image": "/speaking/p084-0.webp",
+      "width": 1400,
+      "height": 347
+    },
+    {
+      "id": "p084-1",
+      "page": 84,
+      "title": "カルロス",
+      "category": "destinations",
+      "image": "/speaking/p084-1.webp",
+      "width": 1400,
+      "height": 367
+    },
+    {
+      "id": "p085-0",
+      "page": 85,
+      "title": "ハナコ",
+      "category": "destinations",
+      "image": "/speaking/p085-0.webp",
+      "width": 1400,
+      "height": 347
+    },
+    {
+      "id": "p085-1",
+      "page": 85,
+      "title": "ハヤオ",
+      "category": "destinations",
+      "image": "/speaking/p085-1.webp",
+      "width": 1400,
+      "height": 367
+    },
+    {
+      "id": "p086-0",
+      "page": 86,
+      "title": "エンマ",
+      "category": "destinations",
+      "image": "/speaking/p086-0.webp",
+      "width": 1400,
+      "height": 347
+    },
+    {
+      "id": "p086-1",
+      "page": 86,
+      "title": "エレナ",
+      "category": "destinations",
+      "image": "/speaking/p086-1.webp",
+      "width": 1400,
+      "height": 367
+    },
+    {
+      "id": "p087-0",
+      "page": 87,
+      "title": "ジョン",
+      "category": "destinations",
+      "image": "/speaking/p087-0.webp",
+      "width": 1400,
+      "height": 347
+    },
+    {
+      "id": "p087-1",
+      "page": 87,
+      "title": "ジュン",
+      "category": "destinations",
+      "image": "/speaking/p087-1.webp",
+      "width": 1400,
+      "height": 367
+    },
+    {
+      "id": "p088-0",
+      "page": 88,
+      "title": "ミサキ",
+      "category": "destinations",
+      "image": "/speaking/p088-0.webp",
+      "width": 1400,
+      "height": 347
+    },
+    {
+      "id": "p088-1",
+      "page": 88,
+      "title": "ミゲル",
+      "category": "destinations",
+      "image": "/speaking/p088-1.webp",
+      "width": 1400,
+      "height": 367
+    },
+    {
+      "id": "p090-place-0",
+      "page": 90,
+      "title": "Tổng hợp địa điểm",
+      "category": "places",
+      "image": "/speaking/p090-place-0.webp",
+      "width": 650,
+      "height": 590
+    },
+    {
+      "id": "p091-place-1",
+      "page": 91,
+      "title": "Quán cà phê",
+      "category": "places",
+      "image": "/speaking/p091-place-1.webp",
+      "width": 480,
+      "height": 428
+    },
+    {
+      "id": "p091-place-2",
+      "page": 91,
+      "title": "Tiệm bánh",
+      "category": "places",
+      "image": "/speaking/p091-place-2.webp",
+      "width": 400,
+      "height": 428
+    },
+    {
+      "id": "p091-place-3",
+      "page": 91,
+      "title": "Nhà hàng",
+      "category": "places",
+      "image": "/speaking/p091-place-3.webp",
+      "width": 480,
+      "height": 428
+    },
+    {
+      "id": "p092-place-4",
+      "page": 92,
+      "title": "Tiệm giày",
+      "category": "places",
+      "image": "/speaking/p092-place-4.webp",
+      "width": 390,
+      "height": 360
+    },
+    {
+      "id": "p092-place-5",
+      "page": 92,
+      "title": "Cửa hàng 100 yên",
+      "category": "places",
+      "image": "/speaking/p092-place-5.webp",
+      "width": 350,
+      "height": 360
+    },
+    {
+      "id": "p092-place-6",
+      "page": 92,
+      "title": "Nhà sách",
+      "category": "places",
+      "image": "/speaking/p092-place-6.webp",
+      "width": 340,
+      "height": 360
+    },
+    {
+      "id": "p092-place-7",
+      "page": 92,
+      "title": "Siêu thị",
+      "category": "places",
+      "image": "/speaking/p092-place-7.webp",
+      "width": 620,
+      "height": 360
+    },
+    {
+      "id": "p092-place-8",
+      "page": 92,
+      "title": "Trung tâm mua sắm",
+      "category": "places",
+      "image": "/speaking/p092-place-8.webp",
+      "width": 530,
+      "height": 405
+    },
+    {
+      "id": "p092-place-9",
+      "page": 92,
+      "title": "Cửa hàng tiện lợi",
+      "category": "places",
+      "image": "/speaking/p092-place-9.webp",
+      "width": 400,
+      "height": 416
+    },
+    {
+      "id": "p093-place-10",
+      "page": 93,
+      "title": "Công viên",
+      "category": "places",
+      "image": "/speaking/p093-place-10.webp",
+      "width": 590,
+      "height": 338
+    },
+    {
+      "id": "p093-place-11",
+      "page": 93,
+      "title": "Công viên",
+      "category": "places",
+      "image": "/speaking/p093-place-11.webp",
+      "width": 420,
+      "height": 462
+    },
+    {
+      "id": "p093-place-12",
+      "page": 93,
+      "title": "Nhà thể chất",
+      "category": "places",
+      "image": "/speaking/p093-place-12.webp",
+      "width": 580,
+      "height": 439
+    },
+    {
+      "id": "p093-place-13",
+      "page": 93,
+      "title": "Trường học",
+      "category": "places",
+      "image": "/speaking/p093-place-13.webp",
+      "width": 500,
+      "height": 293
+    },
+    {
+      "id": "p094-place-14",
+      "page": 94,
+      "title": "Bệnh viện",
+      "category": "places",
+      "image": "/speaking/p094-place-14.webp",
+      "width": 410,
+      "height": 304
+    },
+    {
+      "id": "p094-place-15",
+      "page": 94,
+      "title": "Thư viện",
+      "category": "places",
+      "image": "/speaking/p094-place-15.webp",
+      "width": 430,
+      "height": 293
+    },
+    {
+      "id": "p094-place-16",
+      "page": 94,
+      "title": "Bưu điện",
+      "category": "places",
+      "image": "/speaking/p094-place-16.webp",
+      "width": 390,
+      "height": 383
+    },
+    {
+      "id": "p094-place-17",
+      "page": 94,
+      "title": "Công ty",
+      "category": "places",
+      "image": "/speaking/p094-place-17.webp",
+      "width": 300,
+      "height": 360
+    },
+    {
+      "id": "p095-place-18",
+      "page": 95,
+      "title": "Nhà sách",
+      "category": "places",
+      "image": "/speaking/p095-place-18.webp",
+      "width": 380,
+      "height": 371
+    },
+    {
+      "id": "p095-place-19",
+      "page": 95,
+      "title": "Thư viện",
+      "category": "places",
+      "image": "/speaking/p095-place-19.webp",
+      "width": 540,
+      "height": 394
+    },
+    {
+      "id": "p096-place-20",
+      "page": 96,
+      "title": "Thư viện",
+      "category": "places",
+      "image": "/speaking/p096-place-20.webp",
+      "width": 500,
+      "height": 338
+    },
+    {
+      "id": "p096-place-21",
+      "page": 96,
+      "title": "Đại học",
+      "category": "places",
+      "image": "/speaking/p096-place-21.webp",
+      "width": 660,
+      "height": 416
+    },
+    {
+      "id": "p099-0",
+      "page": 99,
+      "title": "ケンタ",
+      "category": "time-actions",
+      "image": "/speaking/p099-0.webp",
+      "width": 900,
+      "height": 799
+    },
+    {
+      "id": "p099-1",
+      "page": 99,
+      "title": "アンナ",
+      "category": "time-actions",
+      "image": "/speaking/p099-1.webp",
+      "width": 900,
+      "height": 799
+    },
+    {
+      "id": "p100-0",
+      "page": 100,
+      "title": "カルロス",
+      "category": "time-actions",
+      "image": "/speaking/p100-0.webp",
+      "width": 900,
+      "height": 799
+    },
+    {
+      "id": "p100-1",
+      "page": 100,
+      "title": "スコット",
+      "category": "time-actions",
+      "image": "/speaking/p100-1.webp",
+      "width": 900,
+      "height": 799
+    },
+    {
+      "id": "p101-0",
+      "page": 101,
+      "title": "ワン",
+      "category": "time-actions",
+      "image": "/speaking/p101-0.webp",
+      "width": 600,
+      "height": 799
+    },
+    {
+      "id": "p101-1",
+      "page": 101,
+      "title": "イサベラ",
+      "category": "time-actions",
+      "image": "/speaking/p101-1.webp",
+      "width": 600,
+      "height": 799
+    },
+    {
+      "id": "p101-2",
+      "page": 101,
+      "title": "ベッキー",
+      "category": "time-actions",
+      "image": "/speaking/p101-2.webp",
+      "width": 600,
+      "height": 799
+    },
+    {
+      "id": "p102-0",
+      "page": 102,
+      "title": "パク",
+      "category": "time-actions",
+      "image": "/speaking/p102-0.webp",
+      "width": 900,
+      "height": 799
+    },
+    {
+      "id": "p102-1",
+      "page": 102,
+      "title": "ダニエル",
+      "category": "time-actions",
+      "image": "/speaking/p102-1.webp",
+      "width": 900,
+      "height": 799
+    },
+    {
+      "id": "p103-0",
+      "page": 103,
+      "title": "マリヤム",
+      "category": "time-actions",
+      "image": "/speaking/p103-0.webp",
+      "width": 900,
+      "height": 799
+    },
+    {
+      "id": "p103-1",
+      "page": 103,
+      "title": "キム",
+      "category": "time-actions",
+      "image": "/speaking/p103-1.webp",
+      "width": 900,
+      "height": 799
+    },
+    {
+      "id": "personal",
+      "page": 105,
+      "title": "Trả lời về bản thân",
+      "category": "personal",
+      "image": "",
+      "width": 0,
+      "height": 0
+    }
+  ],
+  "questions": [
+    {
+      "id": "p011-1-q1",
+      "sceneId": "p011-1",
+      "jp": "このひとの おなまえは なんですか。",
+      "vi": "Người này tên là gì?",
+      "answer": "オリビアさんです。",
+      "note": ""
+    },
+    {
+      "id": "p011-1-q2",
+      "sceneId": "p011-1",
+      "jp": "オリビアさんの おくには どちらですか。",
+      "vi": "Người này đến từ nước nào?",
+      "answer": "ロシアです。",
+      "note": ""
+    },
+    {
+      "id": "p011-1-q3",
+      "sceneId": "p011-1",
+      "jp": "オリビアさんは どこの くにの ひとですか。",
+      "vi": "Người này là người nước nào?",
+      "answer": "ロシアじんです。",
+      "note": ""
+    },
+    {
+      "id": "p011-1-q4",
+      "sceneId": "p011-1",
+      "jp": "オリビアさんは なんさいですか。",
+      "vi": "Người này bao nhiêu tuổi?",
+      "answer": "にじゅうにさいです。",
+      "note": ""
+    },
+    {
+      "id": "p011-1-q5",
+      "sceneId": "p011-1",
+      "jp": "オリビアさんの おしごとは なんですか。",
+      "vi": "Người này làm nghề gì?",
+      "answer": "ふくしまだいがくの がくせいです。",
+      "note": ""
+    },
+    {
+      "id": "p011-1-q6",
+      "sceneId": "p011-1",
+      "jp": "オリビアさんは がくせいですか。",
+      "vi": "Xác nhận nghề nghiệp.",
+      "answer": "はい、がくせいです。",
+      "note": ""
+    },
+    {
+      "id": "p011-1-q7",
+      "sceneId": "p011-1",
+      "jp": "オリビアさんは ベトナムじんですか。",
+      "vi": "Người này có phải người Việt Nam không?",
+      "answer": "いいえ、ロシアじんです。",
+      "note": ""
+    },
+    {
+      "id": "p011-1-q8",
+      "sceneId": "p011-1",
+      "jp": "オリビアさんは どこの がくせいですか。",
+      "vi": "Học/làm việc ở đâu?",
+      "answer": "ふくしまだいがくの がくせいです。",
+      "note": ""
+    },
+    {
+      "id": "p011-1-q9",
+      "sceneId": "p011-1",
+      "jp": "オリビアさんは にじゅうさんさいですか。",
+      "vi": "Xác nhận tuổi (câu phủ định).",
+      "answer": "いいえ、にじゅうにさいです。",
+      "note": ""
+    },
+    {
+      "id": "p011-2-q1",
+      "sceneId": "p011-2",
+      "jp": "このひとの おなまえは なんですか。",
+      "vi": "Người này tên là gì?",
+      "answer": "エリザベスさんです。",
+      "note": ""
+    },
+    {
+      "id": "p011-2-q2",
+      "sceneId": "p011-2",
+      "jp": "エリザベスさんの おくには どちらですか。",
+      "vi": "Người này đến từ nước nào?",
+      "answer": "ちゅうごくです。",
+      "note": ""
+    },
+    {
+      "id": "p011-2-q3",
+      "sceneId": "p011-2",
+      "jp": "エリザベスさんは どこの くにの ひとですか。",
+      "vi": "Người này là người nước nào?",
+      "answer": "ちゅうごくじんです。",
+      "note": ""
+    },
+    {
+      "id": "p011-2-q4",
+      "sceneId": "p011-2",
+      "jp": "エリザベスさんは なんさいですか。",
+      "vi": "Người này bao nhiêu tuổi?",
+      "answer": "はたちです。",
+      "note": ""
+    },
+    {
+      "id": "p011-2-q5",
+      "sceneId": "p011-2",
+      "jp": "エリザベスさんの おしごとは なんですか。",
+      "vi": "Người này làm nghề gì?",
+      "answer": "にほんごがっこうの がくせいです。",
+      "note": ""
+    },
+    {
+      "id": "p011-2-q6",
+      "sceneId": "p011-2",
+      "jp": "エリザベスさんは がくせいですか。",
+      "vi": "Xác nhận nghề nghiệp.",
+      "answer": "はい、がくせいです。",
+      "note": ""
+    },
+    {
+      "id": "p011-2-q7",
+      "sceneId": "p011-2",
+      "jp": "エリザベスさんは ベトナムじんですか。",
+      "vi": "Người này có phải người Việt Nam không?",
+      "answer": "いいえ、ちゅうごくじんです。",
+      "note": ""
+    },
+    {
+      "id": "p011-2-q8",
+      "sceneId": "p011-2",
+      "jp": "エリザベスさんは どこの がくせいですか。",
+      "vi": "Học/làm việc ở đâu?",
+      "answer": "にほんごがっこうの がくせいです。",
+      "note": ""
+    },
+    {
+      "id": "p011-2-q9",
+      "sceneId": "p011-2",
+      "jp": "エリザベスさんは にじゅういっさいですか。",
+      "vi": "Xác nhận tuổi (câu phủ định).",
+      "answer": "いいえ、はたちです。",
+      "note": ""
+    },
+    {
+      "id": "p012-1-q1",
+      "sceneId": "p012-1",
+      "jp": "このひとの おなまえは なんですか。",
+      "vi": "Người này tên là gì?",
+      "answer": "マイケルさんです。",
+      "note": ""
+    },
+    {
+      "id": "p012-1-q2",
+      "sceneId": "p012-1",
+      "jp": "マイケルさんの おくには どちらですか。",
+      "vi": "Người này đến từ nước nào?",
+      "answer": "オーストラリアです。",
+      "note": ""
+    },
+    {
+      "id": "p012-1-q3",
+      "sceneId": "p012-1",
+      "jp": "マイケルさんは どこの くにの ひとですか。",
+      "vi": "Người này là người nước nào?",
+      "answer": "オーストラリアじんです。",
+      "note": ""
+    },
+    {
+      "id": "p012-1-q4",
+      "sceneId": "p012-1",
+      "jp": "マイケルさんは なんさいですか。",
+      "vi": "Người này bao nhiêu tuổi?",
+      "answer": "さんじゅういっさいです。",
+      "note": ""
+    },
+    {
+      "id": "p012-1-q5",
+      "sceneId": "p012-1",
+      "jp": "マイケルさんの おしごとは なんですか。",
+      "vi": "Người này làm nghề gì?",
+      "answer": "えいごの きょうしです。",
+      "note": ""
+    },
+    {
+      "id": "p012-1-q6",
+      "sceneId": "p012-1",
+      "jp": "マイケルさんは きょうしですか。",
+      "vi": "Xác nhận nghề nghiệp.",
+      "answer": "はい、きょうしです。",
+      "note": ""
+    },
+    {
+      "id": "p012-1-q7",
+      "sceneId": "p012-1",
+      "jp": "マイケルさんは ベトナムじんですか。",
+      "vi": "Người này có phải người Việt Nam không?",
+      "answer": "いいえ、オーストラリアじんです。",
+      "note": ""
+    },
+    {
+      "id": "p012-1-q8",
+      "sceneId": "p012-1",
+      "jp": "マイケルさんは さんじゅうにさいですか。",
+      "vi": "Xác nhận tuổi (câu phủ định).",
+      "answer": "いいえ、さんじゅういっさいです。",
+      "note": ""
+    },
+    {
+      "id": "p012-2-q1",
+      "sceneId": "p012-2",
+      "jp": "このひとの おなまえは なんですか。",
+      "vi": "Người này tên là gì?",
+      "answer": "カルロスさんです。",
+      "note": ""
+    },
+    {
+      "id": "p012-2-q2",
+      "sceneId": "p012-2",
+      "jp": "カルロスさんの おくには どちらですか。",
+      "vi": "Người này đến từ nước nào?",
+      "answer": "ブラジルです。",
+      "note": ""
+    },
+    {
+      "id": "p012-2-q3",
+      "sceneId": "p012-2",
+      "jp": "カルロスさんは どこの くにの ひとですか。",
+      "vi": "Người này là người nước nào?",
+      "answer": "ブラジルじんです。",
+      "note": ""
+    },
+    {
+      "id": "p012-2-q4",
+      "sceneId": "p012-2",
+      "jp": "カルロスさんは なんさいですか。",
+      "vi": "Người này bao nhiêu tuổi?",
+      "answer": "さんじゅうはっさいです。",
+      "note": ""
+    },
+    {
+      "id": "p012-2-q5",
+      "sceneId": "p012-2",
+      "jp": "カルロスさんの おしごとは なんですか。",
+      "vi": "Người này làm nghề gì?",
+      "answer": "さくらこうこうの きょうしです。",
+      "note": ""
+    },
+    {
+      "id": "p012-2-q6",
+      "sceneId": "p012-2",
+      "jp": "カルロスさんは きょうしですか。",
+      "vi": "Xác nhận nghề nghiệp.",
+      "answer": "はい、きょうしです。",
+      "note": ""
+    },
+    {
+      "id": "p012-2-q7",
+      "sceneId": "p012-2",
+      "jp": "カルロスさんは ベトナムじんですか。",
+      "vi": "Người này có phải người Việt Nam không?",
+      "answer": "いいえ、ブラジルじんです。",
+      "note": ""
+    },
+    {
+      "id": "p012-2-q8",
+      "sceneId": "p012-2",
+      "jp": "カルロスさんは どこの きょうしですか。",
+      "vi": "Học/làm việc ở đâu?",
+      "answer": "さくらこうこうの きょうしです。",
+      "note": ""
+    },
+    {
+      "id": "p012-2-q9",
+      "sceneId": "p012-2",
+      "jp": "カルロスさんは さんじゅうきゅうさいですか。",
+      "vi": "Xác nhận tuổi (câu phủ định).",
+      "answer": "いいえ、さんじゅうはっさいです。",
+      "note": ""
+    },
+    {
+      "id": "p013-1-q1",
+      "sceneId": "p013-1",
+      "jp": "このひとの おなまえは なんですか。",
+      "vi": "Người này tên là gì?",
+      "answer": "ジュリアさんです。",
+      "note": ""
+    },
+    {
+      "id": "p013-1-q2",
+      "sceneId": "p013-1",
+      "jp": "ジュリアさんの おくには どちらですか。",
+      "vi": "Người này đến từ nước nào?",
+      "answer": "かんこくです。",
+      "note": ""
+    },
+    {
+      "id": "p013-1-q3",
+      "sceneId": "p013-1",
+      "jp": "ジュリアさんは どこの くにの ひとですか。",
+      "vi": "Người này là người nước nào?",
+      "answer": "かんこくじんです。",
+      "note": ""
+    },
+    {
+      "id": "p013-1-q4",
+      "sceneId": "p013-1",
+      "jp": "ジュリアさんは なんさいですか。",
+      "vi": "Người này bao nhiêu tuổi?",
+      "answer": "にじゅうきゅうさいです。",
+      "note": ""
+    },
+    {
+      "id": "p013-1-q5",
+      "sceneId": "p013-1",
+      "jp": "ジュリアさんの おしごとは なんですか。",
+      "vi": "Người này làm nghề gì?",
+      "answer": "ひゃくえんショップの てんいんです。",
+      "note": ""
+    },
+    {
+      "id": "p013-1-q6",
+      "sceneId": "p013-1",
+      "jp": "ジュリアさんは てんいんですか。",
+      "vi": "Xác nhận nghề nghiệp.",
+      "answer": "はい、てんいんです。",
+      "note": ""
+    },
+    {
+      "id": "p013-1-q7",
+      "sceneId": "p013-1",
+      "jp": "ジュリアさんは ベトナムじんですか。",
+      "vi": "Người này có phải người Việt Nam không?",
+      "answer": "いいえ、かんこくじんです。",
+      "note": ""
+    },
+    {
+      "id": "p013-1-q8",
+      "sceneId": "p013-1",
+      "jp": "ジュリアさんは どこの てんいんですか。",
+      "vi": "Học/làm việc ở đâu?",
+      "answer": "ひゃくえんショップの てんいんです。",
+      "note": ""
+    },
+    {
+      "id": "p013-1-q9",
+      "sceneId": "p013-1",
+      "jp": "ジュリアさんは さんじゅっさいですか。",
+      "vi": "Xác nhận tuổi (câu phủ định).",
+      "answer": "いいえ、にじゅうきゅうさいです。",
+      "note": ""
+    },
+    {
+      "id": "p013-2-q1",
+      "sceneId": "p013-2",
+      "jp": "このひとの おなまえは なんですか。",
+      "vi": "Người này tên là gì?",
+      "answer": "ナタリアさんです。",
+      "note": ""
+    },
+    {
+      "id": "p013-2-q2",
+      "sceneId": "p013-2",
+      "jp": "ナタリアさんの おくには どちらですか。",
+      "vi": "Người này đến từ nước nào?",
+      "answer": "タイです。",
+      "note": ""
+    },
+    {
+      "id": "p013-2-q3",
+      "sceneId": "p013-2",
+      "jp": "ナタリアさんは どこの くにの ひとですか。",
+      "vi": "Người này là người nước nào?",
+      "answer": "タイじんです。",
+      "note": ""
+    },
+    {
+      "id": "p013-2-q4",
+      "sceneId": "p013-2",
+      "jp": "ナタリアさんは なんさいですか。",
+      "vi": "Người này bao nhiêu tuổi?",
+      "answer": "さんじゅうごさいです。",
+      "note": ""
+    },
+    {
+      "id": "p013-2-q5",
+      "sceneId": "p013-2",
+      "jp": "ナタリアさんの おしごとは なんですか。",
+      "vi": "Người này làm nghề gì?",
+      "answer": "スーパーの てんいんです。",
+      "note": ""
+    },
+    {
+      "id": "p013-2-q6",
+      "sceneId": "p013-2",
+      "jp": "ナタリアさんは てんいんですか。",
+      "vi": "Xác nhận nghề nghiệp.",
+      "answer": "はい、てんいんです。",
+      "note": ""
+    },
+    {
+      "id": "p013-2-q7",
+      "sceneId": "p013-2",
+      "jp": "ナタリアさんは ベトナムじんですか。",
+      "vi": "Người này có phải người Việt Nam không?",
+      "answer": "いいえ、タイじんです。",
+      "note": ""
+    },
+    {
+      "id": "p013-2-q8",
+      "sceneId": "p013-2",
+      "jp": "ナタリアさんは どこの てんいんですか。",
+      "vi": "Học/làm việc ở đâu?",
+      "answer": "スーパーの てんいんです。",
+      "note": ""
+    },
+    {
+      "id": "p013-2-q9",
+      "sceneId": "p013-2",
+      "jp": "ナタリアさんは さんじゅうろくさいですか。",
+      "vi": "Xác nhận tuổi (câu phủ định).",
+      "answer": "いいえ、さんじゅうごさいです。",
+      "note": ""
+    },
+    {
+      "id": "p014-1-q1",
+      "sceneId": "p014-1",
+      "jp": "このひとの おなまえは なんですか。",
+      "vi": "Người này tên là gì?",
+      "answer": "フェリシアさんです。",
+      "note": ""
+    },
+    {
+      "id": "p014-1-q2",
+      "sceneId": "p014-1",
+      "jp": "フェリシアさんの おくには どちらですか。",
+      "vi": "Người này đến từ nước nào?",
+      "answer": "フランスです。",
+      "note": ""
+    },
+    {
+      "id": "p014-1-q3",
+      "sceneId": "p014-1",
+      "jp": "フェリシアさんは どこの くにの ひとですか。",
+      "vi": "Người này là người nước nào?",
+      "answer": "フランスじんです。",
+      "note": ""
+    },
+    {
+      "id": "p014-1-q4",
+      "sceneId": "p014-1",
+      "jp": "フェリシアさんは なんさいですか。",
+      "vi": "Người này bao nhiêu tuổi?",
+      "answer": "にじゅういっさいです。",
+      "note": ""
+    },
+    {
+      "id": "p014-1-q5",
+      "sceneId": "p014-1",
+      "jp": "フェリシアさんの おしごとは なんですか。",
+      "vi": "Người này làm nghề gì?",
+      "answer": "メイジだいがくの がくせいです。",
+      "note": ""
+    },
+    {
+      "id": "p014-1-q6",
+      "sceneId": "p014-1",
+      "jp": "フェリシアさんは がくせいですか。",
+      "vi": "Xác nhận nghề nghiệp.",
+      "answer": "はい、がくせいです。",
+      "note": ""
+    },
+    {
+      "id": "p014-1-q7",
+      "sceneId": "p014-1",
+      "jp": "フェリシアさんは ベトナムじんですか。",
+      "vi": "Người này có phải người Việt Nam không?",
+      "answer": "いいえ、フランスじんです。",
+      "note": ""
+    },
+    {
+      "id": "p014-1-q8",
+      "sceneId": "p014-1",
+      "jp": "フェリシアさんは どこの がくせいですか。",
+      "vi": "Học/làm việc ở đâu?",
+      "answer": "メイジだいがくの がくせいです。",
+      "note": ""
+    },
+    {
+      "id": "p014-1-q9",
+      "sceneId": "p014-1",
+      "jp": "フェリシアさんは にじゅうにさいですか。",
+      "vi": "Xác nhận tuổi (câu phủ định).",
+      "answer": "いいえ、にじゅういっさいです。",
+      "note": ""
+    },
+    {
+      "id": "p014-2-q1",
+      "sceneId": "p014-2",
+      "jp": "このひとの おなまえは なんですか。",
+      "vi": "Người này tên là gì?",
+      "answer": "クリスティナさんです。",
+      "note": ""
+    },
+    {
+      "id": "p014-2-q2",
+      "sceneId": "p014-2",
+      "jp": "クリスティナさんの おくには どちらですか。",
+      "vi": "Người này đến từ nước nào?",
+      "answer": "ドイツです。",
+      "note": ""
+    },
+    {
+      "id": "p014-2-q3",
+      "sceneId": "p014-2",
+      "jp": "クリスティナさんは どこの くにの ひとですか。",
+      "vi": "Người này là người nước nào?",
+      "answer": "ドイツじんです。",
+      "note": ""
+    },
+    {
+      "id": "p014-2-q4",
+      "sceneId": "p014-2",
+      "jp": "クリスティナさんは なんさいですか。",
+      "vi": "Người này bao nhiêu tuổi?",
+      "answer": "さんじゅっさいです。",
+      "note": ""
+    },
+    {
+      "id": "p014-2-q5",
+      "sceneId": "p014-2",
+      "jp": "クリスティナさんの おしごとは なんですか。",
+      "vi": "Người này làm nghề gì?",
+      "answer": "ふじみこうこうの がくせいです。",
+      "note": ""
+    },
+    {
+      "id": "p014-2-q6",
+      "sceneId": "p014-2",
+      "jp": "クリスティナさんは がくせいですか。",
+      "vi": "Xác nhận nghề nghiệp.",
+      "answer": "はい、がくせいです。",
+      "note": ""
+    },
+    {
+      "id": "p014-2-q7",
+      "sceneId": "p014-2",
+      "jp": "クリスティナさんは ベトナムじんですか。",
+      "vi": "Người này có phải người Việt Nam không?",
+      "answer": "いいえ、ドイツじんです。",
+      "note": ""
+    },
+    {
+      "id": "p014-2-q8",
+      "sceneId": "p014-2",
+      "jp": "クリスティナさんは どこの がくせいですか。",
+      "vi": "Học/làm việc ở đâu?",
+      "answer": "ふじみこうこうの がくせいです。",
+      "note": ""
+    },
+    {
+      "id": "p014-2-q9",
+      "sceneId": "p014-2",
+      "jp": "クリスティナさんは さんじゅういっさいですか。",
+      "vi": "Xác nhận tuổi (câu phủ định).",
+      "answer": "いいえ、さんじゅっさいです。",
+      "note": ""
+    },
+    {
+      "id": "p015-1-q1",
+      "sceneId": "p015-1",
+      "jp": "このひとの おなまえは なんですか。",
+      "vi": "Người này tên là gì?",
+      "answer": "サントスさんです。",
+      "note": ""
+    },
+    {
+      "id": "p015-1-q2",
+      "sceneId": "p015-1",
+      "jp": "サントスさんの おくには どちらですか。",
+      "vi": "Người này đến từ nước nào?",
+      "answer": "アメリカです。",
+      "note": ""
+    },
+    {
+      "id": "p015-1-q3",
+      "sceneId": "p015-1",
+      "jp": "サントスさんは どこの くにの ひとですか。",
+      "vi": "Người này là người nước nào?",
+      "answer": "アメリカじんです。",
+      "note": ""
+    },
+    {
+      "id": "p015-1-q4",
+      "sceneId": "p015-1",
+      "jp": "サントスさんは なんさいですか。",
+      "vi": "Người này bao nhiêu tuổi?",
+      "answer": "にじゅうはっさいです。",
+      "note": ""
+    },
+    {
+      "id": "p015-1-q5",
+      "sceneId": "p015-1",
+      "jp": "サントスさんの おしごとは なんですか。",
+      "vi": "Người này làm nghề gì?",
+      "answer": "フジミこうこうの きょうしです。",
+      "note": ""
+    },
+    {
+      "id": "p015-1-q6",
+      "sceneId": "p015-1",
+      "jp": "サントスさんは きょうしですか。",
+      "vi": "Xác nhận nghề nghiệp.",
+      "answer": "はい、きょうしです。",
+      "note": ""
+    },
+    {
+      "id": "p015-1-q7",
+      "sceneId": "p015-1",
+      "jp": "サントスさんは ベトナムじんですか。",
+      "vi": "Người này có phải người Việt Nam không?",
+      "answer": "いいえ、アメリカじんです。",
+      "note": ""
+    },
+    {
+      "id": "p015-1-q8",
+      "sceneId": "p015-1",
+      "jp": "サントスさんは どこの きょうしですか。",
+      "vi": "Học/làm việc ở đâu?",
+      "answer": "フジミこうこうの きょうしです。",
+      "note": ""
+    },
+    {
+      "id": "p015-1-q9",
+      "sceneId": "p015-1",
+      "jp": "サントスさんは にじゅうきゅうさいですか。",
+      "vi": "Xác nhận tuổi (câu phủ định).",
+      "answer": "いいえ、にじゅうはっさいです。",
+      "note": ""
+    },
+    {
+      "id": "p015-2-q1",
+      "sceneId": "p015-2",
+      "jp": "このひとの おなまえは なんですか。",
+      "vi": "Người này tên là gì?",
+      "answer": "フジハラさんです。",
+      "note": ""
+    },
+    {
+      "id": "p015-2-q2",
+      "sceneId": "p015-2",
+      "jp": "フジハラさんの おくには どちらですか。",
+      "vi": "Người này đến từ nước nào?",
+      "answer": "にほんです。",
+      "note": ""
+    },
+    {
+      "id": "p015-2-q3",
+      "sceneId": "p015-2",
+      "jp": "フジハラさんは どこの くにの ひとですか。",
+      "vi": "Người này là người nước nào?",
+      "answer": "にほんじんです。",
+      "note": ""
+    },
+    {
+      "id": "p015-2-q4",
+      "sceneId": "p015-2",
+      "jp": "フジハラさんは なんさいですか。",
+      "vi": "Người này bao nhiêu tuổi?",
+      "answer": "ごじゅうはっさいです。",
+      "note": ""
+    },
+    {
+      "id": "p015-2-q5",
+      "sceneId": "p015-2",
+      "jp": "フジハラさんの おしごとは なんですか。",
+      "vi": "Người này làm nghề gì?",
+      "answer": "にほんごがっこうの きょうしです。",
+      "note": ""
+    },
+    {
+      "id": "p015-2-q6",
+      "sceneId": "p015-2",
+      "jp": "フジハラさんは きょうしですか。",
+      "vi": "Xác nhận nghề nghiệp.",
+      "answer": "はい、きょうしです。",
+      "note": ""
+    },
+    {
+      "id": "p015-2-q7",
+      "sceneId": "p015-2",
+      "jp": "フジハラさんは ベトナムじんですか。",
+      "vi": "Người này có phải người Việt Nam không?",
+      "answer": "いいえ、にほんじんです。",
+      "note": ""
+    },
+    {
+      "id": "p015-2-q8",
+      "sceneId": "p015-2",
+      "jp": "フジハラさんは どこの きょうしですか。",
+      "vi": "Học/làm việc ở đâu?",
+      "answer": "にほんごがっこうの きょうしです。",
+      "note": ""
+    },
+    {
+      "id": "p015-2-q9",
+      "sceneId": "p015-2",
+      "jp": "フジハラさんは ごじゅうきゅうさいですか。",
+      "vi": "Xác nhận tuổi (câu phủ định).",
+      "answer": "いいえ、ごじゅうはっさいです。",
+      "note": ""
+    },
+    {
+      "id": "p019-1-q1",
+      "sceneId": "p019-1",
+      "jp": "チルポンさんの たんじょうびは いつですか。",
+      "vi": "Sinh nhật khi nào?",
+      "answer": "しがつ じゅうななにちです。",
+      "note": ""
+    },
+    {
+      "id": "p019-1-q2",
+      "sceneId": "p019-1",
+      "jp": "チルポンさんの たんじょうびは なんがつなんにちですか。",
+      "vi": "Sinh nhật ngày mấy tháng mấy?",
+      "answer": "しがつ じゅうななにちです。",
+      "note": ""
+    },
+    {
+      "id": "p019-1-q3",
+      "sceneId": "p019-1",
+      "jp": "チルポンさんの たんじょうびは しがつ じゅうななにちですか。",
+      "vi": "Xác nhận ngày sinh nhật.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p019-1-q4",
+      "sceneId": "p019-1",
+      "jp": "チルポンさんの たんじょうびは しがつ じゅうはちにちですか。",
+      "vi": "Xác nhận ngày sinh nhật (phủ định).",
+      "answer": "いいえ、しがつ じゅうななにちです。",
+      "note": ""
+    },
+    {
+      "id": "p019-1-q5",
+      "sceneId": "p019-1",
+      "jp": "チルポンさんの しゅみは なんですか。",
+      "vi": "Sở thích là gì?",
+      "answer": "りょこうと えいがです。",
+      "note": "Nối hai danh từ bằng と."
+    },
+    {
+      "id": "p019-1-q6",
+      "sceneId": "p019-1",
+      "jp": "チルポンさんの しゅみは りょこうですか。",
+      "vi": "Xác nhận sở thích.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p019-1-q7",
+      "sceneId": "p019-1",
+      "jp": "チルポンさんの しゅみは にほんごのべんきょうですか。",
+      "vi": "Xác nhận sở thích (phủ định).",
+      "answer": "いいえ、りょこうと えいがです。",
+      "note": ""
+    },
+    {
+      "id": "p019-2-q1",
+      "sceneId": "p019-2",
+      "jp": "アベールさんの たんじょうびは いつですか。",
+      "vi": "Sinh nhật khi nào?",
+      "answer": "しちがつ なのかです。",
+      "note": ""
+    },
+    {
+      "id": "p019-2-q2",
+      "sceneId": "p019-2",
+      "jp": "アベールさんの たんじょうびは なんがつなんにちですか。",
+      "vi": "Sinh nhật ngày mấy tháng mấy?",
+      "answer": "しちがつ なのかです。",
+      "note": ""
+    },
+    {
+      "id": "p019-2-q3",
+      "sceneId": "p019-2",
+      "jp": "アベールさんの たんじょうびは しちがつ なのかですか。",
+      "vi": "Xác nhận ngày sinh nhật.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p019-2-q4",
+      "sceneId": "p019-2",
+      "jp": "アベールさんの たんじょうびは しちがつ ようかですか。",
+      "vi": "Xác nhận ngày sinh nhật (phủ định).",
+      "answer": "いいえ、しちがつ なのかです。",
+      "note": ""
+    },
+    {
+      "id": "p019-2-q5",
+      "sceneId": "p019-2",
+      "jp": "アベールさんの しゅみは なんですか。",
+      "vi": "Sở thích là gì?",
+      "answer": "サッカーと すいえいです。",
+      "note": "Nối hai danh từ bằng と."
+    },
+    {
+      "id": "p019-2-q6",
+      "sceneId": "p019-2",
+      "jp": "アベールさんの しゅみは サッカーですか。",
+      "vi": "Xác nhận sở thích.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p019-2-q7",
+      "sceneId": "p019-2",
+      "jp": "アベールさんの しゅみは にほんごのべんきょうですか。",
+      "vi": "Xác nhận sở thích (phủ định).",
+      "answer": "いいえ、サッカーと すいえいです。",
+      "note": ""
+    },
+    {
+      "id": "p020-1-q1",
+      "sceneId": "p020-1",
+      "jp": "アンジェラさんの たんじょうびは いつですか。",
+      "vi": "Sinh nhật khi nào?",
+      "answer": "くがつ よっかです。",
+      "note": ""
+    },
+    {
+      "id": "p020-1-q2",
+      "sceneId": "p020-1",
+      "jp": "アンジェラさんの たんじょうびは なんがつなんにちですか。",
+      "vi": "Sinh nhật ngày mấy tháng mấy?",
+      "answer": "くがつ よっかです。",
+      "note": ""
+    },
+    {
+      "id": "p020-1-q3",
+      "sceneId": "p020-1",
+      "jp": "アンジェラさんの たんじょうびは くがつ よっかですか。",
+      "vi": "Xác nhận ngày sinh nhật.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p020-1-q4",
+      "sceneId": "p020-1",
+      "jp": "アンジェラさんの たんじょうびは くがつ いつかですか。",
+      "vi": "Xác nhận ngày sinh nhật (phủ định).",
+      "answer": "いいえ、くがつ よっかです。",
+      "note": ""
+    },
+    {
+      "id": "p020-1-q5",
+      "sceneId": "p020-1",
+      "jp": "アンジェラさんの しゅみは なんですか。",
+      "vi": "Sở thích là gì?",
+      "answer": "りょうりと どくしょです。",
+      "note": "Nối hai danh từ bằng と."
+    },
+    {
+      "id": "p020-1-q6",
+      "sceneId": "p020-1",
+      "jp": "アンジェラさんの しゅみは りょうりですか。",
+      "vi": "Xác nhận sở thích.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p020-1-q7",
+      "sceneId": "p020-1",
+      "jp": "アンジェラさんの しゅみは にほんごのべんきょうですか。",
+      "vi": "Xác nhận sở thích (phủ định).",
+      "answer": "いいえ、りょうりと どくしょです。",
+      "note": ""
+    },
+    {
+      "id": "p020-2-q1",
+      "sceneId": "p020-2",
+      "jp": "ベッキーさんの たんじょうびは いつですか。",
+      "vi": "Sinh nhật khi nào?",
+      "answer": "はちがつ はつかです。",
+      "note": ""
+    },
+    {
+      "id": "p020-2-q2",
+      "sceneId": "p020-2",
+      "jp": "ベッキーさんの たんじょうびは なんがつなんにちですか。",
+      "vi": "Sinh nhật ngày mấy tháng mấy?",
+      "answer": "はちがつ はつかです。",
+      "note": ""
+    },
+    {
+      "id": "p020-2-q3",
+      "sceneId": "p020-2",
+      "jp": "ベッキーさんの たんじょうびは はちがつ はつかですか。",
+      "vi": "Xác nhận ngày sinh nhật.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p020-2-q4",
+      "sceneId": "p020-2",
+      "jp": "ベッキーさんの たんじょうびは はちがつ にじゅういちにちですか。",
+      "vi": "Xác nhận ngày sinh nhật (phủ định).",
+      "answer": "いいえ、はちがつ はつかです。",
+      "note": ""
+    },
+    {
+      "id": "p020-2-q5",
+      "sceneId": "p020-2",
+      "jp": "ベッキーさんの しゅみは なんですか。",
+      "vi": "Sở thích là gì?",
+      "answer": "おんがくと すいえいです。",
+      "note": "Nối hai danh từ bằng と."
+    },
+    {
+      "id": "p020-2-q6",
+      "sceneId": "p020-2",
+      "jp": "ベッキーさんの しゅみは おんがくですか。",
+      "vi": "Xác nhận sở thích.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p020-2-q7",
+      "sceneId": "p020-2",
+      "jp": "ベッキーさんの しゅみは にほんごのべんきょうですか。",
+      "vi": "Xác nhận sở thích (phủ định).",
+      "answer": "いいえ、おんがくと すいえいです。",
+      "note": ""
+    },
+    {
+      "id": "p021-1-q1",
+      "sceneId": "p021-1",
+      "jp": "オリヴィアさんの たんじょうびは いつですか。",
+      "vi": "Sinh nhật khi nào?",
+      "answer": "しがつ じゅうごにちです。",
+      "note": ""
+    },
+    {
+      "id": "p021-1-q2",
+      "sceneId": "p021-1",
+      "jp": "オリヴィアさんの たんじょうびは なんがつなんにちですか。",
+      "vi": "Sinh nhật ngày mấy tháng mấy?",
+      "answer": "しがつ じゅうごにちです。",
+      "note": ""
+    },
+    {
+      "id": "p021-1-q3",
+      "sceneId": "p021-1",
+      "jp": "オリヴィアさんの たんじょうびは しがつ じゅうごにちですか。",
+      "vi": "Xác nhận ngày sinh nhật.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p021-1-q4",
+      "sceneId": "p021-1",
+      "jp": "オリヴィアさんの たんじょうびは しがつ じゅうろくにちですか。",
+      "vi": "Xác nhận ngày sinh nhật (phủ định).",
+      "answer": "いいえ、しがつ じゅうごにちです。",
+      "note": ""
+    },
+    {
+      "id": "p021-1-q5",
+      "sceneId": "p021-1",
+      "jp": "オリヴィアさんの しゅみは なんですか。",
+      "vi": "Sở thích là gì?",
+      "answer": "すいえいと おんがくです。",
+      "note": "Nối hai danh từ bằng と."
+    },
+    {
+      "id": "p021-1-q6",
+      "sceneId": "p021-1",
+      "jp": "オリヴィアさんの しゅみは すいえいですか。",
+      "vi": "Xác nhận sở thích.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p021-1-q7",
+      "sceneId": "p021-1",
+      "jp": "オリヴィアさんの しゅみは にほんごのべんきょうですか。",
+      "vi": "Xác nhận sở thích (phủ định).",
+      "answer": "いいえ、すいえいと おんがくです。",
+      "note": ""
+    },
+    {
+      "id": "p021-2-q1",
+      "sceneId": "p021-2",
+      "jp": "ルシアナさんの たんじょうびは いつですか。",
+      "vi": "Sinh nhật khi nào?",
+      "answer": "いちがつ みっかです。",
+      "note": ""
+    },
+    {
+      "id": "p021-2-q2",
+      "sceneId": "p021-2",
+      "jp": "ルシアナさんの たんじょうびは なんがつなんにちですか。",
+      "vi": "Sinh nhật ngày mấy tháng mấy?",
+      "answer": "いちがつ みっかです。",
+      "note": ""
+    },
+    {
+      "id": "p021-2-q3",
+      "sceneId": "p021-2",
+      "jp": "ルシアナさんの たんじょうびは いちがつ みっかですか。",
+      "vi": "Xác nhận ngày sinh nhật.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p021-2-q4",
+      "sceneId": "p021-2",
+      "jp": "ルシアナさんの たんじょうびは いちがつ よっかですか。",
+      "vi": "Xác nhận ngày sinh nhật (phủ định).",
+      "answer": "いいえ、いちがつ みっかです。",
+      "note": ""
+    },
+    {
+      "id": "p021-2-q5",
+      "sceneId": "p021-2",
+      "jp": "ルシアナさんの しゅみは なんですか。",
+      "vi": "Sở thích là gì?",
+      "answer": "りょうりと どくしょです。",
+      "note": "Nối hai danh từ bằng と."
+    },
+    {
+      "id": "p021-2-q6",
+      "sceneId": "p021-2",
+      "jp": "ルシアナさんの しゅみは りょうりですか。",
+      "vi": "Xác nhận sở thích.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p021-2-q7",
+      "sceneId": "p021-2",
+      "jp": "ルシアナさんの しゅみは にほんごのべんきょうですか。",
+      "vi": "Xác nhận sở thích (phủ định).",
+      "answer": "いいえ、りょうりと どくしょです。",
+      "note": ""
+    },
+    {
+      "id": "p022-1-q1",
+      "sceneId": "p022-1",
+      "jp": "ジュリアンさんの たんじょうびは いつですか。",
+      "vi": "Sinh nhật khi nào?",
+      "answer": "しちがつ にじゅうよっかです。",
+      "note": ""
+    },
+    {
+      "id": "p022-1-q2",
+      "sceneId": "p022-1",
+      "jp": "ジュリアンさんの たんじょうびは なんがつなんにちですか。",
+      "vi": "Sinh nhật ngày mấy tháng mấy?",
+      "answer": "しちがつ にじゅうよっかです。",
+      "note": ""
+    },
+    {
+      "id": "p022-1-q3",
+      "sceneId": "p022-1",
+      "jp": "ジュリアンさんの たんじょうびは しちがつ にじゅうよっかですか。",
+      "vi": "Xác nhận ngày sinh nhật.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p022-1-q4",
+      "sceneId": "p022-1",
+      "jp": "ジュリアンさんの たんじょうびは しちがつ にじゅうごにちですか。",
+      "vi": "Xác nhận ngày sinh nhật (phủ định).",
+      "answer": "いいえ、しちがつ にじゅうよっかです。",
+      "note": ""
+    },
+    {
+      "id": "p022-1-q5",
+      "sceneId": "p022-1",
+      "jp": "ジュリアンさんの しゅみは なんですか。",
+      "vi": "Sở thích là gì?",
+      "answer": "すいえいと えいがです。",
+      "note": "Nối hai danh từ bằng と."
+    },
+    {
+      "id": "p022-1-q6",
+      "sceneId": "p022-1",
+      "jp": "ジュリアンさんの しゅみは すいえいですか。",
+      "vi": "Xác nhận sở thích.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p022-1-q7",
+      "sceneId": "p022-1",
+      "jp": "ジュリアンさんの しゅみは にほんごのべんきょうですか。",
+      "vi": "Xác nhận sở thích (phủ định).",
+      "answer": "いいえ、すいえいと えいがです。",
+      "note": ""
+    },
+    {
+      "id": "p022-2-q1",
+      "sceneId": "p022-2",
+      "jp": "レオナルドさんの たんじょうびは いつですか。",
+      "vi": "Sinh nhật khi nào?",
+      "answer": "ごがつ ようかです。",
+      "note": ""
+    },
+    {
+      "id": "p022-2-q2",
+      "sceneId": "p022-2",
+      "jp": "レオナルドさんの たんじょうびは なんがつなんにちですか。",
+      "vi": "Sinh nhật ngày mấy tháng mấy?",
+      "answer": "ごがつ ようかです。",
+      "note": ""
+    },
+    {
+      "id": "p022-2-q3",
+      "sceneId": "p022-2",
+      "jp": "レオナルドさんの たんじょうびは ごがつ ようかですか。",
+      "vi": "Xác nhận ngày sinh nhật.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p022-2-q4",
+      "sceneId": "p022-2",
+      "jp": "レオナルドさんの たんじょうびは ごがつ ここのかですか。",
+      "vi": "Xác nhận ngày sinh nhật (phủ định).",
+      "answer": "いいえ、ごがつ ようかです。",
+      "note": ""
+    },
+    {
+      "id": "p022-2-q5",
+      "sceneId": "p022-2",
+      "jp": "レオナルドさんの しゅみは なんですか。",
+      "vi": "Sở thích là gì?",
+      "answer": "サッカーと りょこうです。",
+      "note": "Nối hai danh từ bằng と."
+    },
+    {
+      "id": "p022-2-q6",
+      "sceneId": "p022-2",
+      "jp": "レオナルドさんの しゅみは サッカーですか。",
+      "vi": "Xác nhận sở thích.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p022-2-q7",
+      "sceneId": "p022-2",
+      "jp": "レオナルドさんの しゅみは にほんごのべんきょうですか。",
+      "vi": "Xác nhận sở thích (phủ định).",
+      "answer": "いいえ、サッカーと りょこうです。",
+      "note": ""
+    },
+    {
+      "id": "p023-1-q1",
+      "sceneId": "p023-1",
+      "jp": "ロサリンドさんの たんじょうびは いつですか。",
+      "vi": "Sinh nhật khi nào?",
+      "answer": "じゅうにがつ ふつかです。",
+      "note": ""
+    },
+    {
+      "id": "p023-1-q2",
+      "sceneId": "p023-1",
+      "jp": "ロサリンドさんの たんじょうびは なんがつなんにちですか。",
+      "vi": "Sinh nhật ngày mấy tháng mấy?",
+      "answer": "じゅうにがつ ふつかです。",
+      "note": ""
+    },
+    {
+      "id": "p023-1-q3",
+      "sceneId": "p023-1",
+      "jp": "ロサリンドさんの たんじょうびは じゅうにがつ ふつかですか。",
+      "vi": "Xác nhận ngày sinh nhật.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p023-1-q4",
+      "sceneId": "p023-1",
+      "jp": "ロサリンドさんの たんじょうびは じゅうにがつ みっかですか。",
+      "vi": "Xác nhận ngày sinh nhật (phủ định).",
+      "answer": "いいえ、じゅうにがつ ふつかです。",
+      "note": ""
+    },
+    {
+      "id": "p023-1-q5",
+      "sceneId": "p023-1",
+      "jp": "ロサリンドさんの しゅみは なんですか。",
+      "vi": "Sở thích là gì?",
+      "answer": "テニスと りょうりです。",
+      "note": "Nối hai danh từ bằng と."
+    },
+    {
+      "id": "p023-1-q6",
+      "sceneId": "p023-1",
+      "jp": "ロサリンドさんの しゅみは テニスですか。",
+      "vi": "Xác nhận sở thích.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p023-1-q7",
+      "sceneId": "p023-1",
+      "jp": "ロサリンドさんの しゅみは にほんごのべんきょうですか。",
+      "vi": "Xác nhận sở thích (phủ định).",
+      "answer": "いいえ、テニスと りょうりです。",
+      "note": ""
+    },
+    {
+      "id": "p023-2-q1",
+      "sceneId": "p023-2",
+      "jp": "アナスタシアさんの たんじょうびは いつですか。",
+      "vi": "Sinh nhật khi nào?",
+      "answer": "くがつ とおかです。",
+      "note": ""
+    },
+    {
+      "id": "p023-2-q2",
+      "sceneId": "p023-2",
+      "jp": "アナスタシアさんの たんじょうびは なんがつなんにちですか。",
+      "vi": "Sinh nhật ngày mấy tháng mấy?",
+      "answer": "くがつ とおかです。",
+      "note": ""
+    },
+    {
+      "id": "p023-2-q3",
+      "sceneId": "p023-2",
+      "jp": "アナスタシアさんの たんじょうびは くがつ とおかですか。",
+      "vi": "Xác nhận ngày sinh nhật.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p023-2-q4",
+      "sceneId": "p023-2",
+      "jp": "アナスタシアさんの たんじょうびは くがつ じゅういちにちですか。",
+      "vi": "Xác nhận ngày sinh nhật (phủ định).",
+      "answer": "いいえ、くがつ とおかです。",
+      "note": ""
+    },
+    {
+      "id": "p023-2-q5",
+      "sceneId": "p023-2",
+      "jp": "アナスタシアさんの しゅみは なんですか。",
+      "vi": "Sở thích là gì?",
+      "answer": "おんがくと どくしょです。",
+      "note": "Nối hai danh từ bằng と."
+    },
+    {
+      "id": "p023-2-q6",
+      "sceneId": "p023-2",
+      "jp": "アナスタシアさんの しゅみは おんがくですか。",
+      "vi": "Xác nhận sở thích.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p023-2-q7",
+      "sceneId": "p023-2",
+      "jp": "アナスタシアさんの しゅみは にほんごのべんきょうですか。",
+      "vi": "Xác nhận sở thích (phủ định).",
+      "answer": "いいえ、おんがくと どくしょです。",
+      "note": ""
+    },
+    {
+      "id": "p024-0-q1",
+      "sceneId": "p024-0",
+      "jp": "まつりは いつですか。",
+      "vi": "Sự kiện vào ngày nào?",
+      "answer": "しちがつ とおかです。",
+      "note": ""
+    },
+    {
+      "id": "p024-0-q2",
+      "sceneId": "p024-0",
+      "jp": "まつりは なんがつなんにちですか。",
+      "vi": "Sự kiện vào ngày nào?",
+      "answer": "しちがつ とおかです。",
+      "note": ""
+    },
+    {
+      "id": "p024-1-q1",
+      "sceneId": "p024-1",
+      "jp": "パーティーは いつですか。",
+      "vi": "Sự kiện vào ngày nào?",
+      "answer": "じゅういちがつ はつかです。",
+      "note": ""
+    },
+    {
+      "id": "p024-1-q2",
+      "sceneId": "p024-1",
+      "jp": "パーティーは なんがつなんにちですか。",
+      "vi": "Sự kiện vào ngày nào?",
+      "answer": "じゅういちがつ はつかです。",
+      "note": ""
+    },
+    {
+      "id": "p024-2-q1",
+      "sceneId": "p024-2",
+      "jp": "はなびは いつですか。",
+      "vi": "Sự kiện vào ngày nào?",
+      "answer": "しがつ いつかです。",
+      "note": ""
+    },
+    {
+      "id": "p024-2-q2",
+      "sceneId": "p024-2",
+      "jp": "はなびは なんがつなんにちですか。",
+      "vi": "Sự kiện vào ngày nào?",
+      "answer": "しがつ いつかです。",
+      "note": ""
+    },
+    {
+      "id": "p024-3-q1",
+      "sceneId": "p024-3",
+      "jp": "ピクニックは いつですか。",
+      "vi": "Sự kiện vào ngày nào?",
+      "answer": "さんがつ みっかです。",
+      "note": ""
+    },
+    {
+      "id": "p024-3-q2",
+      "sceneId": "p024-3",
+      "jp": "ピクニックは なんがつなんにちですか。",
+      "vi": "Sự kiện vào ngày nào?",
+      "answer": "さんがつ みっかです。",
+      "note": ""
+    },
+    {
+      "id": "p025-0-q1",
+      "sceneId": "p025-0",
+      "jp": "おはなみは いつですか。",
+      "vi": "Sự kiện vào ngày nào?",
+      "answer": "しがつ とおかです。",
+      "note": ""
+    },
+    {
+      "id": "p025-0-q2",
+      "sceneId": "p025-0",
+      "jp": "おはなみは なんがつなんにちですか。",
+      "vi": "Sự kiện vào ngày nào?",
+      "answer": "しがつ とおかです。",
+      "note": ""
+    },
+    {
+      "id": "p025-1-q1",
+      "sceneId": "p025-1",
+      "jp": "おべんとうは いつですか。",
+      "vi": "Sự kiện vào ngày nào?",
+      "answer": "はちがつ むいかです。",
+      "note": ""
+    },
+    {
+      "id": "p025-1-q2",
+      "sceneId": "p025-1",
+      "jp": "おべんとうは なんがつなんにちですか。",
+      "vi": "Sự kiện vào ngày nào?",
+      "answer": "はちがつ むいかです。",
+      "note": ""
+    },
+    {
+      "id": "p025-2-q1",
+      "sceneId": "p025-2",
+      "jp": "バーベキューは いつですか。",
+      "vi": "Sự kiện vào ngày nào?",
+      "answer": "しちがつ いつかです。",
+      "note": ""
+    },
+    {
+      "id": "p025-2-q2",
+      "sceneId": "p025-2",
+      "jp": "バーベキューは なんがつなんにちですか。",
+      "vi": "Sự kiện vào ngày nào?",
+      "answer": "しちがつ いつかです。",
+      "note": ""
+    },
+    {
+      "id": "p026-calendar-q1",
+      "sceneId": "p026-calendar",
+      "jp": "おはなみは いつですか。",
+      "vi": "Đọc ngày sự kiện trên lịch.",
+      "answer": "しがつ とおかです。",
+      "note": ""
+    },
+    {
+      "id": "p026-calendar-q2",
+      "sceneId": "p026-calendar",
+      "jp": "テストは いつですか。",
+      "vi": "Đọc ngày sự kiện trên lịch.",
+      "answer": "ろくがつ にじゅうごにちです。",
+      "note": ""
+    },
+    {
+      "id": "p026-calendar-q3",
+      "sceneId": "p026-calendar",
+      "jp": "まつりは いつですか。",
+      "vi": "Đọc ngày sự kiện trên lịch.",
+      "answer": "はちがつ よっかです。",
+      "note": ""
+    },
+    {
+      "id": "p026-calendar-q4",
+      "sceneId": "p026-calendar",
+      "jp": "りゅうがくせいパーティーは いつですか。",
+      "vi": "Đọc ngày sự kiện trên lịch.",
+      "answer": "くがつ ふつかです。",
+      "note": ""
+    },
+    {
+      "id": "p026-calendar-q5",
+      "sceneId": "p026-calendar",
+      "jp": "バスりょこうは いつですか。",
+      "vi": "Đọc ngày sự kiện trên lịch.",
+      "answer": "じゅうがつ じゅうよっかです。",
+      "note": ""
+    },
+    {
+      "id": "p026-calendar-q6",
+      "sceneId": "p026-calendar",
+      "jp": "ホームステイは いつから いつまでですか。",
+      "vi": "Homestay từ ngày nào đến ngày nào?",
+      "answer": "じゅうにがつ はつかから じゅうにがつ にじゅうよっかまでです。",
+      "note": ""
+    },
+    {
+      "id": "p027-week-q1",
+      "sceneId": "p027-week",
+      "jp": "しちがつ ようかは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "げつようびです。",
+      "note": ""
+    },
+    {
+      "id": "p027-week-q2",
+      "sceneId": "p027-week",
+      "jp": "げつようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "しちがつ ようかです。",
+      "note": ""
+    },
+    {
+      "id": "p027-week-q3",
+      "sceneId": "p027-week",
+      "jp": "しちがつ ここのかは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "かようびです。",
+      "note": ""
+    },
+    {
+      "id": "p027-week-q4",
+      "sceneId": "p027-week",
+      "jp": "かようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "しちがつ ここのかです。",
+      "note": ""
+    },
+    {
+      "id": "p027-week-q5",
+      "sceneId": "p027-week",
+      "jp": "しちがつ とおかは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "すいようびです。",
+      "note": ""
+    },
+    {
+      "id": "p027-week-q6",
+      "sceneId": "p027-week",
+      "jp": "すいようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "しちがつ とおかです。",
+      "note": ""
+    },
+    {
+      "id": "p027-week-q7",
+      "sceneId": "p027-week",
+      "jp": "しちがつ じゅういちにちは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "もくようびです。",
+      "note": ""
+    },
+    {
+      "id": "p027-week-q8",
+      "sceneId": "p027-week",
+      "jp": "もくようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "しちがつ じゅういちにちです。",
+      "note": ""
+    },
+    {
+      "id": "p027-week-q9",
+      "sceneId": "p027-week",
+      "jp": "しちがつ じゅうににちは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "きんようびです。",
+      "note": ""
+    },
+    {
+      "id": "p027-week-q10",
+      "sceneId": "p027-week",
+      "jp": "きんようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "しちがつ じゅうににちです。",
+      "note": ""
+    },
+    {
+      "id": "p027-week-q11",
+      "sceneId": "p027-week",
+      "jp": "しちがつ じゅうさんにちは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "どようびです。",
+      "note": ""
+    },
+    {
+      "id": "p027-week-q12",
+      "sceneId": "p027-week",
+      "jp": "どようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "しちがつ じゅうさんにちです。",
+      "note": ""
+    },
+    {
+      "id": "p027-week-q13",
+      "sceneId": "p027-week",
+      "jp": "しちがつ じゅうよっかは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "にちようびです。",
+      "note": ""
+    },
+    {
+      "id": "p027-week-q14",
+      "sceneId": "p027-week",
+      "jp": "にちようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "しちがつ じゅうよっかです。",
+      "note": ""
+    },
+    {
+      "id": "p028-week-q1",
+      "sceneId": "p028-week",
+      "jp": "しがつ ついたちは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "げつようびです。",
+      "note": ""
+    },
+    {
+      "id": "p028-week-q2",
+      "sceneId": "p028-week",
+      "jp": "げつようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "しがつ ついたちです。",
+      "note": ""
+    },
+    {
+      "id": "p028-week-q3",
+      "sceneId": "p028-week",
+      "jp": "しがつ ふつかは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "かようびです。",
+      "note": ""
+    },
+    {
+      "id": "p028-week-q4",
+      "sceneId": "p028-week",
+      "jp": "かようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "しがつ ふつかです。",
+      "note": ""
+    },
+    {
+      "id": "p028-week-q5",
+      "sceneId": "p028-week",
+      "jp": "しがつ みっかは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "すいようびです。",
+      "note": ""
+    },
+    {
+      "id": "p028-week-q6",
+      "sceneId": "p028-week",
+      "jp": "すいようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "しがつ みっかです。",
+      "note": ""
+    },
+    {
+      "id": "p028-week-q7",
+      "sceneId": "p028-week",
+      "jp": "しがつ よっかは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "もくようびです。",
+      "note": ""
+    },
+    {
+      "id": "p028-week-q8",
+      "sceneId": "p028-week",
+      "jp": "もくようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "しがつ よっかです。",
+      "note": ""
+    },
+    {
+      "id": "p028-week-q9",
+      "sceneId": "p028-week",
+      "jp": "しがつ いつかは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "きんようびです。",
+      "note": ""
+    },
+    {
+      "id": "p028-week-q10",
+      "sceneId": "p028-week",
+      "jp": "きんようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "しがつ いつかです。",
+      "note": ""
+    },
+    {
+      "id": "p028-week-q11",
+      "sceneId": "p028-week",
+      "jp": "しがつ むいかは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "どようびです。",
+      "note": ""
+    },
+    {
+      "id": "p028-week-q12",
+      "sceneId": "p028-week",
+      "jp": "どようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "しがつ むいかです。",
+      "note": ""
+    },
+    {
+      "id": "p028-week-q13",
+      "sceneId": "p028-week",
+      "jp": "しがつ なのかは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "にちようびです。",
+      "note": ""
+    },
+    {
+      "id": "p028-week-q14",
+      "sceneId": "p028-week",
+      "jp": "にちようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "しがつ なのかです。",
+      "note": ""
+    },
+    {
+      "id": "p029-week-q1",
+      "sceneId": "p029-week",
+      "jp": "くがつ じゅうよっかは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "げつようびです。",
+      "note": ""
+    },
+    {
+      "id": "p029-week-q2",
+      "sceneId": "p029-week",
+      "jp": "げつようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "くがつ じゅうよっかです。",
+      "note": ""
+    },
+    {
+      "id": "p029-week-q3",
+      "sceneId": "p029-week",
+      "jp": "くがつ じゅうごにちは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "かようびです。",
+      "note": ""
+    },
+    {
+      "id": "p029-week-q4",
+      "sceneId": "p029-week",
+      "jp": "かようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "くがつ じゅうごにちです。",
+      "note": ""
+    },
+    {
+      "id": "p029-week-q5",
+      "sceneId": "p029-week",
+      "jp": "くがつ じゅうろくにちは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "すいようびです。",
+      "note": ""
+    },
+    {
+      "id": "p029-week-q6",
+      "sceneId": "p029-week",
+      "jp": "すいようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "くがつ じゅうろくにちです。",
+      "note": ""
+    },
+    {
+      "id": "p029-week-q7",
+      "sceneId": "p029-week",
+      "jp": "くがつ じゅうななにちは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "もくようびです。",
+      "note": ""
+    },
+    {
+      "id": "p029-week-q8",
+      "sceneId": "p029-week",
+      "jp": "もくようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "くがつ じゅうななにちです。",
+      "note": ""
+    },
+    {
+      "id": "p029-week-q9",
+      "sceneId": "p029-week",
+      "jp": "くがつ じゅうはちにちは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "きんようびです。",
+      "note": ""
+    },
+    {
+      "id": "p029-week-q10",
+      "sceneId": "p029-week",
+      "jp": "きんようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "くがつ じゅうはちにちです。",
+      "note": ""
+    },
+    {
+      "id": "p029-week-q11",
+      "sceneId": "p029-week",
+      "jp": "くがつ じゅうきゅうにちは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "どようびです。",
+      "note": ""
+    },
+    {
+      "id": "p029-week-q12",
+      "sceneId": "p029-week",
+      "jp": "どようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "くがつ じゅうきゅうにちです。",
+      "note": ""
+    },
+    {
+      "id": "p029-week-q13",
+      "sceneId": "p029-week",
+      "jp": "くがつ はつかは なんようびですか。",
+      "vi": "Ngày này là thứ mấy? (Theo lịch trong ảnh.)",
+      "answer": "にちようびです。",
+      "note": ""
+    },
+    {
+      "id": "p029-week-q14",
+      "sceneId": "p029-week",
+      "jp": "にちようびは なんがつなんにちですか。",
+      "vi": "Thứ này là ngày mấy tháng mấy? (Theo ảnh.)",
+      "answer": "くがつ はつかです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q1",
+      "sceneId": "p033-building",
+      "jp": "レストランは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "ごかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q2",
+      "sceneId": "p033-building",
+      "jp": "レストランは ごかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、ごかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q3",
+      "sceneId": "p033-building",
+      "jp": "サカイでんきは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "よんかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q4",
+      "sceneId": "p033-building",
+      "jp": "サカイでんきは よんかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、よんかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q5",
+      "sceneId": "p033-building",
+      "jp": "ひゃくえんショップは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "さんがいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q6",
+      "sceneId": "p033-building",
+      "jp": "ひゃくえんショップは さんがいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、さんがいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q7",
+      "sceneId": "p033-building",
+      "jp": "くつうりばは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "にかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q8",
+      "sceneId": "p033-building",
+      "jp": "くつうりばは にかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、にかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q9",
+      "sceneId": "p033-building",
+      "jp": "ふくうりばは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "にかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q10",
+      "sceneId": "p033-building",
+      "jp": "ふくうりばは にかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、にかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q11",
+      "sceneId": "p033-building",
+      "jp": "ほんうりばは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "にかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q12",
+      "sceneId": "p033-building",
+      "jp": "ほんうりばは にかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、にかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q13",
+      "sceneId": "p033-building",
+      "jp": "きっさてんは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q14",
+      "sceneId": "p033-building",
+      "jp": "きっさてんは いっかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q15",
+      "sceneId": "p033-building",
+      "jp": "ケーキうりばは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q16",
+      "sceneId": "p033-building",
+      "jp": "ケーキうりばは いっかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q17",
+      "sceneId": "p033-building",
+      "jp": "エーティーエムは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q18",
+      "sceneId": "p033-building",
+      "jp": "エーティーエムは いっかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q19",
+      "sceneId": "p033-building",
+      "jp": "スーパーは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "ちかいっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q20",
+      "sceneId": "p033-building",
+      "jp": "スーパーは ちかいっかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、ちかいっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p033-building-q21",
+      "sceneId": "p033-building",
+      "jp": "トイレは なんかいですか。",
+      "vi": "Nhà vệ sinh ở những tầng nào?",
+      "answer": "いっかいと さんがいと ごかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q1",
+      "sceneId": "p034-building",
+      "jp": "レストランは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "ろっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q2",
+      "sceneId": "p034-building",
+      "jp": "レストランは ろっかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、ろっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q3",
+      "sceneId": "p034-building",
+      "jp": "シーディーうりばは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "ごかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q4",
+      "sceneId": "p034-building",
+      "jp": "シーディーうりばは ごかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、ごかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q5",
+      "sceneId": "p034-building",
+      "jp": "ほんうりばは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "ごかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q6",
+      "sceneId": "p034-building",
+      "jp": "ほんうりばは ごかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、ごかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q7",
+      "sceneId": "p034-building",
+      "jp": "きっさてんは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "ごかいと さんがいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q8",
+      "sceneId": "p034-building",
+      "jp": "きっさてんは ごかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、ごかいと さんがいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q9",
+      "sceneId": "p034-building",
+      "jp": "サカイでんきは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "よんかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q10",
+      "sceneId": "p034-building",
+      "jp": "サカイでんきは よんかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、よんかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q11",
+      "sceneId": "p034-building",
+      "jp": "ひゃくえんショップは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "さんがいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q12",
+      "sceneId": "p034-building",
+      "jp": "ひゃくえんショップは さんがいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、さんがいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q13",
+      "sceneId": "p034-building",
+      "jp": "くつうりばは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "にかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q14",
+      "sceneId": "p034-building",
+      "jp": "くつうりばは にかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、にかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q15",
+      "sceneId": "p034-building",
+      "jp": "ふくうりばは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "にかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q16",
+      "sceneId": "p034-building",
+      "jp": "ふくうりばは にかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、にかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q17",
+      "sceneId": "p034-building",
+      "jp": "はなうりばは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q18",
+      "sceneId": "p034-building",
+      "jp": "はなうりばは いっかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q19",
+      "sceneId": "p034-building",
+      "jp": "バーは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q20",
+      "sceneId": "p034-building",
+      "jp": "バーは いっかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q21",
+      "sceneId": "p034-building",
+      "jp": "ケーキうりばは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q22",
+      "sceneId": "p034-building",
+      "jp": "ケーキうりばは いっかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p034-building-q23",
+      "sceneId": "p034-building",
+      "jp": "トイレは なんかいですか。",
+      "vi": "Nhà vệ sinh ở những tầng nào?",
+      "answer": "にかいと よんかいと ろっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p035-building-q1",
+      "sceneId": "p035-building",
+      "jp": "きっさてんは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "ごかいです。",
+      "note": ""
+    },
+    {
+      "id": "p035-building-q2",
+      "sceneId": "p035-building",
+      "jp": "きっさてんは ごかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、ごかいです。",
+      "note": ""
+    },
+    {
+      "id": "p035-building-q3",
+      "sceneId": "p035-building",
+      "jp": "ひゃくえんショップは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "よんかいです。",
+      "note": ""
+    },
+    {
+      "id": "p035-building-q4",
+      "sceneId": "p035-building",
+      "jp": "ひゃくえんショップは よんかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、よんかいです。",
+      "note": ""
+    },
+    {
+      "id": "p035-building-q5",
+      "sceneId": "p035-building",
+      "jp": "ほんやは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "さんがいです。",
+      "note": ""
+    },
+    {
+      "id": "p035-building-q6",
+      "sceneId": "p035-building",
+      "jp": "ほんやは さんがいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、さんがいです。",
+      "note": ""
+    },
+    {
+      "id": "p035-building-q7",
+      "sceneId": "p035-building",
+      "jp": "さくらレストランは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "にかいです。",
+      "note": ""
+    },
+    {
+      "id": "p035-building-q8",
+      "sceneId": "p035-building",
+      "jp": "さくらレストランは にかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、にかいです。",
+      "note": ""
+    },
+    {
+      "id": "p035-building-q9",
+      "sceneId": "p035-building",
+      "jp": "みどりゆうびんきょくは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p035-building-q10",
+      "sceneId": "p035-building",
+      "jp": "みどりゆうびんきょくは いっかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p035-building-q11",
+      "sceneId": "p035-building",
+      "jp": "ふじみぎんこうは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "ちかいっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p035-building-q12",
+      "sceneId": "p035-building",
+      "jp": "ふじみぎんこうは ちかいっかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、ちかいっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p036-building-q1",
+      "sceneId": "p036-building",
+      "jp": "エービーイーかいしゃは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "ごかいです。",
+      "note": ""
+    },
+    {
+      "id": "p036-building-q2",
+      "sceneId": "p036-building",
+      "jp": "エービーイーかいしゃは ごかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、ごかいです。",
+      "note": ""
+    },
+    {
+      "id": "p036-building-q3",
+      "sceneId": "p036-building",
+      "jp": "にほんごがっこうは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "よんかいです。",
+      "note": ""
+    },
+    {
+      "id": "p036-building-q4",
+      "sceneId": "p036-building",
+      "jp": "にほんごがっこうは よんかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、よんかいです。",
+      "note": ""
+    },
+    {
+      "id": "p036-building-q5",
+      "sceneId": "p036-building",
+      "jp": "はなびょういんは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "さんがいです。",
+      "note": ""
+    },
+    {
+      "id": "p036-building-q6",
+      "sceneId": "p036-building",
+      "jp": "はなびょういんは さんがいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、さんがいです。",
+      "note": ""
+    },
+    {
+      "id": "p036-building-q7",
+      "sceneId": "p036-building",
+      "jp": "きつえんじょは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "にかいです。",
+      "note": ""
+    },
+    {
+      "id": "p036-building-q8",
+      "sceneId": "p036-building",
+      "jp": "きつえんじょは にかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、にかいです。",
+      "note": ""
+    },
+    {
+      "id": "p036-building-q9",
+      "sceneId": "p036-building",
+      "jp": "ひまわりとしょかんは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p036-building-q10",
+      "sceneId": "p036-building",
+      "jp": "ひまわりとしょかんは いっかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、いっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p036-building-q11",
+      "sceneId": "p036-building",
+      "jp": "スーパーは なんかいですか。",
+      "vi": "Địa điểm này ở tầng mấy?",
+      "answer": "ちかいっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p036-building-q12",
+      "sceneId": "p036-building",
+      "jp": "スーパーは ちかいっかいですか。",
+      "vi": "Xác nhận tầng.",
+      "answer": "はい、ちかいっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-0-q1",
+      "sceneId": "p038-object-0",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "とけいです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-1-q1",
+      "sceneId": "p038-object-1",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "でんしじしょです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-2-q1",
+      "sceneId": "p038-object-2",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "くつです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-3-q1",
+      "sceneId": "p038-object-3",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "カメラです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-4-q1",
+      "sceneId": "p038-object-4",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "スマートフォンです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-5-q1",
+      "sceneId": "p038-object-5",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "パソコンです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-6-q1",
+      "sceneId": "p038-object-6",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "シャツです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-7-q1",
+      "sceneId": "p038-object-7",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "ズボンです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-8-q1",
+      "sceneId": "p038-object-8",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "かばんです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-9-q1",
+      "sceneId": "p038-object-9",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "さいふです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-10-q1",
+      "sceneId": "p038-object-10",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "ティーバッグです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-11-q1",
+      "sceneId": "p038-object-11",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "ペンです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-12-q1",
+      "sceneId": "p038-object-12",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "とんかつです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-13-q1",
+      "sceneId": "p038-object-13",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "ハンバーグです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-14-q1",
+      "sceneId": "p038-object-14",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "カレーです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-15-q1",
+      "sceneId": "p038-object-15",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "あぶらです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-16-q1",
+      "sceneId": "p038-object-16",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "ワインです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-17-q1",
+      "sceneId": "p038-object-17",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "にほんごのほんです。",
+      "note": ""
+    },
+    {
+      "id": "p038-object-18-q1",
+      "sceneId": "p038-object-18",
+      "jp": "これは にほんごで なんですか。",
+      "vi": "Vật này tiếng Nhật là gì?",
+      "answer": "えいごのほんです。",
+      "note": ""
+    },
+    {
+      "id": "p040-0-q1",
+      "sceneId": "p040-0",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Hãy gọi đủ món và số lượng trong ảnh.",
+      "answer": "ケーキを みっつと みずを ふたつ ください。",
+      "note": "Mẫu: Nを số lượng と Nを số lượng ください。"
+    },
+    {
+      "id": "p040-1-q1",
+      "sceneId": "p040-1",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Hãy gọi đủ món và số lượng trong ảnh.",
+      "answer": "おちゃを よっつと カレーを ひとつ ください。",
+      "note": "Mẫu: Nを số lượng と Nを số lượng ください。"
+    },
+    {
+      "id": "p041-0-q1",
+      "sceneId": "p041-0",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Hãy gọi đủ món và số lượng trong ảnh.",
+      "answer": "コーヒーを いつつと ジュースを ふたつ ください。",
+      "note": "Mẫu: Nを số lượng と Nを số lượng ください。"
+    },
+    {
+      "id": "p041-1-q1",
+      "sceneId": "p041-1",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Hãy gọi đủ món và số lượng trong ảnh.",
+      "answer": "ビールを みっつと とんかつを ふたつ ください。",
+      "note": "Mẫu: Nを số lượng と Nを số lượng ください。"
+    },
+    {
+      "id": "p045-1-q1",
+      "sceneId": "p045-1",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "とけいです。",
+      "note": ""
+    },
+    {
+      "id": "p045-1-q2",
+      "sceneId": "p045-1",
+      "jp": "このとけいは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "ごじゅうろくまんドンです。",
+      "note": "Giá ghi trên đề: 560,000 ドン. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p045-1-q3",
+      "sceneId": "p045-1",
+      "jp": "このとけいは ごじゅうろくまんドンですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p045-1-q4",
+      "sceneId": "p045-1",
+      "jp": "これは どこの とけいですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "ちゅうごくの とけいです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p045-1-q5",
+      "sceneId": "p045-1",
+      "jp": "これは にほんの とけいですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、ちゅうごくの とけいです。",
+      "note": ""
+    },
+    {
+      "id": "p045-1-q6",
+      "sceneId": "p045-1",
+      "jp": "このとけいの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "ローレックスの とけいです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p045-1-q7",
+      "sceneId": "p045-1",
+      "jp": "これは だれの とけいですか。",
+      "vi": "Đồ của ai?",
+      "answer": "アインせんせいの とけいです。",
+      "note": ""
+    },
+    {
+      "id": "p045-2-q1",
+      "sceneId": "p045-2",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "でんしじしょです。",
+      "note": ""
+    },
+    {
+      "id": "p045-2-q2",
+      "sceneId": "p045-2",
+      "jp": "このでんしじしょは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "よんまんさんぜんえんです。",
+      "note": "Giá ghi trên đề: 43,000 えん. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p045-2-q3",
+      "sceneId": "p045-2",
+      "jp": "このでんしじしょは よんまんさんぜんえんですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p045-2-q4",
+      "sceneId": "p045-2",
+      "jp": "これは どこの でんしじしょですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "にほんの でんしじしょです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p045-2-q5",
+      "sceneId": "p045-2",
+      "jp": "これは にほんの でんしじしょですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p045-2-q6",
+      "sceneId": "p045-2",
+      "jp": "このでんしじしょの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "カシオの でんしじしょです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p045-2-q7",
+      "sceneId": "p045-2",
+      "jp": "これは だれの でんしじしょですか。",
+      "vi": "Đồ của ai?",
+      "answer": "アドリアンさんの でんしじしょです。",
+      "note": ""
+    },
+    {
+      "id": "p046-1-q1",
+      "sceneId": "p046-1",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "くつです。",
+      "note": ""
+    },
+    {
+      "id": "p046-1-q2",
+      "sceneId": "p046-1",
+      "jp": "このくつは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "さんじゅうごまんドンです。",
+      "note": "Giá ghi trên đề: 350,000 ドン. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p046-1-q3",
+      "sceneId": "p046-1",
+      "jp": "このくつは さんじゅうごまんドンですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p046-1-q4",
+      "sceneId": "p046-1",
+      "jp": "これは どこの くつですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "ベトナムの くつです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p046-1-q5",
+      "sceneId": "p046-1",
+      "jp": "これは にほんの くつですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、ベトナムの くつです。",
+      "note": ""
+    },
+    {
+      "id": "p046-1-q6",
+      "sceneId": "p046-1",
+      "jp": "このくつの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "アディダスの くつです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p046-1-q7",
+      "sceneId": "p046-1",
+      "jp": "これは だれの くつですか。",
+      "vi": "Đồ của ai?",
+      "answer": "ナムさんの くつです。",
+      "note": ""
+    },
+    {
+      "id": "p046-2-q1",
+      "sceneId": "p046-2",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "スマートフォンです。",
+      "note": ""
+    },
+    {
+      "id": "p046-2-q2",
+      "sceneId": "p046-2",
+      "jp": "このスマートフォンは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "じゅうはちまんえんです。",
+      "note": "Giá ghi trên đề: 180,000 えん. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p046-2-q3",
+      "sceneId": "p046-2",
+      "jp": "このスマートフォンは じゅうはちまんえんですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p046-2-q4",
+      "sceneId": "p046-2",
+      "jp": "これは どこの スマートフォンですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "アメリカの スマートフォンです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p046-2-q5",
+      "sceneId": "p046-2",
+      "jp": "これは にほんの スマートフォンですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、アメリカの スマートフォンです。",
+      "note": ""
+    },
+    {
+      "id": "p046-2-q6",
+      "sceneId": "p046-2",
+      "jp": "このスマートフォンの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "アップルの スマートフォンです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p046-2-q7",
+      "sceneId": "p046-2",
+      "jp": "これは だれの スマートフォンですか。",
+      "vi": "Đồ của ai?",
+      "answer": "ナタリアさんの スマートフォンです。",
+      "note": ""
+    },
+    {
+      "id": "p047-1-q1",
+      "sceneId": "p047-1",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "パソコンです。",
+      "note": ""
+    },
+    {
+      "id": "p047-1-q2",
+      "sceneId": "p047-1",
+      "jp": "このパソコンは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "じゅういちまんさんぜんえんです。",
+      "note": "Giá ghi trên đề: 113,000 えん. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p047-1-q3",
+      "sceneId": "p047-1",
+      "jp": "このパソコンは じゅういちまんさんぜんえんですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p047-1-q4",
+      "sceneId": "p047-1",
+      "jp": "これは どこの パソコンですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "インドの パソコンです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p047-1-q5",
+      "sceneId": "p047-1",
+      "jp": "これは にほんの パソコンですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、インドの パソコンです。",
+      "note": ""
+    },
+    {
+      "id": "p047-1-q6",
+      "sceneId": "p047-1",
+      "jp": "このパソコンの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "レノボの パソコンです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p047-1-q7",
+      "sceneId": "p047-1",
+      "jp": "これは だれの パソコンですか。",
+      "vi": "Đồ của ai?",
+      "answer": "アンジェラさんの パソコンです。",
+      "note": ""
+    },
+    {
+      "id": "p047-2-q1",
+      "sceneId": "p047-2",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "カメラです。",
+      "note": ""
+    },
+    {
+      "id": "p047-2-q2",
+      "sceneId": "p047-2",
+      "jp": "このカメラは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "にじゅうごまんはっせんえんです。",
+      "note": "Giá ghi trên đề: 258,000 えん. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p047-2-q3",
+      "sceneId": "p047-2",
+      "jp": "このカメラは にじゅうごまんはっせんえんですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p047-2-q4",
+      "sceneId": "p047-2",
+      "jp": "これは どこの カメラですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "かんこくの カメラです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p047-2-q5",
+      "sceneId": "p047-2",
+      "jp": "これは にほんの カメラですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、かんこくの カメラです。",
+      "note": ""
+    },
+    {
+      "id": "p047-2-q6",
+      "sceneId": "p047-2",
+      "jp": "このカメラの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "ニーコンの カメラです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p047-2-q7",
+      "sceneId": "p047-2",
+      "jp": "これは だれの カメラですか。",
+      "vi": "Đồ của ai?",
+      "answer": "スコットさんの カメラです。",
+      "note": ""
+    },
+    {
+      "id": "p048-1-q1",
+      "sceneId": "p048-1",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "ハンバーグです。",
+      "note": ""
+    },
+    {
+      "id": "p048-1-q2",
+      "sceneId": "p048-1",
+      "jp": "このハンバーグは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "せんろっぴゃくななじゅうえんです。",
+      "note": "Giá ghi trên đề: 1,670 えん. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p048-1-q3",
+      "sceneId": "p048-1",
+      "jp": "このハンバーグは せんろっぴゃくななじゅうえんですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p048-1-q4",
+      "sceneId": "p048-1",
+      "jp": "これは どこの ハンバーグですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "ロッテリアの ハンバーグです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p048-1-q5",
+      "sceneId": "p048-1",
+      "jp": "これは なんの ハンバーグですか。",
+      "vi": "Loại gì / làm từ gì?",
+      "answer": "ぎゅうにくと やさいの ハンバーグです。",
+      "note": ""
+    },
+    {
+      "id": "p048-1-q6",
+      "sceneId": "p048-1",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "みっつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p048-1-q7",
+      "sceneId": "p048-1",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "ハンバーグを みっつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p048-1-q8",
+      "sceneId": "p048-1",
+      "jp": "ロッテリアは なんかいですか。",
+      "vi": "Cửa hàng / quầy ở tầng mấy?",
+      "answer": "さんがいです。",
+      "note": ""
+    },
+    {
+      "id": "p048-2-q1",
+      "sceneId": "p048-2",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "ケーキです。",
+      "note": ""
+    },
+    {
+      "id": "p048-2-q2",
+      "sceneId": "p048-2",
+      "jp": "このケーキは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "さんびゃくじゅうえんです。",
+      "note": "Giá ghi trên đề: 310 えん. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p048-2-q3",
+      "sceneId": "p048-2",
+      "jp": "このケーキは さんびゃくじゅうえんですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p048-2-q4",
+      "sceneId": "p048-2",
+      "jp": "これは どこの ケーキですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "かんこくの ケーキです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p048-2-q5",
+      "sceneId": "p048-2",
+      "jp": "これは にほんの ケーキですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、かんこくの ケーキです。",
+      "note": ""
+    },
+    {
+      "id": "p048-2-q6",
+      "sceneId": "p048-2",
+      "jp": "このケーキの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "サントリーの ケーキです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p048-2-q7",
+      "sceneId": "p048-2",
+      "jp": "これは なんの ケーキですか。",
+      "vi": "Loại gì / làm từ gì?",
+      "answer": "いちごの ケーキです。",
+      "note": ""
+    },
+    {
+      "id": "p048-2-q8",
+      "sceneId": "p048-2",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "ひとつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p048-2-q9",
+      "sceneId": "p048-2",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "ケーキを ひとつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p049-1-q1",
+      "sceneId": "p049-1",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "パイです。",
+      "note": ""
+    },
+    {
+      "id": "p049-1-q2",
+      "sceneId": "p049-1",
+      "jp": "このパイは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "せんろっぴゃくごじゅうえんです。",
+      "note": "Giá ghi trên đề: 1,650 えん. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p049-1-q3",
+      "sceneId": "p049-1",
+      "jp": "このパイは せんろっぴゃくごじゅうえんですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p049-1-q4",
+      "sceneId": "p049-1",
+      "jp": "このパイの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "マイソンの パイです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p049-1-q5",
+      "sceneId": "p049-1",
+      "jp": "これは なんの パイですか。",
+      "vi": "Loại gì / làm từ gì?",
+      "answer": "りんごの パイです。",
+      "note": ""
+    },
+    {
+      "id": "p049-1-q6",
+      "sceneId": "p049-1",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "ふたつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p049-1-q7",
+      "sceneId": "p049-1",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "パイを ふたつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p049-2-q1",
+      "sceneId": "p049-2",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "ジュースです。",
+      "note": ""
+    },
+    {
+      "id": "p049-2-q2",
+      "sceneId": "p049-2",
+      "jp": "このジュースは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "さんびゃくななじゅうえんです。",
+      "note": "Giá ghi trên đề: 370 えん. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p049-2-q3",
+      "sceneId": "p049-2",
+      "jp": "このジュースは さんびゃくななじゅうえんですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p049-2-q4",
+      "sceneId": "p049-2",
+      "jp": "これは どこの ジュースですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "ブラジルの ジュースです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p049-2-q5",
+      "sceneId": "p049-2",
+      "jp": "これは にほんの ジュースですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、ブラジルの ジュースです。",
+      "note": ""
+    },
+    {
+      "id": "p049-2-q6",
+      "sceneId": "p049-2",
+      "jp": "このジュースの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "キリンの ジュースです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p049-2-q7",
+      "sceneId": "p049-2",
+      "jp": "これは なんの ジュースですか。",
+      "vi": "Loại gì / làm từ gì?",
+      "answer": "りんごの ジュースです。",
+      "note": ""
+    },
+    {
+      "id": "p049-2-q8",
+      "sceneId": "p049-2",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "いつつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p049-2-q9",
+      "sceneId": "p049-2",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "ジュースを いつつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p050-1-q1",
+      "sceneId": "p050-1",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "どんぶりです。",
+      "note": ""
+    },
+    {
+      "id": "p050-1-q2",
+      "sceneId": "p050-1",
+      "jp": "このどんぶりは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "せんさんびゃくごじゅうえんです。",
+      "note": "Giá ghi trên đề: 1,350 えん. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p050-1-q3",
+      "sceneId": "p050-1",
+      "jp": "このどんぶりは せんさんびゃくごじゅうえんですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p050-1-q4",
+      "sceneId": "p050-1",
+      "jp": "これは なんの どんぶりですか。",
+      "vi": "Loại gì / làm từ gì?",
+      "answer": "とりにくと やさいの どんぶりです。",
+      "note": ""
+    },
+    {
+      "id": "p050-1-q5",
+      "sceneId": "p050-1",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "よっつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p050-1-q6",
+      "sceneId": "p050-1",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "どんぶりを よっつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p050-2-q1",
+      "sceneId": "p050-2",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "スープです。",
+      "note": ""
+    },
+    {
+      "id": "p050-2-q2",
+      "sceneId": "p050-2",
+      "jp": "このスープは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "はっぴゃくよんじゅうえんです。",
+      "note": "Giá ghi trên đề: 840 えん. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p050-2-q3",
+      "sceneId": "p050-2",
+      "jp": "このスープは はっぴゃくよんじゅうえんですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p050-2-q4",
+      "sceneId": "p050-2",
+      "jp": "これは なんの スープですか。",
+      "vi": "Loại gì / làm từ gì?",
+      "answer": "やさいの スープです。",
+      "note": ""
+    },
+    {
+      "id": "p050-2-q5",
+      "sceneId": "p050-2",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "ふたつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p050-2-q6",
+      "sceneId": "p050-2",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "スープを ふたつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p051-1-q1",
+      "sceneId": "p051-1",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "とんかつです。",
+      "note": ""
+    },
+    {
+      "id": "p051-1-q2",
+      "sceneId": "p051-1",
+      "jp": "このとんかつは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "さんぜんさんびゃくえんです。",
+      "note": "Giá ghi trên đề: 3,300 えん. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p051-1-q3",
+      "sceneId": "p051-1",
+      "jp": "このとんかつは さんぜんさんびゃくえんですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p051-1-q4",
+      "sceneId": "p051-1",
+      "jp": "これは どこの とんかつですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "ハッピーの とんかつです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p051-1-q5",
+      "sceneId": "p051-1",
+      "jp": "これは なんの とんかつですか。",
+      "vi": "Loại gì / làm từ gì?",
+      "answer": "ぶたにくの とんかつです。",
+      "note": ""
+    },
+    {
+      "id": "p051-1-q6",
+      "sceneId": "p051-1",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "みっつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p051-1-q7",
+      "sceneId": "p051-1",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "とんかつを みっつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p051-1-q8",
+      "sceneId": "p051-1",
+      "jp": "ハッピーは なんかいですか。",
+      "vi": "Cửa hàng / quầy ở tầng mấy?",
+      "answer": "ろっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p051-2-q1",
+      "sceneId": "p051-2",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "ビールです。",
+      "note": ""
+    },
+    {
+      "id": "p051-2-q2",
+      "sceneId": "p051-2",
+      "jp": "このビールは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "はっぴゃくにじゅうえんです。",
+      "note": "Giá ghi trên đề: 820 えん. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p051-2-q3",
+      "sceneId": "p051-2",
+      "jp": "このビールは はっぴゃくにじゅうえんですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p051-2-q4",
+      "sceneId": "p051-2",
+      "jp": "これは どこの ビールですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "ドイツの ビールです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p051-2-q5",
+      "sceneId": "p051-2",
+      "jp": "これは にほんの ビールですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、ドイツの ビールです。",
+      "note": ""
+    },
+    {
+      "id": "p051-2-q6",
+      "sceneId": "p051-2",
+      "jp": "このビールの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "タイガーの ビールです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p051-2-q7",
+      "sceneId": "p051-2",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "よっつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p051-2-q8",
+      "sceneId": "p051-2",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "ビールを よっつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p052-1-q1",
+      "sceneId": "p052-1",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "さかなりょうりです。",
+      "note": ""
+    },
+    {
+      "id": "p052-1-q2",
+      "sceneId": "p052-1",
+      "jp": "このさかなりょうりは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "にせんさんびゃくごじゅうえんです。",
+      "note": "Giá ghi trên đề: 2,350 えん. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p052-1-q3",
+      "sceneId": "p052-1",
+      "jp": "このさかなりょうりは にせんさんびゃくごじゅうえんですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p052-1-q4",
+      "sceneId": "p052-1",
+      "jp": "これは どこの さかなりょうりですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "ニコニコの さかなりょうりです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p052-1-q5",
+      "sceneId": "p052-1",
+      "jp": "これは なんの さかなりょうりですか。",
+      "vi": "Loại gì / làm từ gì?",
+      "answer": "さかなと やさいの さかなりょうりです。",
+      "note": ""
+    },
+    {
+      "id": "p052-1-q6",
+      "sceneId": "p052-1",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "ふたつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p052-1-q7",
+      "sceneId": "p052-1",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "さかなりょうりを ふたつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p052-1-q8",
+      "sceneId": "p052-1",
+      "jp": "ニコニコは なんかいですか。",
+      "vi": "Cửa hàng / quầy ở tầng mấy?",
+      "answer": "はっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p052-2-q1",
+      "sceneId": "p052-2",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "ワインです。",
+      "note": ""
+    },
+    {
+      "id": "p052-2-q2",
+      "sceneId": "p052-2",
+      "jp": "このワインは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "にまんさんぜんろっぴゃくえんです。",
+      "note": "Giá ghi trên đề: 23,600 えん. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p052-2-q3",
+      "sceneId": "p052-2",
+      "jp": "このワインは にまんさんぜんろっぴゃくえんですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p052-2-q4",
+      "sceneId": "p052-2",
+      "jp": "これは どこの ワインですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "フランスの ワインです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p052-2-q5",
+      "sceneId": "p052-2",
+      "jp": "これは にほんの ワインですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、フランスの ワインです。",
+      "note": ""
+    },
+    {
+      "id": "p052-2-q6",
+      "sceneId": "p052-2",
+      "jp": "このワインの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "タボルドの ワインです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p052-2-q7",
+      "sceneId": "p052-2",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "ひとつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p052-2-q8",
+      "sceneId": "p052-2",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "ワインを ひとつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p053-1-q1",
+      "sceneId": "p053-1",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "ほんです。",
+      "note": ""
+    },
+    {
+      "id": "p053-1-q2",
+      "sceneId": "p053-1",
+      "jp": "このほんは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "にじゅうにまんはっせんドンです。",
+      "note": "Giá ghi trên đề: 228,000 ドン. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p053-1-q3",
+      "sceneId": "p053-1",
+      "jp": "このほんは にじゅうにまんはっせんドンですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p053-1-q4",
+      "sceneId": "p053-1",
+      "jp": "これは だれの ほんですか。",
+      "vi": "Đồ của ai?",
+      "answer": "ナタリアさんの ほんです。",
+      "note": ""
+    },
+    {
+      "id": "p053-1-q5",
+      "sceneId": "p053-1",
+      "jp": "これは なんの ほんですか。",
+      "vi": "Loại gì / làm từ gì?",
+      "answer": "えいごの ほんです。",
+      "note": ""
+    },
+    {
+      "id": "p053-1-q6",
+      "sceneId": "p053-1",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "ふたつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p053-1-q7",
+      "sceneId": "p053-1",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "ほんを ふたつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p053-2-q1",
+      "sceneId": "p053-2",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "ほんです。",
+      "note": ""
+    },
+    {
+      "id": "p053-2-q2",
+      "sceneId": "p053-2",
+      "jp": "このほんは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "じゅうきゅうまんろくせんドンです。",
+      "note": "Giá ghi trên đề: 196,000 ドン. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p053-2-q3",
+      "sceneId": "p053-2",
+      "jp": "このほんは じゅうきゅうまんろくせんドンですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p053-2-q4",
+      "sceneId": "p053-2",
+      "jp": "これは だれの ほんですか。",
+      "vi": "Đồ của ai?",
+      "answer": "イサベラさんの ほんです。",
+      "note": ""
+    },
+    {
+      "id": "p053-2-q5",
+      "sceneId": "p053-2",
+      "jp": "これは なんの ほんですか。",
+      "vi": "Loại gì / làm từ gì?",
+      "answer": "にほんごの ほんです。",
+      "note": ""
+    },
+    {
+      "id": "p053-2-q6",
+      "sceneId": "p053-2",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "みっつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p053-2-q7",
+      "sceneId": "p053-2",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "ほんを みっつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p054-1-q1",
+      "sceneId": "p054-1",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "シャツです。",
+      "note": ""
+    },
+    {
+      "id": "p054-1-q2",
+      "sceneId": "p054-1",
+      "jp": "このシャツは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "ひゃくにじゅうドルです。",
+      "note": "Giá ghi trên đề: 120 ドル. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p054-1-q3",
+      "sceneId": "p054-1",
+      "jp": "このシャツは ひゃくにじゅうドルですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p054-1-q4",
+      "sceneId": "p054-1",
+      "jp": "これは どこの シャツですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "タイの シャツです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p054-1-q5",
+      "sceneId": "p054-1",
+      "jp": "これは にほんの シャツですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、タイの シャツです。",
+      "note": ""
+    },
+    {
+      "id": "p054-1-q6",
+      "sceneId": "p054-1",
+      "jp": "このシャツの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "ナイキの シャツです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p054-1-q7",
+      "sceneId": "p054-1",
+      "jp": "これは だれの シャツですか。",
+      "vi": "Đồ của ai?",
+      "answer": "サントスさんの シャツです。",
+      "note": ""
+    },
+    {
+      "id": "p054-1-q8",
+      "sceneId": "p054-1",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "むっつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p054-1-q9",
+      "sceneId": "p054-1",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "シャツを むっつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p054-1-q10",
+      "sceneId": "p054-1",
+      "jp": "シャツうりばは なんかいですか。",
+      "vi": "Cửa hàng / quầy ở tầng mấy?",
+      "answer": "じゅっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p054-2-q1",
+      "sceneId": "p054-2",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "ズボンです。",
+      "note": ""
+    },
+    {
+      "id": "p054-2-q2",
+      "sceneId": "p054-2",
+      "jp": "このズボンは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "よんせんろっぴゃくごじゅうドルです。",
+      "note": "Giá ghi trên đề: 4,650 ドル. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p054-2-q3",
+      "sceneId": "p054-2",
+      "jp": "このズボンは よんせんろっぴゃくごじゅうドルですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p054-2-q4",
+      "sceneId": "p054-2",
+      "jp": "これは どこの ズボンですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "ロシアの ズボンです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p054-2-q5",
+      "sceneId": "p054-2",
+      "jp": "これは にほんの ズボンですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、ロシアの ズボンです。",
+      "note": ""
+    },
+    {
+      "id": "p054-2-q6",
+      "sceneId": "p054-2",
+      "jp": "このズボンの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "リーバイの ズボンです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p054-2-q7",
+      "sceneId": "p054-2",
+      "jp": "これは だれの ズボンですか。",
+      "vi": "Đồ của ai?",
+      "answer": "マイクさんの ズボンです。",
+      "note": ""
+    },
+    {
+      "id": "p054-2-q8",
+      "sceneId": "p054-2",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "ななつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p054-2-q9",
+      "sceneId": "p054-2",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "ズボンを ななつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p055-1-q1",
+      "sceneId": "p055-1",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "ペンです。",
+      "note": ""
+    },
+    {
+      "id": "p055-1-q2",
+      "sceneId": "p055-1",
+      "jp": "このペンは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "ごじゅうにまんはっせんドンです。",
+      "note": "Giá ghi trên đề: 528,000 ドン. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p055-1-q3",
+      "sceneId": "p055-1",
+      "jp": "このペンは ごじゅうにまんはっせんドンですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p055-1-q4",
+      "sceneId": "p055-1",
+      "jp": "これは どこの ペンですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "オーストラリアの ペンです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p055-1-q5",
+      "sceneId": "p055-1",
+      "jp": "これは にほんの ペンですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、オーストラリアの ペンです。",
+      "note": ""
+    },
+    {
+      "id": "p055-1-q6",
+      "sceneId": "p055-1",
+      "jp": "このペンの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "パイロットの ペンです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p055-1-q7",
+      "sceneId": "p055-1",
+      "jp": "これは だれの ペンですか。",
+      "vi": "Đồ của ai?",
+      "answer": "ベッキーさんの ペンです。",
+      "note": ""
+    },
+    {
+      "id": "p055-1-q8",
+      "sceneId": "p055-1",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "ここのつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p055-1-q9",
+      "sceneId": "p055-1",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "ペンを ここのつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p055-1-q10",
+      "sceneId": "p055-1",
+      "jp": "ペンうりばは なんかいですか。",
+      "vi": "Cửa hàng / quầy ở tầng mấy?",
+      "answer": "ちかいっかいです。",
+      "note": ""
+    },
+    {
+      "id": "p055-2-q1",
+      "sceneId": "p055-2",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "おちゃです。",
+      "note": ""
+    },
+    {
+      "id": "p055-2-q2",
+      "sceneId": "p055-2",
+      "jp": "このおちゃは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "いちまんはっせんごひゃくドンです。",
+      "note": "Giá ghi trên đề: 18,500 ドン. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p055-2-q3",
+      "sceneId": "p055-2",
+      "jp": "このおちゃは いちまんはっせんごひゃくドンですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p055-2-q4",
+      "sceneId": "p055-2",
+      "jp": "これは どこの おちゃですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "ちゅうごくの おちゃです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p055-2-q5",
+      "sceneId": "p055-2",
+      "jp": "これは にほんの おちゃですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、ちゅうごくの おちゃです。",
+      "note": ""
+    },
+    {
+      "id": "p055-2-q6",
+      "sceneId": "p055-2",
+      "jp": "このおちゃの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "デリーの おちゃです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p055-2-q7",
+      "sceneId": "p055-2",
+      "jp": "これは だれの おちゃですか。",
+      "vi": "Đồ của ai?",
+      "answer": "ベンジャミンさんの おちゃです。",
+      "note": ""
+    },
+    {
+      "id": "p055-2-q8",
+      "sceneId": "p055-2",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "やっつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p055-2-q9",
+      "sceneId": "p055-2",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "おちゃを やっつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p056-1-q1",
+      "sceneId": "p056-1",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "さいふです。",
+      "note": ""
+    },
+    {
+      "id": "p056-1-q2",
+      "sceneId": "p056-1",
+      "jp": "このさいふは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "さんびゃくにじゅうはちまんドンです。",
+      "note": "Giá ghi trên đề: 3,280,000 ドン. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p056-1-q3",
+      "sceneId": "p056-1",
+      "jp": "このさいふは さんびゃくにじゅうはちまんドンですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p056-1-q4",
+      "sceneId": "p056-1",
+      "jp": "これは どこの さいふですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "イタリアの さいふです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p056-1-q5",
+      "sceneId": "p056-1",
+      "jp": "これは にほんの さいふですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、イタリアの さいふです。",
+      "note": ""
+    },
+    {
+      "id": "p056-1-q6",
+      "sceneId": "p056-1",
+      "jp": "このさいふの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "ポールスミスの さいふです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p056-1-q7",
+      "sceneId": "p056-1",
+      "jp": "これは だれの さいふですか。",
+      "vi": "Đồ của ai?",
+      "answer": "ナタリアさんの さいふです。",
+      "note": ""
+    },
+    {
+      "id": "p056-1-q8",
+      "sceneId": "p056-1",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "みっつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p056-1-q9",
+      "sceneId": "p056-1",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "さいふを みっつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p056-1-q10",
+      "sceneId": "p056-1",
+      "jp": "さいふうりばは なんかいですか。",
+      "vi": "Cửa hàng / quầy ở tầng mấy?",
+      "answer": "ごかいです。",
+      "note": ""
+    },
+    {
+      "id": "p056-2-q1",
+      "sceneId": "p056-2",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "かばんです。",
+      "note": ""
+    },
+    {
+      "id": "p056-2-q2",
+      "sceneId": "p056-2",
+      "jp": "このかばんは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "ろっぴゃくにじゅうまんドンです。",
+      "note": "Giá ghi trên đề: 6,200,000 ドン. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p056-2-q3",
+      "sceneId": "p056-2",
+      "jp": "このかばんは ろっぴゃくにじゅうまんドンですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p056-2-q4",
+      "sceneId": "p056-2",
+      "jp": "これは どこの かばんですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "アメリカの かばんです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p056-2-q5",
+      "sceneId": "p056-2",
+      "jp": "これは にほんの かばんですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、アメリカの かばんです。",
+      "note": ""
+    },
+    {
+      "id": "p056-2-q6",
+      "sceneId": "p056-2",
+      "jp": "このかばんの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "モンブランの かばんです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p056-2-q7",
+      "sceneId": "p056-2",
+      "jp": "これは だれの かばんですか。",
+      "vi": "Đồ của ai?",
+      "answer": "イサベラさんの かばんです。",
+      "note": ""
+    },
+    {
+      "id": "p056-2-q8",
+      "sceneId": "p056-2",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "ひとつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p056-2-q9",
+      "sceneId": "p056-2",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "かばんを ひとつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p057-1-q1",
+      "sceneId": "p057-1",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "あぶらです。",
+      "note": ""
+    },
+    {
+      "id": "p057-1-q2",
+      "sceneId": "p057-1",
+      "jp": "このあぶらは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "にじゅうにまんはっせんドンです。",
+      "note": "Giá ghi trên đề: 228,000 ドン. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p057-1-q3",
+      "sceneId": "p057-1",
+      "jp": "このあぶらは にじゅうにまんはっせんドンですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p057-1-q4",
+      "sceneId": "p057-1",
+      "jp": "これは どこの あぶらですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "インドの あぶらです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p057-1-q5",
+      "sceneId": "p057-1",
+      "jp": "これは にほんの あぶらですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、インドの あぶらです。",
+      "note": ""
+    },
+    {
+      "id": "p057-1-q6",
+      "sceneId": "p057-1",
+      "jp": "このあぶらの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "シンプリーの あぶらです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p057-1-q7",
+      "sceneId": "p057-1",
+      "jp": "これは だれの あぶらですか。",
+      "vi": "Đồ của ai?",
+      "answer": "ナタリアさんの あぶらです。",
+      "note": ""
+    },
+    {
+      "id": "p057-1-q8",
+      "sceneId": "p057-1",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "やっつ あります。",
+      "note": ""
+    },
+    {
+      "id": "p057-1-q9",
+      "sceneId": "p057-1",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "あぶらを やっつ ください。",
+      "note": ""
+    },
+    {
+      "id": "p057-1-q10",
+      "sceneId": "p057-1",
+      "jp": "あぶらうりばは なんかいですか。",
+      "vi": "Cửa hàng / quầy ở tầng mấy?",
+      "answer": "ごかいです。",
+      "note": ""
+    },
+    {
+      "id": "p057-2-q1",
+      "sceneId": "p057-2",
+      "jp": "これは なんですか。",
+      "vi": "Đây là gì?",
+      "answer": "トイレットペーパーです。",
+      "note": ""
+    },
+    {
+      "id": "p057-2-q2",
+      "sceneId": "p057-2",
+      "jp": "このトイレットペーパーは いくらですか。",
+      "vi": "Giá bao nhiêu?",
+      "answer": "きゅうまんはっせんろっぴゃくドンです。",
+      "note": "Giá ghi trên đề: 98,600 ドン. Không tự nhân số lượng với giá vì đề không ghi giá đơn vị."
+    },
+    {
+      "id": "p057-2-q3",
+      "sceneId": "p057-2",
+      "jp": "このトイレットペーパーは きゅうまんはっせんろっぴゃくドンですか。",
+      "vi": "Xác nhận giá.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p057-2-q4",
+      "sceneId": "p057-2",
+      "jp": "これは どこの トイレットペーパーですか。",
+      "vi": "Sản xuất ở nước nào?",
+      "answer": "ちゅうごくの トイレットペーパーです。",
+      "note": "どこの có thể hỏi nước sản xuất hoặc hãng; ở câu này luyện nước sản xuất."
+    },
+    {
+      "id": "p057-2-q5",
+      "sceneId": "p057-2",
+      "jp": "これは にほんの トイレットペーパーですか。",
+      "vi": "Có phải hàng Nhật không?",
+      "answer": "いいえ、ちゅうごくの トイレットペーパーです。",
+      "note": ""
+    },
+    {
+      "id": "p057-2-q6",
+      "sceneId": "p057-2",
+      "jp": "このトイレットペーパーの ブランドは なんですか。",
+      "vi": "Hãng / nhà hàng nào?",
+      "answer": "アンアンの トイレットペーパーです。",
+      "note": "Giữ cách viết tên hãng theo slide gốc."
+    },
+    {
+      "id": "p057-2-q7",
+      "sceneId": "p057-2",
+      "jp": "これは だれの トイレットペーパーですか。",
+      "vi": "Đồ của ai?",
+      "answer": "イサベラさんの トイレットペーパーです。",
+      "note": ""
+    },
+    {
+      "id": "p057-2-q8",
+      "sceneId": "p057-2",
+      "jp": "いくつ ありますか。",
+      "vi": "Có bao nhiêu? Dùng cách đếm つ.",
+      "answer": "とお あります。",
+      "note": ""
+    },
+    {
+      "id": "p057-2-q9",
+      "sceneId": "p057-2",
+      "jp": "ごちゅうもんを どうぞ。",
+      "vi": "Gọi món / yêu cầu số lượng trong ảnh.",
+      "answer": "トイレットペーパーを とお ください。",
+      "note": ""
+    },
+    {
+      "id": "p063-1-q1",
+      "sceneId": "p063-1",
+      "jp": "こうえんは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんろくじから ごごしちじまでです。",
+      "note": ""
+    },
+    {
+      "id": "p063-1-q2",
+      "sceneId": "p063-1",
+      "jp": "こうえんは ごぜんろくじから ごごしちじまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p063-1-q3",
+      "sceneId": "p063-1",
+      "jp": "こうえんの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "どようびと にちようびです。",
+      "note": ""
+    },
+    {
+      "id": "p063-1-q4",
+      "sceneId": "p063-1",
+      "jp": "こうえんの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "どようびと にちようびです。",
+      "note": ""
+    },
+    {
+      "id": "p063-2-q1",
+      "sceneId": "p063-2",
+      "jp": "たいいくかんは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんごじはんから ごごくじはんまでです。",
+      "note": ""
+    },
+    {
+      "id": "p063-2-q2",
+      "sceneId": "p063-2",
+      "jp": "たいいくかんは ごぜんごじはんから ごごくじはんまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p063-2-q3",
+      "sceneId": "p063-2",
+      "jp": "たいいくかんの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "もくようびです。",
+      "note": ""
+    },
+    {
+      "id": "p063-2-q4",
+      "sceneId": "p063-2",
+      "jp": "たいいくかんの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "もくようびです。",
+      "note": ""
+    },
+    {
+      "id": "p064-1-q1",
+      "sceneId": "p064-1",
+      "jp": "ケーキやは なんようびから なんようびまでですか。",
+      "vi": "Mở cửa từ thứ mấy đến thứ mấy?",
+      "answer": "すいようびから にちようびまでです。",
+      "note": ""
+    },
+    {
+      "id": "p064-1-q2",
+      "sceneId": "p064-1",
+      "jp": "ケーキやの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "げつようびと かようびです。",
+      "note": ""
+    },
+    {
+      "id": "p064-1-q3",
+      "sceneId": "p064-1",
+      "jp": "ケーキやの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "げつようびと かようびです。",
+      "note": ""
+    },
+    {
+      "id": "p064-2-q1",
+      "sceneId": "p064-2",
+      "jp": "ほんやは なんようびから なんようびまでですか。",
+      "vi": "Mở cửa từ thứ mấy đến thứ mấy?",
+      "answer": "げつようびから どようびまでです。",
+      "note": ""
+    },
+    {
+      "id": "p064-2-q2",
+      "sceneId": "p064-2",
+      "jp": "ほんやの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "にちようびの ごぜんです。",
+      "note": ""
+    },
+    {
+      "id": "p064-2-q3",
+      "sceneId": "p064-2",
+      "jp": "ほんやの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "にちようびの ごぜんです。",
+      "note": ""
+    },
+    {
+      "id": "p065-1-q1",
+      "sceneId": "p065-1",
+      "jp": "くつやは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんはちじじゅっぷんから ごごくじごじゅっぷんまでです。",
+      "note": ""
+    },
+    {
+      "id": "p065-1-q2",
+      "sceneId": "p065-1",
+      "jp": "くつやは ごぜんはちじじゅっぷんから ごごくじごじゅっぷんまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p065-1-q3",
+      "sceneId": "p065-1",
+      "jp": "くつやの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "きんようびと どようびです。",
+      "note": ""
+    },
+    {
+      "id": "p065-1-q4",
+      "sceneId": "p065-1",
+      "jp": "くつやの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "きんようびと どようびです。",
+      "note": ""
+    },
+    {
+      "id": "p065-2-q1",
+      "sceneId": "p065-2",
+      "jp": "びょういんは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんしちじじゅうごふんから ごごごじまでです。",
+      "note": ""
+    },
+    {
+      "id": "p065-2-q2",
+      "sceneId": "p065-2",
+      "jp": "びょういんは ごぜんしちじじゅうごふんから ごごごじまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p065-2-q3",
+      "sceneId": "p065-2",
+      "jp": "びょういんの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "もくようびです。",
+      "note": ""
+    },
+    {
+      "id": "p065-2-q4",
+      "sceneId": "p065-2",
+      "jp": "びょういんの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "もくようびです。",
+      "note": ""
+    },
+    {
+      "id": "p066-1-q1",
+      "sceneId": "p066-1",
+      "jp": "ゆうびんきょくは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんはちじよんじゅうごふんから ごごしちじまでです。",
+      "note": ""
+    },
+    {
+      "id": "p066-1-q2",
+      "sceneId": "p066-1",
+      "jp": "ゆうびんきょくは ごぜんはちじよんじゅうごふんから ごごしちじまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p066-1-q3",
+      "sceneId": "p066-1",
+      "jp": "ゆうびんきょくの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "すいようびの ごごです。",
+      "note": ""
+    },
+    {
+      "id": "p066-1-q4",
+      "sceneId": "p066-1",
+      "jp": "ゆうびんきょくの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "すいようびの ごごです。",
+      "note": ""
+    },
+    {
+      "id": "p066-2-q1",
+      "sceneId": "p066-2",
+      "jp": "スーパーは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんくじにじゅっぷんから ごごよじまでです。",
+      "note": ""
+    },
+    {
+      "id": "p066-2-q2",
+      "sceneId": "p066-2",
+      "jp": "スーパーは ごぜんくじにじゅっぷんから ごごよじまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p066-2-q3",
+      "sceneId": "p066-2",
+      "jp": "スーパーの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "どようびと にちようびです。",
+      "note": ""
+    },
+    {
+      "id": "p066-2-q4",
+      "sceneId": "p066-2",
+      "jp": "スーパーの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "どようびと にちようびです。",
+      "note": ""
+    },
+    {
+      "id": "p067-1-q1",
+      "sceneId": "p067-1",
+      "jp": "としょかんは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんしちじから ごごよじまでです。",
+      "note": ""
+    },
+    {
+      "id": "p067-1-q2",
+      "sceneId": "p067-1",
+      "jp": "としょかんは ごぜんしちじから ごごよじまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p067-1-q3",
+      "sceneId": "p067-1",
+      "jp": "としょかんの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "げつようびと すいようびです。",
+      "note": ""
+    },
+    {
+      "id": "p067-1-q4",
+      "sceneId": "p067-1",
+      "jp": "としょかんの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "げつようびと すいようびです。",
+      "note": ""
+    },
+    {
+      "id": "p067-2-q1",
+      "sceneId": "p067-2",
+      "jp": "きっさてんは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんくじよんじゅうごふんから ごごはちじまでです。",
+      "note": ""
+    },
+    {
+      "id": "p067-2-q2",
+      "sceneId": "p067-2",
+      "jp": "きっさてんは ごぜんくじよんじゅうごふんから ごごはちじまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p067-2-q3",
+      "sceneId": "p067-2",
+      "jp": "きっさてんの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "かようびの ごごです。",
+      "note": ""
+    },
+    {
+      "id": "p067-2-q4",
+      "sceneId": "p067-2",
+      "jp": "きっさてんの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "かようびの ごごです。",
+      "note": ""
+    },
+    {
+      "id": "p068-1-q1",
+      "sceneId": "p068-1",
+      "jp": "レストランは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんくじはんから ごごしちじはんまでです。",
+      "note": ""
+    },
+    {
+      "id": "p068-1-q2",
+      "sceneId": "p068-1",
+      "jp": "レストランは ごぜんくじはんから ごごしちじはんまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p068-1-q3",
+      "sceneId": "p068-1",
+      "jp": "レストランの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "きんようびです。",
+      "note": ""
+    },
+    {
+      "id": "p068-1-q4",
+      "sceneId": "p068-1",
+      "jp": "レストランの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "きんようびです。",
+      "note": ""
+    },
+    {
+      "id": "p068-2-q1",
+      "sceneId": "p068-2",
+      "jp": "かいしゃは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんろくじよんじゅうごふんから ごごよじはんまでです。",
+      "note": "Slide ghi giờ mở 6:45–4:30 không có AM/PM; đáp án mẫu hiểu là sáng đến chiều."
+    },
+    {
+      "id": "p068-2-q2",
+      "sceneId": "p068-2",
+      "jp": "かいしゃは ごぜんろくじよんじゅうごふんから ごごよじはんまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": "Slide ghi giờ mở 6:45–4:30 không có AM/PM; đáp án mẫu hiểu là sáng đến chiều."
+    },
+    {
+      "id": "p068-2-q3",
+      "sceneId": "p068-2",
+      "jp": "かいしゃの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "どようびの ごごと にちようびです。",
+      "note": ""
+    },
+    {
+      "id": "p068-2-q4",
+      "sceneId": "p068-2",
+      "jp": "かいしゃの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "どようびの ごごと にちようびです。",
+      "note": ""
+    },
+    {
+      "id": "p069-1-q1",
+      "sceneId": "p069-1",
+      "jp": "ひゃくえんショップは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんじゅうじはんから ごごくじにじゅっぷんまでです。",
+      "note": ""
+    },
+    {
+      "id": "p069-1-q2",
+      "sceneId": "p069-1",
+      "jp": "ひゃくえんショップは ごぜんじゅうじはんから ごごくじにじゅっぷんまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p069-1-q3",
+      "sceneId": "p069-1",
+      "jp": "ひゃくえんショップの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "かようびの ごぜんです。",
+      "note": ""
+    },
+    {
+      "id": "p069-1-q4",
+      "sceneId": "p069-1",
+      "jp": "ひゃくえんショップの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "かようびの ごぜんです。",
+      "note": ""
+    },
+    {
+      "id": "p069-2-q1",
+      "sceneId": "p069-2",
+      "jp": "メイジだいがくは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんしちじじゅっぷんから ごごごじはんまでです。",
+      "note": ""
+    },
+    {
+      "id": "p069-2-q2",
+      "sceneId": "p069-2",
+      "jp": "メイジだいがくは ごぜんしちじじゅっぷんから ごごごじはんまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p069-2-q3",
+      "sceneId": "p069-2",
+      "jp": "メイジだいがくの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "かようびと もくようびです。",
+      "note": ""
+    },
+    {
+      "id": "p069-2-q4",
+      "sceneId": "p069-2",
+      "jp": "メイジだいがくの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "かようびと もくようびです。",
+      "note": ""
+    },
+    {
+      "id": "p070-restaurant-q1",
+      "sceneId": "p070-restaurant",
+      "jp": "ひまわりレストランは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "じゅうにじから ごごじゅうじまでです。",
+      "note": ""
+    },
+    {
+      "id": "p070-restaurant-q2",
+      "sceneId": "p070-restaurant",
+      "jp": "ひまわりレストランは じゅうにじから ごごじゅうじまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p070-restaurant-q3",
+      "sceneId": "p070-restaurant",
+      "jp": "ひまわりレストランの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "もくようびです。",
+      "note": ""
+    },
+    {
+      "id": "p070-restaurant-q4",
+      "sceneId": "p070-restaurant",
+      "jp": "ひまわりレストランの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "もくようびです。",
+      "note": ""
+    },
+    {
+      "id": "p070-hospital-q1",
+      "sceneId": "p070-hospital",
+      "jp": "さくらびょういんは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんくじはんから ごごさんじまでです。",
+      "note": ""
+    },
+    {
+      "id": "p070-hospital-q2",
+      "sceneId": "p070-hospital",
+      "jp": "さくらびょういんは ごぜんくじはんから ごごさんじまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p070-hospital-q3",
+      "sceneId": "p070-hospital",
+      "jp": "さくらびょういんの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "すいようびです。",
+      "note": ""
+    },
+    {
+      "id": "p070-hospital-q4",
+      "sceneId": "p070-hospital",
+      "jp": "さくらびょういんの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "すいようびです。",
+      "note": ""
+    },
+    {
+      "id": "p070-post-q1",
+      "sceneId": "p070-post",
+      "jp": "みどりゆうびんきょくは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんくじから ごごごじまでです。",
+      "note": ""
+    },
+    {
+      "id": "p070-post-q2",
+      "sceneId": "p070-post",
+      "jp": "みどりゆうびんきょくは ごぜんくじから ごごごじまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p070-post-q3",
+      "sceneId": "p070-post",
+      "jp": "みどりゆうびんきょくの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "どようびと にちようびです。",
+      "note": ""
+    },
+    {
+      "id": "p070-post-q4",
+      "sceneId": "p070-post",
+      "jp": "みどりゆうびんきょくの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "どようびと にちようびです。",
+      "note": ""
+    },
+    {
+      "id": "p071-library-q1",
+      "sceneId": "p071-library",
+      "jp": "さくらとしょかんは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんくじから ごごしちじまでです。",
+      "note": "Ảnh không ghi AM/PM; đáp án mẫu dùng giờ hoạt động ban ngày."
+    },
+    {
+      "id": "p071-library-q2",
+      "sceneId": "p071-library",
+      "jp": "さくらとしょかんは ごぜんくじから ごごしちじまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": "Ảnh không ghi AM/PM; đáp án mẫu dùng giờ hoạt động ban ngày."
+    },
+    {
+      "id": "p071-library-q3",
+      "sceneId": "p071-library",
+      "jp": "さくらとしょかんの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "げつようびです。",
+      "note": ""
+    },
+    {
+      "id": "p071-library-q4",
+      "sceneId": "p071-library",
+      "jp": "さくらとしょかんの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "げつようびです。",
+      "note": ""
+    },
+    {
+      "id": "p071-hospital-q1",
+      "sceneId": "p071-hospital",
+      "jp": "さくらびょういんは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんくじはんから ごごさんじまでです。",
+      "note": "Ảnh không ghi AM/PM; đáp án mẫu dùng giờ hoạt động ban ngày."
+    },
+    {
+      "id": "p071-hospital-q2",
+      "sceneId": "p071-hospital",
+      "jp": "さくらびょういんは ごぜんくじはんから ごごさんじまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": "Ảnh không ghi AM/PM; đáp án mẫu dùng giờ hoạt động ban ngày."
+    },
+    {
+      "id": "p071-hospital-q3",
+      "sceneId": "p071-hospital",
+      "jp": "さくらびょういんの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "すいようびです。",
+      "note": ""
+    },
+    {
+      "id": "p071-hospital-q4",
+      "sceneId": "p071-hospital",
+      "jp": "さくらびょういんの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "すいようびです。",
+      "note": ""
+    },
+    {
+      "id": "p072-gym-q1",
+      "sceneId": "p072-gym",
+      "jp": "わかばたいいくかんは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんはちじはんから ごごくじまでです。",
+      "note": ""
+    },
+    {
+      "id": "p072-gym-q2",
+      "sceneId": "p072-gym",
+      "jp": "わかばたいいくかんは ごぜんはちじはんから ごごくじまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": ""
+    },
+    {
+      "id": "p072-gym-q3",
+      "sceneId": "p072-gym",
+      "jp": "わかばたいいくかんの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "もくようびです。",
+      "note": ""
+    },
+    {
+      "id": "p072-gym-q4",
+      "sceneId": "p072-gym",
+      "jp": "わかばたいいくかんの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "もくようびです。",
+      "note": ""
+    },
+    {
+      "id": "p072-post-q1",
+      "sceneId": "p072-post",
+      "jp": "みどりゆうびんきょくは なんじから なんじまでですか。",
+      "vi": "Mở cửa từ mấy giờ đến mấy giờ?",
+      "answer": "ごぜんくじから ごごごじまでです。",
+      "note": "Ảnh không ghi AM/PM; đáp án mẫu dùng giờ hoạt động ban ngày."
+    },
+    {
+      "id": "p072-post-q2",
+      "sceneId": "p072-post",
+      "jp": "みどりゆうびんきょくは ごぜんくじから ごごごじまでですか。",
+      "vi": "Xác nhận giờ mở và đóng cửa.",
+      "answer": "はい、そうです。",
+      "note": "Ảnh không ghi AM/PM; đáp án mẫu dùng giờ hoạt động ban ngày."
+    },
+    {
+      "id": "p072-post-q3",
+      "sceneId": "p072-post",
+      "jp": "みどりゆうびんきょくの やすみは いつですか。",
+      "vi": "Ngày / buổi nghỉ khi nào?",
+      "answer": "どようびと にちようびです。",
+      "note": ""
+    },
+    {
+      "id": "p072-post-q4",
+      "sceneId": "p072-post",
+      "jp": "みどりゆうびんきょくの やすみのひは なんようびですか。",
+      "vi": "Nghỉ thứ mấy?",
+      "answer": "どようびと にちようびです。",
+      "note": ""
+    },
+    {
+      "id": "p073-0-q1",
+      "sceneId": "p073-0",
+      "jp": "はるやすみは いつから いつまでですか。",
+      "vi": "Kỳ nghỉ / homestay từ ngày nào đến ngày nào?",
+      "answer": "いちがつ みっかから いちがつ はつかまでです。",
+      "note": ""
+    },
+    {
+      "id": "p073-1-q1",
+      "sceneId": "p073-1",
+      "jp": "なつやすみは いつから いつまでですか。",
+      "vi": "Kỳ nghỉ / homestay từ ngày nào đến ngày nào?",
+      "answer": "ごがつ じゅういちにちから はちがつ じゅうよっかまでです。",
+      "note": ""
+    },
+    {
+      "id": "p073-2-q1",
+      "sceneId": "p073-2",
+      "jp": "ふゆやすみは いつから いつまでですか。",
+      "vi": "Kỳ nghỉ / homestay từ ngày nào đến ngày nào?",
+      "answer": "じゅうがつ にじゅうきゅうにちから じゅうにがつ とおかまでです。",
+      "note": ""
+    },
+    {
+      "id": "p073-3-q1",
+      "sceneId": "p073-3",
+      "jp": "ホームステイは いつから いつまでですか。",
+      "vi": "Kỳ nghỉ / homestay từ ngày nào đến ngày nào?",
+      "answer": "くがつ ここのかから くがつ じゅうななにちまでです。",
+      "note": ""
+    },
+    {
+      "id": "p078-0-q1",
+      "sceneId": "p078-0",
+      "jp": "チンさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "まつりへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p078-0-q2",
+      "sceneId": "p078-0",
+      "jp": "チンさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、まつりへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p078-1-q1",
+      "sceneId": "p078-1",
+      "jp": "マイクさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "パーティーを します。",
+      "note": ""
+    },
+    {
+      "id": "p078-1-q2",
+      "sceneId": "p078-1",
+      "jp": "マイクさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、パーティーを します。",
+      "note": ""
+    },
+    {
+      "id": "p078-2-q1",
+      "sceneId": "p078-2",
+      "jp": "にしかわさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "はなびを みます。",
+      "note": ""
+    },
+    {
+      "id": "p078-2-q2",
+      "sceneId": "p078-2",
+      "jp": "にしかわさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、はなびを みます。",
+      "note": ""
+    },
+    {
+      "id": "p078-3-q1",
+      "sceneId": "p078-3",
+      "jp": "かりなさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "ピクニックを します。",
+      "note": ""
+    },
+    {
+      "id": "p078-3-q2",
+      "sceneId": "p078-3",
+      "jp": "かりなさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、ピクニックを します。",
+      "note": ""
+    },
+    {
+      "id": "p079-0-q1",
+      "sceneId": "p079-0",
+      "jp": "エレナさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "おはなみを します。",
+      "note": ""
+    },
+    {
+      "id": "p079-0-q2",
+      "sceneId": "p079-0",
+      "jp": "エレナさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、おはなみを します。",
+      "note": ""
+    },
+    {
+      "id": "p079-1-q1",
+      "sceneId": "p079-1",
+      "jp": "マルコさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "おべんとうを たべます。",
+      "note": ""
+    },
+    {
+      "id": "p079-1-q2",
+      "sceneId": "p079-1",
+      "jp": "マルコさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、おべんとうを たべます。",
+      "note": ""
+    },
+    {
+      "id": "p079-2-q1",
+      "sceneId": "p079-2",
+      "jp": "ケンタさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "バーベキューを します。",
+      "note": ""
+    },
+    {
+      "id": "p079-2-q2",
+      "sceneId": "p079-2",
+      "jp": "ケンタさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、バーベキューを します。",
+      "note": ""
+    },
+    {
+      "id": "p080-0-q1",
+      "sceneId": "p080-0",
+      "jp": "マリアさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "ケーキを たべます。",
+      "note": ""
+    },
+    {
+      "id": "p080-0-q2",
+      "sceneId": "p080-0",
+      "jp": "マリアさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、ケーキを たべます。",
+      "note": ""
+    },
+    {
+      "id": "p080-1-q1",
+      "sceneId": "p080-1",
+      "jp": "ダニエルさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "ジュースを のみます。",
+      "note": ""
+    },
+    {
+      "id": "p080-1-q2",
+      "sceneId": "p080-1",
+      "jp": "ダニエルさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、ジュースを のみます。",
+      "note": ""
+    },
+    {
+      "id": "p080-2-q1",
+      "sceneId": "p080-2",
+      "jp": "ナタリアさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "まつりへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p080-2-q2",
+      "sceneId": "p080-2",
+      "jp": "ナタリアさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、まつりへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p081-0-q1",
+      "sceneId": "p081-0",
+      "jp": "スコットさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "スキーを します。",
+      "note": ""
+    },
+    {
+      "id": "p081-0-q2",
+      "sceneId": "p081-0",
+      "jp": "スコットさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、スキーを します。",
+      "note": ""
+    },
+    {
+      "id": "p081-1-q1",
+      "sceneId": "p081-1",
+      "jp": "ジェイミさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "ごはんを たべます。",
+      "note": ""
+    },
+    {
+      "id": "p081-1-q2",
+      "sceneId": "p081-1",
+      "jp": "ジェイミさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、ごはんを たべます。",
+      "note": ""
+    },
+    {
+      "id": "p081-2-q1",
+      "sceneId": "p081-2",
+      "jp": "ハナコさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "はなびを みます。",
+      "note": ""
+    },
+    {
+      "id": "p081-2-q2",
+      "sceneId": "p081-2",
+      "jp": "ハナコさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、はなびを みます。",
+      "note": ""
+    },
+    {
+      "id": "p082-0-q1",
+      "sceneId": "p082-0",
+      "jp": "カルロスさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "べんきょうします。",
+      "note": ""
+    },
+    {
+      "id": "p082-0-q2",
+      "sceneId": "p082-0",
+      "jp": "カルロスさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "はい、べんきょうします。",
+      "note": ""
+    },
+    {
+      "id": "p082-1-q1",
+      "sceneId": "p082-1",
+      "jp": "チンさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "しんぶんを よみます。",
+      "note": ""
+    },
+    {
+      "id": "p082-1-q2",
+      "sceneId": "p082-1",
+      "jp": "チンさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、しんぶんを よみます。",
+      "note": ""
+    },
+    {
+      "id": "p082-2-q1",
+      "sceneId": "p082-2",
+      "jp": "アドリアンさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "おんがくを ききます。",
+      "note": ""
+    },
+    {
+      "id": "p082-2-q2",
+      "sceneId": "p082-2",
+      "jp": "アドリアンさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、おんがくを ききます。",
+      "note": ""
+    },
+    {
+      "id": "p083-0-q1",
+      "sceneId": "p083-0",
+      "jp": "ジョンさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "べんきょうします。",
+      "note": ""
+    },
+    {
+      "id": "p083-0-q2",
+      "sceneId": "p083-0",
+      "jp": "ジョンさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "はい、べんきょうします。",
+      "note": ""
+    },
+    {
+      "id": "p083-1-q1",
+      "sceneId": "p083-1",
+      "jp": "シュミットさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "カレーを たべます。",
+      "note": ""
+    },
+    {
+      "id": "p083-1-q2",
+      "sceneId": "p083-1",
+      "jp": "シュミットさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、カレーを たべます。",
+      "note": ""
+    },
+    {
+      "id": "p083-2-q1",
+      "sceneId": "p083-2",
+      "jp": "サントスさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "テレビを みます。",
+      "note": ""
+    },
+    {
+      "id": "p083-2-q2",
+      "sceneId": "p083-2",
+      "jp": "サントスさんは べんきょうしますか。",
+      "vi": "Người này có học không?",
+      "answer": "いいえ、テレビを みます。",
+      "note": ""
+    },
+    {
+      "id": "p084-0-q1",
+      "sceneId": "p084-0",
+      "jp": "カタリナさんは どこへ いきますか。",
+      "vi": "Người này đi đâu?",
+      "answer": "ほっかいどうへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p084-0-q2",
+      "sceneId": "p084-0",
+      "jp": "カタリナさんは ほっかいどうで なにを しますか。",
+      "vi": "Làm gì tại địa điểm đó?",
+      "answer": "ほっかいどうで スキーを します。",
+      "note": ""
+    },
+    {
+      "id": "p084-0-q3",
+      "sceneId": "p084-0",
+      "jp": "カタリナさんは なにを しますか。",
+      "vi": "Nêu hoạt động theo tranh.",
+      "answer": "スキーを します。",
+      "note": ""
+    },
+    {
+      "id": "p084-1-q1",
+      "sceneId": "p084-1",
+      "jp": "カルロスさんは どこへ いきますか。",
+      "vi": "Người này đi đâu?",
+      "answer": "あおもりへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p084-1-q2",
+      "sceneId": "p084-1",
+      "jp": "カルロスさんは あおもりで なにを しますか。",
+      "vi": "Làm gì tại địa điểm đó?",
+      "answer": "あおもりで おはなみを します。",
+      "note": ""
+    },
+    {
+      "id": "p084-1-q3",
+      "sceneId": "p084-1",
+      "jp": "カルロスさんは なにを しますか。",
+      "vi": "Nêu hoạt động theo tranh.",
+      "answer": "おはなみを します。",
+      "note": ""
+    },
+    {
+      "id": "p085-0-q1",
+      "sceneId": "p085-0",
+      "jp": "ハナコさんは どこへ いきますか。",
+      "vi": "Người này đi đâu?",
+      "answer": "はかたへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p085-0-q2",
+      "sceneId": "p085-0",
+      "jp": "ハナコさんは はかたで なにを しますか。",
+      "vi": "Làm gì tại địa điểm đó?",
+      "answer": "はかたで まつりへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p085-0-q3",
+      "sceneId": "p085-0",
+      "jp": "ハナコさんは なにを しますか。",
+      "vi": "Nêu hoạt động theo tranh.",
+      "answer": "まつりへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p085-1-q1",
+      "sceneId": "p085-1",
+      "jp": "ハヤオさんは どこへ いきますか。",
+      "vi": "Người này đi đâu?",
+      "answer": "こうえんへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p085-1-q2",
+      "sceneId": "p085-1",
+      "jp": "ハヤオさんは こうえんで なにを しますか。",
+      "vi": "Làm gì tại địa điểm đó?",
+      "answer": "こうえんで バーベキューを します。",
+      "note": ""
+    },
+    {
+      "id": "p085-1-q3",
+      "sceneId": "p085-1",
+      "jp": "ハヤオさんは なにを しますか。",
+      "vi": "Nêu hoạt động theo tranh.",
+      "answer": "バーベキューを します。",
+      "note": ""
+    },
+    {
+      "id": "p086-0-q1",
+      "sceneId": "p086-0",
+      "jp": "エンマさんは どこへ いきますか。",
+      "vi": "Người này đi đâu?",
+      "answer": "きっさてんへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p086-0-q2",
+      "sceneId": "p086-0",
+      "jp": "エンマさんは きっさてんで なにを しますか。",
+      "vi": "Làm gì tại địa điểm đó?",
+      "answer": "きっさてんで コーヒーを のみます。",
+      "note": ""
+    },
+    {
+      "id": "p086-0-q3",
+      "sceneId": "p086-0",
+      "jp": "エンマさんは なにを しますか。",
+      "vi": "Nêu hoạt động theo tranh.",
+      "answer": "コーヒーを のみます。",
+      "note": ""
+    },
+    {
+      "id": "p086-1-q1",
+      "sceneId": "p086-1",
+      "jp": "エレナさんは どこへ いきますか。",
+      "vi": "Người này đi đâu?",
+      "answer": "スーパーへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p086-1-q2",
+      "sceneId": "p086-1",
+      "jp": "エレナさんは スーパーで なにを しますか。",
+      "vi": "Làm gì tại địa điểm đó?",
+      "answer": "スーパーで かいものを します。",
+      "note": ""
+    },
+    {
+      "id": "p086-1-q3",
+      "sceneId": "p086-1",
+      "jp": "エレナさんは なにを しますか。",
+      "vi": "Nêu hoạt động theo tranh.",
+      "answer": "かいものを します。",
+      "note": ""
+    },
+    {
+      "id": "p087-0-q1",
+      "sceneId": "p087-0",
+      "jp": "ジョンさんは どこへ いきますか。",
+      "vi": "Người này đi đâu?",
+      "answer": "としょかんへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p087-0-q2",
+      "sceneId": "p087-0",
+      "jp": "ジョンさんは としょかんで なにを しますか。",
+      "vi": "Làm gì tại địa điểm đó?",
+      "answer": "としょかんで ほんを よみます。",
+      "note": ""
+    },
+    {
+      "id": "p087-0-q3",
+      "sceneId": "p087-0",
+      "jp": "ジョンさんは なにを しますか。",
+      "vi": "Nêu hoạt động theo tranh.",
+      "answer": "ほんを よみます。",
+      "note": ""
+    },
+    {
+      "id": "p087-1-q1",
+      "sceneId": "p087-1",
+      "jp": "ジュンさんは どこへ いきますか。",
+      "vi": "Người này đi đâu?",
+      "answer": "どこへも いきません。うちで べんきょうします。",
+      "note": "Dấu X: không đi đâu; dùng どこへも いきません。"
+    },
+    {
+      "id": "p087-1-q2",
+      "sceneId": "p087-1",
+      "jp": "ジュンさんは うちで なにを しますか。",
+      "vi": "Làm gì tại địa điểm đó?",
+      "answer": "うちで べんきょうします。",
+      "note": ""
+    },
+    {
+      "id": "p087-1-q3",
+      "sceneId": "p087-1",
+      "jp": "ジュンさんは なにを しますか。",
+      "vi": "Nêu hoạt động theo tranh.",
+      "answer": "べんきょうします。",
+      "note": ""
+    },
+    {
+      "id": "p088-0-q1",
+      "sceneId": "p088-0",
+      "jp": "ミサキさんは どこへ いきますか。",
+      "vi": "Người này đi đâu?",
+      "answer": "どこへも いきません。うちで おんがくを ききます。",
+      "note": "Dấu X: không đi đâu; dùng どこへも いきません。"
+    },
+    {
+      "id": "p088-0-q2",
+      "sceneId": "p088-0",
+      "jp": "ミサキさんは うちで なにを しますか。",
+      "vi": "Làm gì tại địa điểm đó?",
+      "answer": "うちで おんがくを ききます。",
+      "note": ""
+    },
+    {
+      "id": "p088-0-q3",
+      "sceneId": "p088-0",
+      "jp": "ミサキさんは なにを しますか。",
+      "vi": "Nêu hoạt động theo tranh.",
+      "answer": "おんがくを ききます。",
+      "note": ""
+    },
+    {
+      "id": "p088-1-q1",
+      "sceneId": "p088-1",
+      "jp": "ミゲルさんは どこへ いきますか。",
+      "vi": "Người này đi đâu?",
+      "answer": "どこへも いきません。うちで シーディーを ききます。",
+      "note": "Dấu X: không đi đâu; dùng どこへも いきません。"
+    },
+    {
+      "id": "p088-1-q2",
+      "sceneId": "p088-1",
+      "jp": "ミゲルさんは うちで なにを しますか。",
+      "vi": "Làm gì tại địa điểm đó?",
+      "answer": "うちで シーディーを ききます。",
+      "note": ""
+    },
+    {
+      "id": "p088-1-q3",
+      "sceneId": "p088-1",
+      "jp": "ミゲルさんは なにを しますか。",
+      "vi": "Nêu hoạt động theo tranh.",
+      "answer": "シーディーを ききます。",
+      "note": ""
+    },
+    {
+      "id": "p090-place-0-q1",
+      "sceneId": "p090-place-0",
+      "jp": "きっさてんで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "きっさてんで コーヒーを のみます。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p091-place-1-q1",
+      "sceneId": "p091-place-1",
+      "jp": "きっさてんで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "きっさてんで コーヒーを のみます。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p091-place-2-q1",
+      "sceneId": "p091-place-2",
+      "jp": "ケーキやで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "ケーキやで ケーキを かいます。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p091-place-3-q1",
+      "sceneId": "p091-place-3",
+      "jp": "レストランで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "レストランで ごはんを たべます。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p092-place-4-q1",
+      "sceneId": "p092-place-4",
+      "jp": "くつやで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "くつやで くつを かいます。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p092-place-5-q1",
+      "sceneId": "p092-place-5",
+      "jp": "ひゃくえんショップで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "ひゃくえんショップで かいものを します。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p092-place-6-q1",
+      "sceneId": "p092-place-6",
+      "jp": "ほんやで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "ほんやで ほんを かいます。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p092-place-7-q1",
+      "sceneId": "p092-place-7",
+      "jp": "スーパーで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "スーパーで かいものを します。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p092-place-8-q1",
+      "sceneId": "p092-place-8",
+      "jp": "ショッピングモールで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "ショッピングモールで かいものを します。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p092-place-9-q1",
+      "sceneId": "p092-place-9",
+      "jp": "コンビニで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "コンビニで アルバイトを します。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p093-place-10-q1",
+      "sceneId": "p093-place-10",
+      "jp": "こうえんで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "こうえんで サッカーを します。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p093-place-11-q1",
+      "sceneId": "p093-place-11",
+      "jp": "こうえんで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "こうえんで スポーツを します。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p093-place-12-q1",
+      "sceneId": "p093-place-12",
+      "jp": "たいいくかんで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "たいいくかんで スポーツを します。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p093-place-13-q1",
+      "sceneId": "p093-place-13",
+      "jp": "がっこうで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "がっこうで べんきょうします。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p094-place-14-q1",
+      "sceneId": "p094-place-14",
+      "jp": "びょういんで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "びょういんで はたらきます。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p094-place-15-q1",
+      "sceneId": "p094-place-15",
+      "jp": "としょかんで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "としょかんで ほんを よみます。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p094-place-16-q1",
+      "sceneId": "p094-place-16",
+      "jp": "ゆうびんきょくで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "ゆうびんきょくで はたらきます。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p094-place-17-q1",
+      "sceneId": "p094-place-17",
+      "jp": "かいしゃで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "かいしゃで はたらきます。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p095-place-18-q1",
+      "sceneId": "p095-place-18",
+      "jp": "ほんやで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "ほんやで ほんを かいます。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p095-place-19-q1",
+      "sceneId": "p095-place-19",
+      "jp": "としょかんで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "としょかんで ほんを よみます。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p096-place-20-q1",
+      "sceneId": "p096-place-20",
+      "jp": "としょかんで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "としょかんで べんきょうします。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p096-place-21-q1",
+      "sceneId": "p096-place-21",
+      "jp": "だいがくで なにを しますか。",
+      "vi": "Bạn làm gì ở địa điểm này?",
+      "answer": "だいがくで べんきょうします。",
+      "note": "Đáp án mẫu; có thể nói hoạt động hợp lý khác. Trợ từ で chỉ nơi diễn ra hành động."
+    },
+    {
+      "id": "p099-0-q1",
+      "sceneId": "p099-0",
+      "jp": "ケンタさんは まいにち なんじに いきますか。",
+      "vi": "Thực hiện hành động lúc mấy giờ?",
+      "answer": "しちじはんに かいしゃへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p099-0-q2",
+      "sceneId": "p099-0",
+      "jp": "ケンタさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "かいしゃへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p099-1-q1",
+      "sceneId": "p099-1",
+      "jp": "アンナさんは まいあさ なんじに いきますか。",
+      "vi": "Thực hiện hành động lúc mấy giờ?",
+      "answer": "はちじに がっこうへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p099-1-q2",
+      "sceneId": "p099-1",
+      "jp": "アンナさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "がっこうへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p100-0-q1",
+      "sceneId": "p100-0",
+      "jp": "カルロスさんは まいあさ なんじに おきますか。",
+      "vi": "Thực hiện hành động lúc mấy giờ?",
+      "answer": "ろくじに おきます。",
+      "note": ""
+    },
+    {
+      "id": "p100-0-q2",
+      "sceneId": "p100-0",
+      "jp": "カルロスさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "おきます。",
+      "note": ""
+    },
+    {
+      "id": "p100-1-q1",
+      "sceneId": "p100-1",
+      "jp": "スコットさんは まいばん なんじに ねますか。",
+      "vi": "Thực hiện hành động lúc mấy giờ?",
+      "answer": "じゅういちじはんに ねます。",
+      "note": ""
+    },
+    {
+      "id": "p100-1-q2",
+      "sceneId": "p100-1",
+      "jp": "スコットさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "ねます。",
+      "note": ""
+    },
+    {
+      "id": "p101-0-q1",
+      "sceneId": "p101-0",
+      "jp": "ワンさんは  なんじに おきますか。",
+      "vi": "Thực hiện hành động lúc mấy giờ?",
+      "answer": "はちじに おきます。",
+      "note": ""
+    },
+    {
+      "id": "p101-0-q2",
+      "sceneId": "p101-0",
+      "jp": "ワンさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "おきます。",
+      "note": ""
+    },
+    {
+      "id": "p101-1-q1",
+      "sceneId": "p101-1",
+      "jp": "イサベラさんは  なんじに たべますか。",
+      "vi": "Thực hiện hành động lúc mấy giờ?",
+      "answer": "はちじはんに あさごはんを たべます。",
+      "note": ""
+    },
+    {
+      "id": "p101-1-q2",
+      "sceneId": "p101-1",
+      "jp": "イサベラさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "あさごはんを たべます。",
+      "note": ""
+    },
+    {
+      "id": "p101-2-q1",
+      "sceneId": "p101-2",
+      "jp": "ベッキーさんは  なんじに いきますか。",
+      "vi": "Thực hiện hành động lúc mấy giờ?",
+      "answer": "くじに がっこうへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p101-2-q2",
+      "sceneId": "p101-2",
+      "jp": "ベッキーさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "がっこうへ いきます。",
+      "note": ""
+    },
+    {
+      "id": "p102-0-q1",
+      "sceneId": "p102-0",
+      "jp": "パクさんは まいにち なんじから なんじまで べんきょうしますか。",
+      "vi": "Làm từ mấy giờ đến mấy giờ?",
+      "answer": "しちじから くじまで べんきょうします。",
+      "note": "Theo giờ ghi trên ảnh; đề không luôn chỉ rõ sáng/chiều."
+    },
+    {
+      "id": "p102-0-q2",
+      "sceneId": "p102-0",
+      "jp": "パクさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "べんきょうします。",
+      "note": ""
+    },
+    {
+      "id": "p102-1-q1",
+      "sceneId": "p102-1",
+      "jp": "ダニエルさんは まいにち なんじから なんじまで はたらきますか。",
+      "vi": "Làm từ mấy giờ đến mấy giờ?",
+      "answer": "はちじから ごじまで はたらきます。",
+      "note": "Theo giờ ghi trên ảnh; đề không luôn chỉ rõ sáng/chiều."
+    },
+    {
+      "id": "p102-1-q2",
+      "sceneId": "p102-1",
+      "jp": "ダニエルさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "はたらきます。",
+      "note": ""
+    },
+    {
+      "id": "p103-0-q1",
+      "sceneId": "p103-0",
+      "jp": "マリヤムさんは  なんじから なんじまで みますか。",
+      "vi": "Làm từ mấy giờ đến mấy giờ?",
+      "answer": "しちじから くじまで テレビを みます。",
+      "note": "Theo giờ ghi trên ảnh; đề không luôn chỉ rõ sáng/chiều."
+    },
+    {
+      "id": "p103-0-q2",
+      "sceneId": "p103-0",
+      "jp": "マリヤムさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "テレビを みます。",
+      "note": ""
+    },
+    {
+      "id": "p103-1-q1",
+      "sceneId": "p103-1",
+      "jp": "キムさんは  なんじから なんじまで みますか。",
+      "vi": "Làm từ mấy giờ đến mấy giờ?",
+      "answer": "じゅうじから じゅういちじまで えいがを みます。",
+      "note": "Theo giờ ghi trên ảnh; đề không luôn chỉ rõ sáng/chiều."
+    },
+    {
+      "id": "p103-1-q2",
+      "sceneId": "p103-1",
+      "jp": "キムさんは なにを しますか。",
+      "vi": "Người này làm gì?",
+      "answer": "えいがを みます。",
+      "note": ""
+    },
+    {
+      "id": "personal-q1",
+      "sceneId": "personal",
+      "jp": "おなまえは なんですか。",
+      "vi": "Bạn tên gì?",
+      "answer": "わたしは フイです。",
+      "note": "Chỉ là ví dụ. Thay bằng thông tin thật của bạn; câu hỏi giờ hiện tại phải trả lời theo đồng hồ lúc luyện."
+    },
+    {
+      "id": "personal-q2",
+      "sceneId": "personal",
+      "jp": "おくには どちらですか。",
+      "vi": "Bạn đến từ đâu?",
+      "answer": "ベトナムです。",
+      "note": "Chỉ là ví dụ. Thay bằng thông tin thật của bạn; câu hỏi giờ hiện tại phải trả lời theo đồng hồ lúc luyện."
+    },
+    {
+      "id": "personal-q3",
+      "sceneId": "personal",
+      "jp": "なんさいですか。",
+      "vi": "Bạn bao nhiêu tuổi?",
+      "answer": "はたちです。",
+      "note": "Chỉ là ví dụ. Thay bằng thông tin thật của bạn; câu hỏi giờ hiện tại phải trả lời theo đồng hồ lúc luyện."
+    },
+    {
+      "id": "personal-q4",
+      "sceneId": "personal",
+      "jp": "たんじょうびは いつですか。",
+      "vi": "Sinh nhật bạn khi nào?",
+      "answer": "しがつ とおかです。",
+      "note": "Chỉ là ví dụ. Thay bằng thông tin thật của bạn; câu hỏi giờ hiện tại phải trả lời theo đồng hồ lúc luyện."
+    },
+    {
+      "id": "personal-q5",
+      "sceneId": "personal",
+      "jp": "しゅみは なんですか。",
+      "vi": "Sở thích của bạn?",
+      "answer": "おんがくです。",
+      "note": "Chỉ là ví dụ. Thay bằng thông tin thật của bạn; câu hỏi giờ hiện tại phải trả lời theo đồng hồ lúc luyện."
+    },
+    {
+      "id": "personal-q6",
+      "sceneId": "personal",
+      "jp": "やすみのひ、なにを しますか。",
+      "vi": "Ngày nghỉ bạn làm gì?",
+      "answer": "うちで えいがを みます。",
+      "note": "Chỉ là ví dụ. Thay bằng thông tin thật của bạn; câu hỏi giờ hiện tại phải trả lời theo đồng hồ lúc luyện."
+    },
+    {
+      "id": "personal-q7",
+      "sceneId": "personal",
+      "jp": "としょかんで なにを しますか。",
+      "vi": "Bạn làm gì ở thư viện?",
+      "answer": "ほんを よみます。",
+      "note": "Chỉ là ví dụ. Thay bằng thông tin thật của bạn; câu hỏi giờ hiện tại phải trả lời theo đồng hồ lúc luyện."
+    },
+    {
+      "id": "personal-q8",
+      "sceneId": "personal",
+      "jp": "やすみのひ、なんじに たべますか。",
+      "vi": "Ngày nghỉ bạn ăn lúc mấy giờ?",
+      "answer": "しちじに あさごはんを たべます。",
+      "note": "Chỉ là ví dụ. Thay bằng thông tin thật của bạn; câu hỏi giờ hiện tại phải trả lời theo đồng hồ lúc luyện."
+    },
+    {
+      "id": "personal-q9",
+      "sceneId": "personal",
+      "jp": "まいあさ、パンを たべますか。",
+      "vi": "Mỗi sáng bạn có ăn bánh mì không?",
+      "answer": "はい、たべます。",
+      "note": "Chỉ là ví dụ. Thay bằng thông tin thật của bạn; câu hỏi giờ hiện tại phải trả lời theo đồng hồ lúc luyện."
+    },
+    {
+      "id": "personal-q10",
+      "sceneId": "personal",
+      "jp": "やすみのひ、どこへ いきますか。",
+      "vi": "Ngày nghỉ bạn đi đâu?",
+      "answer": "こうえんへ いきます。",
+      "note": "Chỉ là ví dụ. Thay bằng thông tin thật của bạn; câu hỏi giờ hiện tại phải trả lời theo đồng hồ lúc luyện."
+    },
+    {
+      "id": "personal-q11",
+      "sceneId": "personal",
+      "jp": "いま、なんじなんぷんですか。",
+      "vi": "Bây giờ là mấy giờ mấy phút?",
+      "answer": "しちじ はんです。",
+      "note": "Chỉ là ví dụ. Thay bằng thông tin thật của bạn; câu hỏi giờ hiện tại phải trả lời theo đồng hồ lúc luyện."
+    },
+    {
+      "id": "personal-q12",
+      "sceneId": "personal",
+      "jp": "まいあさ、なんじに おきますか。",
+      "vi": "Mỗi sáng mấy giờ bạn dậy?",
+      "answer": "ろくじに おきます。",
+      "note": "Chỉ là ví dụ. Thay bằng thông tin thật của bạn; câu hỏi giờ hiện tại phải trả lời theo đồng hồ lúc luyện."
+    },
+    {
+      "id": "personal-q13",
+      "sceneId": "personal",
+      "jp": "まいばん、なんじに ねますか。",
+      "vi": "Mỗi tối mấy giờ bạn ngủ?",
+      "answer": "じゅういちじに ねます。",
+      "note": "Chỉ là ví dụ. Thay bằng thông tin thật của bạn; câu hỏi giờ hiện tại phải trả lời theo đồng hồ lúc luyện."
+    },
+    {
+      "id": "personal-q14",
+      "sceneId": "personal",
+      "jp": "なんじから なんじまで べんきょうしますか。",
+      "vi": "Bạn học từ mấy giờ đến mấy giờ?",
+      "answer": "しちじから くじまで べんきょうします。",
+      "note": "Chỉ là ví dụ. Thay bằng thông tin thật của bạn; câu hỏi giờ hiện tại phải trả lời theo đồng hồ lúc luyện."
+    }
+  ]
+}

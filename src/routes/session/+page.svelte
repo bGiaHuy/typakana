@@ -33,7 +33,6 @@
 	let time = Date.now()
 
 	let unquizzed = $derived($quiz.unquizzed)
-	let quizzed = $derived($quiz.quizzed)
 	let currentItem = $derived(unquizzed[0])
 
 	function handleMenuEvent({ type }: { type: string }) {
@@ -44,6 +43,10 @@
 
 			case "restart":
 				quiz.reset()
+				break
+
+			case "shuffle":
+				quiz.shuffle()
 				break
 
 			default:
@@ -146,7 +149,7 @@
 <svelte:window onkeydown={handleKeydown} />
 
 <ProgressBar />
-<Quiz {unquizzed} {quizzed} {input} bind:lastQuizzedElement />
+<Quiz {unquizzed} {input} bind:lastQuizzedElement />
 <Input
 	bind:input
 	onsubmit={handleSubmit}

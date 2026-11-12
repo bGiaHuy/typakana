@@ -39,7 +39,12 @@
 		if (!sessionSaved && answered > 0) {
 			history.addSession({
 				timestamp: Date.now(),
-				kanaType: $gameConfig.kanaType,
+				kanaType:
+					$gameConfig.practiceMode === "numbers"
+						? "numbers"
+						: $gameConfig.practiceMode === "vocab"
+							? "vocab"
+							: $gameConfig.kanaType,
 				accuracy: accuracy || 0,
 				totalAnswered: answered,
 				duration: duration,
@@ -142,11 +147,11 @@
 		<div class="menu-items">
 			{#if unquizzed.length == 0}
 				<Button
-					href="/session"
 					disabled={$dictionary.length === 0}
-					onclick={() => {
+					onclick={async () => {
 						playDropSound()
-						quiz.reset()
+						quiz.reset($dictionary)
+						await goto("/session")
 					}}
 				>
 					<Icon path={mdiRestart} size="1.5em" />
