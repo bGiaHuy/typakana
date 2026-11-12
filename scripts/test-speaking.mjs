@@ -161,11 +161,25 @@ mkdirSync(output, { recursive: true })
 		await page
 			.getByRole("button", { name: "← Đổi phần luyện", exact: true })
 			.click()
-		await page.getByLabel("Chủ đề", { exact: true }).selectOption("all")
 		await page
-			.getByRole("button", { name: "Thi thử 20 câu ngẫu nhiên", exact: true })
+			.getByRole("button", {
+				name: "Đề thi: 2 câu / chủ đề (24 câu)",
+				exact: true
+			})
 			.click()
-		assert.equal(await page.locator("progress").getAttribute("max"), "20")
+		assert.equal(await page.locator("progress").getAttribute("max"), "24")
+		const exam = await page.evaluate(
+			() => JSON.parse(localStorage.getItem("jpd113-speaking-v1")).queue
+		)
+		assert.equal(new Set(exam).size, 24)
+		for (const category of new Set(categories.values())) {
+			assert.equal(
+				exam.filter(
+					(id) => categories.get(questions.get(id).sceneId) === category
+				).length,
+				2
+			)
+		}
 		await page.setViewportSize({ width: 375, height: 812 })
 		await page.screenshot({
 			path: resolve(output, "practice-mobile.png"),
@@ -178,12 +192,13 @@ mkdirSync(output, { recursive: true })
 			"mobile overflow"
 		)
 		await page.emulateMedia({ colorScheme: "dark" })
-		await page.locator("figure img").evaluate(async (im) => {
-			await im.decode()
-			await new Promise((resolve) =>
-				requestAnimationFrame(() => requestAnimationFrame(resolve))
-			)
-		})
+		if (await page.locator("figure img").count())
+			await page.locator("figure img").evaluate(async (im) => {
+				await im.decode()
+				await new Promise((resolve) =>
+					requestAnimationFrame(() => requestAnimationFrame(resolve))
+				)
+			})
 		await page.screenshot({
 			path: resolve(output, "practice-mobile-dark.png"),
 			fullPage: true

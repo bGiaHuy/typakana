@@ -5,6 +5,7 @@
 	import { shuffleArray } from "$/lib/random"
 	import {
 		readSession,
+		createExam,
 		selectQuestions,
 		type Rating
 	} from "$/lib/speaking/session"
@@ -105,9 +106,13 @@
 			document.querySelector(".session-bar")?.scrollIntoView({ block: "start" })
 	}
 
-	function start(limit?: number) {
-		const selected = random || limit ? shuffleArray(available) : available
-		queue = selected.slice(0, limit).map((q) => q.id)
+	function start(exam = false) {
+		const selected = exam
+			? createExam(deck.questions, deck.scenes)
+			: random
+				? shuffleArray(available)
+				: available
+		queue = selected.map((q) => q.id)
 		index = 0
 		active = queue.length > 0
 		resetCard()
@@ -332,12 +337,8 @@
 					>
 						Bắt đầu luyện
 					</Button>
-					<Button
-						style="outline"
-						disabled={!ready || !available.length}
-						onclick={() => start(20)}
-					>
-						Thi thử 20 câu ngẫu nhiên
+					<Button style="outline" disabled={!ready} onclick={() => start(true)}>
+						Đề thi: 2 câu / chủ đề (24 câu)
 					</Button>
 					{#if queue.length && !finished}<Button
 							style="outline"
@@ -349,6 +350,10 @@
 							Tiếp tục câu {index + 1}/{queue.length}
 						</Button>{/if}
 				</div>
+				<p>
+					Đề thi lấy ngẫu nhiên 2 câu từ mỗi chủ đề, đủ 12 mục và trộn thứ tự;
+					không giới hạn theo bộ lọc luyện tập ở trên.
+				</p>
 				{#if !available.length}<p role="status">
 						Không có câu phù hợp. Đổi chủ đề hoặc chọn “Tất cả câu hỏi”.
 					</p>{/if}

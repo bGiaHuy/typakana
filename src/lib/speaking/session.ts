@@ -1,3 +1,5 @@
+import { shuffleArray } from "../random.ts"
+
 export type Rating = "remembered" | "review"
 export type SpeakingSession = {
 	ratings: Record<string, Rating>
@@ -52,5 +54,19 @@ export function selectQuestions<T extends { id: string; sceneId: string }>(
 			scenes.has(q.sceneId) &&
 			(mode === "all" ||
 				(mode === "review" ? ratings[q.id] === "review" : !ratings[q.id]))
+	)
+}
+
+export function createExam<T extends { id: string; sceneId: string }>(
+	questions: T[],
+	scenes: { id: string; category: string }[]
+): T[] {
+	const categories = new Map(scenes.map((s) => [s.id, s.category]))
+	return shuffleArray(
+		[...new Set(categories.values())].flatMap((category) =>
+			shuffleArray(
+				questions.filter((q) => categories.get(q.sceneId) === category)
+			).slice(0, 2)
+		)
 	)
 }

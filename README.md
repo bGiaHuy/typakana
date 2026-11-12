@@ -48,7 +48,8 @@ Open `/speaking` (also linked on the home page). The personal study deck contain
 
 By default, questions are shuffled across all topics. Choose a topic/picture,
 disable shuffle to practise every question in picture order, or
-take a random 20-question round. Reveal the sample answer after speaking and mark
+take a 24-question exam with exactly two random questions from each of all 12
+topics, shuffled together regardless of practice filters. Reveal the sample answer after speaking and mark
 it as remembered or needing review. Ratings and the current round are stored in
 this browser; optional written answers and recordings are temporary. Recordings
 stay in the tab and are discarded when changing questions. There is no automatic

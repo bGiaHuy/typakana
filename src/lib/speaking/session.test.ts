@@ -1,12 +1,33 @@
 import assert from "node:assert/strict"
 import { test } from "node:test"
 import { readFileSync, existsSync } from "node:fs"
-import { readSession, selectQuestions } from "./session.ts"
+import { readSession, selectQuestions, createExam } from "./session.ts"
 
 const deck = JSON.parse(
 	readFileSync(new URL("./deck.json", import.meta.url), "utf8")
 )
 const ids: string[] = deck.questions.map((q: { id: string }) => q.id)
+
+test("exam draws exactly two distinct questions from each of the twelve topics", () => {
+	const scenes = new Map<string, string>(
+		deck.scenes.map((s: { id: string; category: string }) => [s.id, s.category])
+	)
+	for (let attempt = 0; attempt < 30; attempt++) {
+		const exam = createExam(
+			deck.questions as { id: string; sceneId: string }[],
+			deck.scenes
+		)
+		assert.equal(exam.length, 24)
+		assert.equal(new Set(exam.map((q) => q.id)).size, 24)
+		const counts = new Map<string, number>()
+		for (const q of exam) {
+			const category = scenes.get(q.sceneId)!
+			counts.set(category, (counts.get(category) ?? 0) + 1)
+		}
+		assert.equal(counts.size, 12)
+		assert.ok([...counts.values()].every((count) => count === 2))
+	}
+})
 
 test("every cropped scene has questions and an existing asset; all exercise pages are covered", () => {
 	assert.equal(new Set(ids).size, ids.length)
