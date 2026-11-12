@@ -50,7 +50,14 @@ By default, questions are shuffled across all topics. Choose a topic/picture,
 disable shuffle to practise every question in picture order, or
 take a 24-question exam with exactly two random questions from each of all 12
 topics, shuffled together regardless of practice filters. Reveal the sample answer after speaking and mark
-it as remembered or needing review. Ratings and the current round are stored in
+it as remembered or needing review. You can type Romaji or Japanese and press Enter (or use the
+check button) to compare with the sample answer; editing clears the old result.
+The checker accepts spaces, punctuation, IME variants and explicit long vowels
+such as `karee`/`karē`, `kouen`/`kōen`. It checks a sample match, not every possible
+correct paraphrase. Personal and open-ended place questions remain self-reviewed
+when they differ from the sample. Answers also display Romaji.
+
+Ratings and the current round are stored in
 this browser; optional written answers and recordings are temporary. Recordings
 stay in the tab and are discarded when changing questions. There is no automatic
 pronunciation grading. Japanese speech uses the device's installed Japanese

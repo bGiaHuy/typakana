@@ -111,8 +111,12 @@ mkdirSync(output, { recursive: true })
 				)
 		)
 		await page
-			.getByRole("button", { name: "Xem đáp án mẫu", exact: true })
+			.getByRole("button", { name: "Kiểm tra Romaji", exact: true })
 			.click()
+		await page
+			.getByRole("status")
+			.filter({ hasText: "Đúng — khớp đáp án mẫu" })
+			.waitFor()
 		assert.ok(
 			(await page.locator(".answer").innerText()).includes("オリビアさんです。")
 		)
@@ -153,11 +157,42 @@ mkdirSync(output, { recursive: true })
 		await page
 			.getByRole("button", { name: "Chọn lượt luyện mới", exact: true })
 			.click()
+		await page.getByLabel("Chủ đề", { exact: true }).selectOption("objects")
+		await page
+			.getByLabel("Ảnh / tình huống", { exact: true })
+			.selectOption("p038-object-14")
+		await page
+			.getByRole("button", { name: "Bắt đầu luyện", exact: true })
+			.click()
+		await page.locator("textarea").fill("kare desu")
+		await page.locator("textarea").press("Enter")
+		await page
+			.getByRole("status")
+			.filter({ hasText: "Chưa khớp đáp án mẫu" })
+			.waitFor()
+		await page.locator("textarea").fill("karē desu")
+		assert.equal(await page.getByRole("status").count(), 0)
+		await page
+			.getByRole("button", { name: "Kiểm tra Romaji", exact: true })
+			.click()
+		await page
+			.getByRole("status")
+			.filter({ hasText: "Đúng — khớp đáp án mẫu" })
+			.waitFor()
+		assert.ok(
+			(await page.locator(".answer").innerText()).includes("karee desu")
+		)
+		await page
+			.getByRole("button", { name: "← Đổi phần luyện", exact: true })
+			.click()
 		await page.getByLabel("Chủ đề", { exact: true }).selectOption("personal")
 		await page
 			.getByRole("button", { name: "Bắt đầu luyện", exact: true })
 			.click()
 		assert.equal(await page.locator("figure img").count(), 0)
+		await page.locator("textarea").fill("watashi wa tarou desu")
+		await page.locator("textarea").press("Enter")
+		await page.getByRole("status").filter({ hasText: "Câu hỏi mở" }).waitFor()
 		await page
 			.getByRole("button", { name: "← Đổi phần luyện", exact: true })
 			.click()

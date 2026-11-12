@@ -2,11 +2,45 @@ import assert from "node:assert/strict"
 import { test } from "node:test"
 import { readFileSync, existsSync } from "node:fs"
 import { readSession, selectQuestions, createExam } from "./session.ts"
+import { answerRomaji, checkRomaji } from "./answer.ts"
 
 const deck = JSON.parse(
 	readFileSync(new URL("./deck.json", import.meta.url), "utf8")
 )
 const ids: string[] = deck.questions.map((q: { id: string }) => q.id)
+
+test("Romaji answers accept kana, punctuation, IME spellings and explicit long vowels", () => {
+	for (const input of [
+		"karee desu",
+		"KARĒ DESU!",
+		"カレーです。",
+		"かれーです",
+		"ｋａｒｅｅ ｄｅｓｕ"
+	]) {
+		assert.ok(checkRomaji(input, "カレーです。"), input)
+	}
+	assert.ok(checkRomaji("kōen e ikimasu", "こうえんへ いきます。"))
+	assert.ok(checkRomaji("kouen e ikimasu", "こうえんへ いきます。"))
+	assert.ok(
+		checkRomaji("sitiji ni pan wo tabemasu", "しちじに パンを たべます。")
+	)
+	assert.ok(checkRomaji("watashi wa fui desu", "わたしは フイです。"))
+	assert.equal(answerRomaji("こうえんへ いきます。"), "kouen e ikimasu.")
+	assert.equal(answerRomaji("カレーです。"), "karee desu.")
+	for (const input of [
+		"",
+		"...",
+		"kare desu",
+		"pan desu",
+		"karee desu ka",
+		"karee deshita"
+	]) {
+		assert.equal(checkRomaji(input, "カレーです。"), false, input)
+	}
+	assert.equal(checkRomaji("rokuji ni okimasu", "しちじに おきます。"), false)
+	for (const q of deck.questions)
+		assert.ok(checkRomaji(answerRomaji(q.answer), q.answer), q.id)
+})
 
 test("exam draws exactly two distinct questions from each of the twelve topics", () => {
 	const scenes = new Map<string, string>(

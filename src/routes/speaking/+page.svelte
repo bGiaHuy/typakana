@@ -3,6 +3,7 @@
 	import Button from "$/components/Button.svelte"
 	import deck from "$/lib/speaking/deck.json"
 	import { shuffleArray } from "$/lib/random"
+	import { answerRomaji, checkRomaji } from "$/lib/speaking/answer"
 	import {
 		readSession,
 		createExam,
@@ -39,6 +40,7 @@
 	let revealed = $state(false)
 	let showTranslation = $state(false)
 	let draft = $state("")
+	let answerCheck = $state<"match" | "different" | "open" | null>(null)
 	let message = $state("")
 	let storageMessage = $state("")
 	let voiceAvailable = $state(false)
@@ -100,6 +102,7 @@
 		revealed = false
 		showTranslation = false
 		draft = ""
+		answerCheck = null
 		message = ""
 		await tick()
 		if (active)
@@ -116,6 +119,17 @@
 		index = 0
 		active = queue.length > 0
 		resetCard()
+	}
+
+	function checkDraft() {
+		if (!current || !scene || !draft.trim()) return
+		if (recording) recorder?.stop()
+		answerCheck = checkRomaji(draft, current.answer)
+			? "match"
+			: ["personal", "places"].includes(scene.category)
+				? "open"
+				: "different"
+		revealed = true
 	}
 
 	function advance(rating?: Rating) {
@@ -508,14 +522,44 @@
 						</small>{/if}
 					{#if showTranslation}<p class="translation">{current.vi}</p>{/if}
 					<label class="draft-label" for="answer">
-						Câu trả lời của bạn <small>(không bắt buộc gõ)</small>
+						Câu trả lời của bạn <small>(Romaji hoặc tiếng Nhật)</small>
 					</label>
 					<textarea
 						id="answer"
 						bind:value={draft}
-						placeholder="Nói thành tiếng hoặc ghi lại câu trả lời ở đây…"
+						oninput={() => {
+							answerCheck = null
+						}}
+						onkeydown={(event) => {
+							if (
+								event.key === "Enter" &&
+								!event.shiftKey &&
+								!event.isComposing
+							) {
+								event.preventDefault()
+								checkDraft()
+							}
+						}}
+						aria-describedby="romaji-help"
+						placeholder="Ví dụ: karee desu"
 						rows="3"
 					></textarea>
+					<small id="romaji-help">
+						Enter để kiểm tra · Shift+Enter xuống dòng. Nhớ gõ đủ trường âm:
+						karee, kōhī / koohii.
+					</small>
+					<div class="actions reveal">
+						<Button disabled={!draft.trim()} onclick={checkDraft}>
+							Kiểm tra Romaji
+						</Button>
+					</div>
+					{#if answerCheck}<p class="notice" role="status">
+							{answerCheck === "match"
+								? "✓ Đúng — khớp đáp án mẫu."
+								: answerCheck === "open"
+									? "Câu hỏi mở: hãy tự đối chiếu nội dung và ngữ pháp; thông tin của bạn có thể khác mẫu."
+									: "Chưa khớp đáp án mẫu. Kiểm tra từ, số và trường âm; cách diễn đạt khác vẫn có thể đúng."}
+						</p>{/if}
 					<div class="recording">
 						<button
 							class="plain"
@@ -555,6 +599,7 @@
 						<section class="answer" aria-label="Đáp án mẫu" aria-live="polite">
 							<p class="eyebrow">Đáp án mẫu · tự đối chiếu</p>
 							<p lang="ja">{current.answer}</p>
+							<p lang="ja-Latn">{answerRomaji(current.answer)}</p>
 							{#if current.note}<p class="answer-note">{current.note}</p>{/if}
 							<button
 								class="plain"
