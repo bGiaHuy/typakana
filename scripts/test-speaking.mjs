@@ -38,6 +38,35 @@ mkdirSync(output, { recursive: true })
 		await page
 			.getByRole("button", { name: "Bắt đầu luyện", exact: true })
 			.waitFor()
+		const shuffle = page.getByRole("checkbox", { name: /Trộn ngẫu nhiên/ })
+		assert.ok(await shuffle.isChecked(), "shuffle is enabled by default")
+		assert.equal(
+			await page.getByLabel("Chủ đề", { exact: true }).inputValue(),
+			"all"
+		)
+		await page
+			.getByRole("button", { name: "Bắt đầu luyện", exact: true })
+			.click()
+		const mixed = await page.evaluate(
+			() => JSON.parse(localStorage.getItem("jpd113-speaking-v1")).queue
+		)
+		assert.equal(mixed.length, deck.questions.length)
+		assert.equal(new Set(mixed).size, deck.questions.length)
+		assert.notDeepEqual(
+			mixed,
+			deck.questions.map((q) => q.id)
+		)
+		const categories = new Map(deck.scenes.map((s) => [s.id, s.category]))
+		const questions = new Map(deck.questions.map((q) => [q.id, q]))
+		assert.equal(
+			new Set(mixed.map((id) => categories.get(questions.get(id).sceneId)))
+				.size,
+			12
+		)
+		await page
+			.getByRole("button", { name: "← Đổi phần luyện", exact: true })
+			.click()
+		await shuffle.uncheck()
 		await page.getByLabel("Chủ đề", { exact: true }).selectOption("intro")
 		await page
 			.getByLabel("Ảnh / tình huống", { exact: true })
@@ -49,6 +78,7 @@ mkdirSync(output, { recursive: true })
 			.getByRole("heading", { name: "このひとの おなまえは なんですか。" })
 			.waitFor()
 		assert.equal(await page.locator(".answer").count(), 0)
+		await page.locator("figure img").evaluate((im) => im.decode())
 		assert.ok(
 			await page
 				.locator("figure img")

@@ -46,7 +46,8 @@ Open `/speaking` (also linked on the home page). The personal study deck contain
 171 cropped images from 70 exercise pages of **JPD113 - Speaking (Q&A) (7).pdf**
 (AnhNH88), plus personal questions: 733 questions in 12 topics.
 
-Choose a topic/picture, practise every question in picture order or shuffle, or
+By default, questions are shuffled across all topics. Choose a topic/picture,
+disable shuffle to practise every question in picture order, or
 take a random 20-question round. Reveal the sample answer after speaking and mark
 it as remembered or needing review. Ratings and the current round are stored in
 this browser; optional written answers and recordings are temporary. Recordings

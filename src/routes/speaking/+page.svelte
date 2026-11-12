@@ -34,7 +34,7 @@
 	let topic = $state("all")
 	let picture = $state("all")
 	let mode = $state<"all" | "review" | "unseen">("all")
-	let random = $state(false)
+	let random = $state(true)
 	let revealed = $state(false)
 	let showTranslation = $state(false)
 	let draft = $state("")
@@ -318,7 +318,8 @@
 				</div>
 				<label class="check">
 					<input type="checkbox" bind:checked={random} />
-					Xáo trộn câu hỏi (bỏ chọn để hỏi lần lượt hết từng ảnh)
+					Trộn ngẫu nhiên câu hỏi giữa các chủ đề đã chọn (bỏ chọn để luyện theo từng
+					ảnh)
 				</label>
 				<p>
 					<strong>{available.length}</strong>
